@@ -106,21 +106,19 @@ layout: country.html
 
 <img class="country__flag" src="/flags/${country.code.toLowerCase()}.svg">
 <h1 class="country__name">${country.common_name}</h1>
-<table class="country__table">
-    <tbody>
-        <tr>
-            <th scope="row">Official Name</th>
-            <td>${country.name}</td>
-        </tr>
-        <tr>
-            <th scope="row">Capital</td>
-            <td>${country.capital ? country.capital : '-'}</th>
-        </tr>
-        <tr>
-            <th scope="row">Country Code</th>
-            <td>${country.code}</td>
-        </tr>
-    </tbody>
-</table>`;
+<div class="country__data">
+    <div class="country__data-item">
+        <div class="country__data-label">Capital</div>
+        <div class="country__data-value">${country.capital ? country.capital : '-'}</div>
+    </div>
+    <div class="country__data-item">
+        <div class="country__data-label">Official Name</div>
+        <div class="country__data-value">${country.name}</div>
+    </div>
+    <div class="country__data-item">
+        <div class="country__data-label">Counry Code</div>
+        <div class="country__data-value">${country.code}</div>
+    </div>
+</div>`;
 
 }

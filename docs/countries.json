@@ -201,25 +201,17 @@
     },
     {
         "code": "BO",
-        "name": "Bolivia (Plurinational State of)",
+        "name": "Plurinational State of Bolivia",
         "common_name": "Bolivia",
         "capital": null,
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/bo.svg"
     },
     {
-        "code": "BQ",
-        "name": "Bonaire, Sint Eustatius and Saba",
-        "common_name": "Bonaire, Sint Eustatius and Saba",
-        "capital": null,
-        "independent": false,
-        "flag_url": "https://countries.ekmwest.io/flags/bq.svg"
-    },
-    {
         "code": "BA",
         "name": "Bosnia and Herzegovina",
         "common_name": "Bosnia and Herzegovina",
-        "capital": null,
+        "capital": "Sarajevo",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/ba.svg"
     },
@@ -227,7 +219,7 @@
         "code": "BW",
         "name": "Botswana",
         "common_name": "Botswana",
-        "capital": null,
+        "capital": "Gaborone",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/bw.svg"
     },
@@ -243,7 +235,7 @@
         "code": "BR",
         "name": "Brazil",
         "common_name": "Brazil",
-        "capital": null,
+        "capital": "Brasilia",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/br.svg"
     },
@@ -258,7 +250,7 @@
     {
         "code": "BN",
         "name": "Brunei Darussalam",
-        "common_name": "Brunei Darussalam",
+        "common_name": "Brunei",
         "capital": null,
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/bn.svg"
@@ -320,6 +312,14 @@
         "flag_url": "https://countries.ekmwest.io/flags/ca.svg"
     },
     {
+        "code": "BQ",
+        "name": "Bonaire, Sint Eustatius and Saba",
+        "common_name": "Caribbean Netherlands",
+        "capital": null,
+        "independent": false,
+        "flag_url": "https://countries.ekmwest.io/flags/bq.svg"
+    },
+    {
         "code": "KY",
         "name": "Cayman Islands",
         "common_name": "Cayman Islands",
@@ -370,7 +370,7 @@
     {
         "code": "CC",
         "name": "Cocos (Keeling) Islands",
-        "common_name": "Cocos (Keeling) Islands",
+        "common_name": "Cocos Islands",
         "capital": null,
         "independent": false,
         "flag_url": "https://countries.ekmwest.io/flags/cc.svg"
@@ -393,7 +393,7 @@
     },
     {
         "code": "CD",
-        "name": "Congo, Democratic Republic of the",
+        "name": "Democratic Republic of the Congo",
         "common_name": "Congo",
         "capital": null,
         "independent": true,

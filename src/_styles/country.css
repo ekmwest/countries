@@ -20,19 +20,24 @@
     font-size: 1.6em;
 }
 
-.country__table {
-    margin: 0 auto;
+.country__data {
 }
 
-.country__table th {
+.country__data-item {
+    display: flex;
+}
+
+.country__data-label {
+    width: 50%;
     text-align: right;
     font-weight: 600;
-    padding: .3em .5em;
+    padding: .3em .3em;
     line-height: 1.1;
 }
 
-.country__table td {
+.country__data-value {
+    width: 50%;
     text-align: left;
-    padding: .3em .5em;
+    padding: .3em .3em;
     line-height: 1.1;
 }
