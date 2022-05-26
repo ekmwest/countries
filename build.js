@@ -68,9 +68,9 @@ async function makeCountryIncludes(countries) {
 
     for (const country of countries) {
         htmlElements.push(`
-            <a class="country" href="/countries/${country.code.toLowerCase()}/">
-                <img class="flag" src="/flags/${country.code.toLowerCase()}.svg" alt="${country.common_name}" />
-                <span class="name">${country.common_name}</span>
+            <a class="index__country" href="/countries/${country.code.toLowerCase()}/">
+                <img class="index__flag" src="/flags/${country.code.toLowerCase()}.svg" alt="${country.common_name}" />
+                <span class="index__name">${country.common_name}</span>
             </a>`);
     }
 
@@ -104,6 +104,23 @@ title: ${country.name}
 layout: country.html
 ---
 
-<h1>${country.name}</h1>
-<img src="/flags/${country.code.toLowerCase()}.svg">`
+<img class="country__flag" src="/flags/${country.code.toLowerCase()}.svg">
+<h1 class="country__name">${country.common_name}</h1>
+<table class="country__table">
+    <tbody>
+        <tr>
+            <th scope="row">Official Name</th>
+            <td>${country.name}</td>
+        </tr>
+        <tr>
+            <th scope="row">Capital</td>
+            <td>${country.capital ? country.capital : '-'}</th>
+        </tr>
+        <tr>
+            <th scope="row">Country Code</th>
+            <td>${country.code}</td>
+        </tr>
+    </tbody>
+</table>`;
+
 }

@@ -51,7 +51,7 @@ export let countries = [
         "code": "AI",
         "name": "Anguilla",
         "common_name": "Anguilla",
-        "capital": null,
+        "capital": "The Valley",
         "independent": false,
         "flag_url": "https://countries.ekmwest.io/flags/ai.svg"
     },
@@ -67,7 +67,7 @@ export let countries = [
         "code": "AG",
         "name": "Antigua and Barbuda",
         "common_name": "Antigua and Barbuda",
-        "capital": null,
+        "capital": "St. John's",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/ag.svg"
     },
@@ -75,7 +75,7 @@ export let countries = [
         "code": "AR",
         "name": "Argentina",
         "common_name": "Argentina",
-        "capital": null,
+        "capital": "Buenos Aires",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/ar.svg"
     },
@@ -83,7 +83,7 @@ export let countries = [
         "code": "AM",
         "name": "Armenia",
         "common_name": "Armenia",
-        "capital": null,
+        "capital": "Yerevan",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/am.svg"
     },
@@ -91,7 +91,7 @@ export let countries = [
         "code": "AW",
         "name": "Aruba",
         "common_name": "Aruba",
-        "capital": null,
+        "capital": "Oranjestad",
         "independent": false,
         "flag_url": "https://countries.ekmwest.io/flags/aw.svg"
     },
@@ -99,7 +99,7 @@ export let countries = [
         "code": "AU",
         "name": "Australia",
         "common_name": "Australia",
-        "capital": null,
+        "capital": "Canberra",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/au.svg"
     },
@@ -107,7 +107,7 @@ export let countries = [
         "code": "AT",
         "name": "Austria",
         "common_name": "Austria",
-        "capital": null,
+        "capital": "Vienna",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/at.svg"
     },
@@ -115,7 +115,7 @@ export let countries = [
         "code": "AZ",
         "name": "Azerbaijan",
         "common_name": "Azerbaijan",
-        "capital": null,
+        "capital": "Baku",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/az.svg"
     },
@@ -123,7 +123,7 @@ export let countries = [
         "code": "BS",
         "name": "Bahamas",
         "common_name": "Bahamas",
-        "capital": null,
+        "capital": "Nassau",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/bs.svg"
     },
@@ -131,7 +131,7 @@ export let countries = [
         "code": "BH",
         "name": "Bahrain",
         "common_name": "Bahrain",
-        "capital": null,
+        "capital": "Manama",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/bh.svg"
     },
@@ -139,7 +139,7 @@ export let countries = [
         "code": "BD",
         "name": "Bangladesh",
         "common_name": "Bangladesh",
-        "capital": null,
+        "capital": "Dhaka",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/bd.svg"
     },
@@ -147,7 +147,7 @@ export let countries = [
         "code": "BB",
         "name": "Barbados",
         "common_name": "Barbados",
-        "capital": null,
+        "capital": "Bridgetown",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/bb.svg"
     },
@@ -155,7 +155,7 @@ export let countries = [
         "code": "BY",
         "name": "Belarus",
         "common_name": "Belarus",
-        "capital": null,
+        "capital": "Minsk",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/by.svg"
     },
@@ -163,7 +163,7 @@ export let countries = [
         "code": "BE",
         "name": "Belgium",
         "common_name": "Belgium",
-        "capital": null,
+        "capital": "Brussels",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/be.svg"
     },
@@ -171,7 +171,7 @@ export let countries = [
         "code": "BZ",
         "name": "Belize",
         "common_name": "Belize",
-        "capital": null,
+        "capital": "Belmopan",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/bz.svg"
     },
@@ -179,7 +179,7 @@ export let countries = [
         "code": "BJ",
         "name": "Benin",
         "common_name": "Benin",
-        "capital": null,
+        "capital": "Porto-Novo",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/bj.svg"
     },
@@ -187,7 +187,7 @@ export let countries = [
         "code": "BM",
         "name": "Bermuda",
         "common_name": "Bermuda",
-        "capital": null,
+        "capital": "Hamilton",
         "independent": false,
         "flag_url": "https://countries.ekmwest.io/flags/bm.svg"
     },
@@ -195,7 +195,7 @@ export let countries = [
         "code": "BT",
         "name": "Bhutan",
         "common_name": "Bhutan",
-        "capital": null,
+        "capital": "Thimphu",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/bt.svg"
     },
@@ -1145,7 +1145,7 @@ export let countries = [
     },
     {
         "code": "MD",
-        "name": "Moldova, Republic of",
+        "name": "Republic of Moldova",
         "common_name": "Moldova",
         "capital": null,
         "independent": true,
@@ -1297,7 +1297,7 @@ export let countries = [
     },
     {
         "code": "KP",
-        "name": "Korea (Democratic People's Republic of)",
+        "name": "Democratic People's Republic of Korea",
         "common_name": "North Korea",
         "capital": null,
         "independent": true,

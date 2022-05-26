@@ -1,0 +1,38 @@
+.country__body {
+    background-color: #f0f0f0;
+}
+.country__flag {
+    display: block;
+    width: 100%;
+    max-height: 50vh;
+    object-fit: contain;
+    margin: 0 auto;
+}
+
+.country__name {
+    font-size: 3em;
+    margin: 1em 0 .3em;
+    line-height: 1.1;
+    text-align: center;
+}
+
+.is-mobile .country__name {
+    font-size: 1.6em;
+}
+
+.country__table {
+    margin: 0 auto;
+}
+
+.country__table th {
+    text-align: right;
+    font-weight: 600;
+    padding: .3em .5em;
+    line-height: 1.1;
+}
+
+.country__table td {
+    text-align: left;
+    padding: .3em .5em;
+    line-height: 1.1;
+}
