@@ -8,6 +8,17 @@
     gap: 4px;
 }
 
+.index__form {
+    display: block;
+    padding: 1em 0;
+    text-align: center;
+}
+
+.index__search-input {
+    border-color: blue;
+    padding: .5em;
+}
+
 .index__country {
     width: 128px;
     height: 98px;

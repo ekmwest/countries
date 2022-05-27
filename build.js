@@ -68,7 +68,7 @@ async function makeCountryIncludes(countries) {
 
     for (const country of countries) {
         htmlElements.push(`
-            <a class="index__country" href="/countries/${country.code.toLowerCase()}/">
+            <a class="index__country" href="/countries/${country.code.toLowerCase()}/" data-country-name="${country.common_name}" data-independent="${country.independent ? 'true' : 'false'}">
                 <img class="index__flag" src="/flags/${country.code.toLowerCase()}.svg" alt="${country.common_name}" />
                 <span class="index__name">${country.common_name}</span>
             </a>`);
@@ -116,7 +116,7 @@ layout: country.html
         <div class="country__data-value">${country.name}</div>
     </div>
     <div class="country__data-item">
-        <div class="country__data-label">Counry Code</div>
+        <div class="country__data-label">Country Code</div>
         <div class="country__data-value">${country.code}</div>
     </div>
 </div>`;

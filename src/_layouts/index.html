@@ -4,9 +4,31 @@
 <head>
     <!-- head.html -->
     <link rel="stylesheet" href="/_styles/index.css" />
+    <script defer src="/_scripts/index.js"></script>
 </head>
 
 <body class="index__body">
+    <header class="index__header">
+        <form class="index__form">
+            <input type="text" class="index__search-input" data-element="index.search-input" />
+            <label>
+                <input type="radio" name="independence" value="all" checked />
+                <span>All</span>
+            </label>
+            <label>
+                <input type="radio" name="independence" value="independent" />
+                <span>Independent</span>
+            </label>
+            <label>
+                <input type="radio" name="independence" value="dependent" />
+                <span>Dependent</span>
+            </label>
+            <label>
+                <input type="checkbox" name="hide-name" />
+                <span>Hide names</span>
+            </label>
+        </form>
+    </header>
     <main class="index__main">
         {{ content }}
     </main>
