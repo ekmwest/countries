@@ -9,7 +9,7 @@
         "title": "United Arab Emirates",
         "description": "",
         "url": "/countries/ae/index.html",
-        "content": "United Arab Emirates Capital - Official Name United Arab Emirates Country Code AE"
+        "content": "United Arab Emirates Capital Abu Dhabi Official Name United Arab Emirates Country Code AE"
     },
     {
         "title": "Afghanistan",
@@ -87,7 +87,7 @@
         "title": "Åland Islands",
         "description": "",
         "url": "/countries/ax/index.html",
-        "content": "Åland Islands Capital - Official Name Åland Islands Country Code AX"
+        "content": "Åland Islands Capital Mariehamn Official Name Åland Islands Country Code AX"
     },
     {
         "title": "Azerbaijan",
@@ -123,13 +123,13 @@
         "title": "Burkina Faso",
         "description": "",
         "url": "/countries/bf/index.html",
-        "content": "Burkina Faso Capital - Official Name Burkina Faso Country Code BF"
+        "content": "Burkina Faso Capital Ouagadougou Official Name Burkina Faso Country Code BF"
     },
     {
         "title": "Bulgaria",
         "description": "",
         "url": "/countries/bg/index.html",
-        "content": "Bulgaria Capital - Official Name Bulgaria Country Code BG"
+        "content": "Bulgaria Capital Sofia Official Name Bulgaria Country Code BG"
     },
     {
         "title": "Bahrain",
@@ -141,7 +141,7 @@
         "title": "Burundi",
         "description": "",
         "url": "/countries/bi/index.html",
-        "content": "Burundi Capital - Official Name Burundi Country Code BI"
+        "content": "Burundi Capital Gitega Official Name Burundi Country Code BI"
     },
     {
         "title": "Benin",
@@ -153,7 +153,7 @@
         "title": "Saint Barthélemy",
         "description": "",
         "url": "/countries/bl/index.html",
-        "content": "Saint Barthélemy Capital - Official Name Saint Barthélemy Country Code BL"
+        "content": "Saint Barthélemy Capital Gustavia Official Name Saint Barthélemy Country Code BL"
     },
     {
         "title": "Bermuda",
@@ -165,7 +165,7 @@
         "title": "Brunei Darussalam",
         "description": "",
         "url": "/countries/bn/index.html",
-        "content": "Brunei Capital - Official Name Brunei Darussalam Country Code BN"
+        "content": "Brunei Capital Bandar Seri Official Name Brunei Darussalam Country Code BN"
     },
     {
         "title": "Plurinational State of Bolivia",
@@ -225,13 +225,13 @@
         "title": "Canada",
         "description": "",
         "url": "/countries/ca/index.html",
-        "content": "Canada Capital - Official Name Canada Country Code CA"
+        "content": "Canada Capital Ottawa Official Name Canada Country Code CA"
     },
     {
         "title": "Cocos (Keeling) Islands",
         "description": "",
         "url": "/countries/cc/index.html",
-        "content": "Cocos Islands Capital - Official Name Cocos (Keeling) Islands Country Code CC"
+        "content": "Cocos Islands Capital West Island Official Name Cocos (Keeling) Islands Country Code CC"
     },
     {
         "title": "Democratic Republic of the Congo",
@@ -243,7 +243,7 @@
         "title": "Central African Republic",
         "description": "",
         "url": "/countries/cf/index.html",
-        "content": "Central African Republic Capital - Official Name Central African Republic Country Code CF"
+        "content": "Central African Republic Capital Bangui Official Name Central African Republic Country Code CF"
     },
     {
         "title": "Congo",
@@ -273,25 +273,25 @@
         "title": "Chile",
         "description": "",
         "url": "/countries/cl/index.html",
-        "content": "Chile Capital - Official Name Chile Country Code CL"
+        "content": "Chile Capital Santiago Official Name Chile Country Code CL"
     },
     {
         "title": "Cameroon",
         "description": "",
         "url": "/countries/cm/index.html",
-        "content": "Cameroon Capital - Official Name Cameroon Country Code CM"
+        "content": "Cameroon Capital Yaoundé Official Name Cameroon Country Code CM"
     },
     {
         "title": "China",
         "description": "",
         "url": "/countries/cn/index.html",
-        "content": "China Capital - Official Name China Country Code CN"
+        "content": "China Capital Beijing Official Name China Country Code CN"
     },
     {
         "title": "Colombia",
         "description": "",
         "url": "/countries/co/index.html",
-        "content": "Colombia Capital - Official Name Colombia Country Code CO"
+        "content": "Colombia Capital Bogotá Official Name Colombia Country Code CO"
     },
     {
         "title": "Costa Rica",
@@ -309,7 +309,7 @@
         "title": "Cabo Verde",
         "description": "",
         "url": "/countries/cv/index.html",
-        "content": "Cabo Verde Capital - Official Name Cabo Verde Country Code CV"
+        "content": "Cabo Verde Capital Praia Official Name Cabo Verde Country Code CV"
     },
     {
         "title": "Curaçao",
@@ -321,7 +321,7 @@
         "title": "Christmas Island",
         "description": "",
         "url": "/countries/cx/index.html",
-        "content": "Christmas Island Capital - Official Name Christmas Island Country Code CX"
+        "content": "Christmas Island Capital Flying Fish Cove Official Name Christmas Island Country Code CX"
     },
     {
         "title": "Cyprus",
@@ -642,10 +642,10 @@
         "content": "Iraq Capital - Official Name Iraq Country Code IQ"
     },
     {
-        "title": "Iran (Islamic Republic of)",
+        "title": "Islamic Republic of Iran",
         "description": "",
         "url": "/countries/ir/index.html",
-        "content": "Iran Capital - Official Name Iran (Islamic Republic of) Country Code IR"
+        "content": "Iran Capital - Official Name Islamic Republic of Iran Country Code IR"
     },
     {
         "title": "Iceland",
@@ -699,7 +699,7 @@
         "title": "Cambodia",
         "description": "",
         "url": "/countries/kh/index.html",
-        "content": "Cambodia Capital - Official Name Cambodia Country Code KH"
+        "content": "Cambodia Capital Phnom Penh Official Name Cambodia Country Code KH"
     },
     {
         "title": "Kiribati",
@@ -711,7 +711,7 @@
         "title": "Comoros",
         "description": "",
         "url": "/countries/km/index.html",
-        "content": "Comoros Capital - Official Name Comoros Country Code KM"
+        "content": "Comoros Capital Moroni Official Name Comoros Country Code KM"
     },
     {
         "title": "Saint Kitts and Nevis",
@@ -741,7 +741,7 @@
         "title": "Cayman Islands",
         "description": "",
         "url": "/countries/ky/index.html",
-        "content": "Cayman Islands Capital - Official Name Cayman Islands Country Code KY"
+        "content": "Cayman Islands Capital George Town Official Name Cayman Islands Country Code KY"
     },
     {
         "title": "Kazakhstan",
@@ -1287,7 +1287,7 @@
         "title": "Chad",
         "description": "",
         "url": "/countries/td/index.html",
-        "content": "Chad Capital - Official Name Chad Country Code TD"
+        "content": "Chad Capital N'Djamena Official Name Chad Country Code TD"
     },
     {
         "title": "French Southern Territories",

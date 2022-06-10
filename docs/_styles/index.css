@@ -1,3 +1,7 @@
+.index__body {
+    background-color: #f0f0f0;
+}
+
 .index__main {
     max-width: 1280px;
     margin: 0 auto;
@@ -5,7 +9,7 @@
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    gap: 4px;
+    gap: 4em 2em;
 }
 
 .index__form {
@@ -22,17 +26,19 @@
 .index__country {
     width: 128px;
     height: 98px;
-    padding: .5em;
-    background-color: #f0f0f0;
-    border-radius: 2px;
+    /* padding: .5em; */
+    /* background-color: #fff; */
+    /* border-radius: 2px; */
     color: inherit;
     text-decoration: none;
 }
 
 .index__flag {
     width: 64px;
-    height: 48px;
+    width: 100%;
+    height: 78px;
     object-fit: contain;
+    /* object-fit: cover; */
     display: block;
     margin: 0 auto;
 }
@@ -41,6 +47,6 @@
     text-align: center;
     display: block;
     line-height: 1.1;
-    margin: .1em 0 0;
+    margin: .2em 0 0;
     font-size: 14px;
 }
