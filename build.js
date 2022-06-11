@@ -108,16 +108,16 @@ layout: country.html
 <h1 class="country__name">${country.common_name}</h1>
 <div class="country__data">
     <div class="country__data-item">
-        <div class="country__data-label">Capital</div>
-        <div class="country__data-value">${country.capital ? country.capital : '-'}</div>
-    </div>
-    <div class="country__data-item">
         <div class="country__data-label">Official Name</div>
         <div class="country__data-value">${country.name}</div>
     </div>
     <div class="country__data-item">
         <div class="country__data-label">Country Code</div>
         <div class="country__data-value">${country.code}</div>
+    </div>
+    <div class="country__data-item">
+        <div class="country__data-label">Capital</div>
+        <div class="country__data-value">${country.capital ? country.capital : '-'}</div>
     </div>
 </div>`;
 

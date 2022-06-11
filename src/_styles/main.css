@@ -1,5 +1,6 @@
 body {
     font-family: -apple-system, "Segoe UI", Helvetica, sans-serif;
     margin: 0;
-    background-color: #fff;
+    background-color: #f0f0f0;
+    overflow-y: scroll;
 }

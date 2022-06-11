@@ -1,18 +1,26 @@
 .country__body {
-    background-color: #f0f0f0;
+    /* background-color: #f0f0f0; */
 }
 
 .country__flag {
     display: block;
-    width: 100%;
-    max-height: 60vh;
     object-fit: contain;
     margin: 0 auto;
 }
 
+.is-mobile .country__flag {
+    width: 100%;
+}
+
+.is-desktop .country__flag {
+    max-width: 100%;
+    width: 768px;
+    margin-top: 2em;
+}
+
 .country__name {
     font-size: 3em;
-    margin: 1em 0 .3em;
+    margin: .5em 0 .3em;
     line-height: 1.1;
     text-align: center;
 }
