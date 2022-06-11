@@ -24,11 +24,9 @@
 }
 
 .index__country {
+    contain: strict;
     width: 128px;
     height: 98px;
-    /* padding: .5em; */
-    /* background-color: #fff; */
-    /* border-radius: 2px; */
     color: inherit;
     text-decoration: none;
 }
@@ -38,7 +36,6 @@
     width: 100%;
     height: 78px;
     object-fit: contain;
-    /* object-fit: cover; */
     display: block;
     margin: 0 auto;
 }
