@@ -25,14 +25,13 @@
 
 .index__country {
     contain: strict;
-    width: 128px;
-    height: 98px;
+    width: 160px;
+    height: 116px;
     color: inherit;
     text-decoration: none;
 }
 
 .index__flag {
-    width: 64px;
     width: 100%;
     height: 78px;
     object-fit: contain;
@@ -44,6 +43,6 @@
     text-align: center;
     display: block;
     line-height: 1.1;
-    margin: .2em 0 0;
+    margin: .5em 0 0;
     font-size: 14px;
 }
