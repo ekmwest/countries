@@ -19,8 +19,15 @@
 }
 
 .index__search-input {
-    border-color: blue;
+    border: 1px solid #999;
     padding: .5em;
+    border-radius: 4px;
+    outline: none;
+}
+
+.index__search-input:focus {
+    border: 1px solid #0075ff;
+    box-shadow: 0 0 2px #0075ff;
 }
 
 .index__country {

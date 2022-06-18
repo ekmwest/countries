@@ -70,7 +70,7 @@
     dependentInput.addEventListener('change', filter);
     nameInput.addEventListener('change', filter);
     window.addEventListener('pageshow', filter);
-    searchInput.addEventListener('input', filter);
+    searchInput.addEventListener('input', debouncedFilter);
 
 
 
