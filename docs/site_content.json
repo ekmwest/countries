@@ -237,7 +237,7 @@
         "title": "Democratic Republic of the Congo",
         "description": "",
         "url": "/countries/cd/index.html",
-        "content": "Congo Official Name Democratic Republic of the Congo Country Code CD Capital - Independent Yes console.log('hey')"
+        "content": "Congo Official Name Democratic Republic of the Congo Country Code CD Capital Kinshasa Independent Yes console.log('hey')"
     },
     {
         "title": "Central African Republic",
@@ -246,10 +246,10 @@
         "content": "Central African Republic Official Name Central African Republic Country Code CF Capital Bangui Independent Yes console.log('hey')"
     },
     {
-        "title": "Congo",
+        "title": "Republic of the Congo",
         "description": "",
         "url": "/countries/cg/index.html",
-        "content": "Congo Official Name Congo Country Code CG Capital - Independent Yes console.log('hey')"
+        "content": "Congo Official Name Republic of the Congo Country Code CG Capital Brazzaville Independent Yes console.log('hey')"
     },
     {
         "title": "Switzerland",
@@ -267,7 +267,7 @@
         "title": "Cook Islands",
         "description": "",
         "url": "/countries/ck/index.html",
-        "content": "Cook Islands Official Name Cook Islands Country Code CK Capital - Independent No console.log('hey')"
+        "content": "Cook Islands Official Name Cook Islands Country Code CK Capital Avarua Independent No console.log('hey')"
     },
     {
         "title": "Chile",
@@ -297,13 +297,13 @@
         "title": "Costa Rica",
         "description": "",
         "url": "/countries/cr/index.html",
-        "content": "Costa Rica Official Name Costa Rica Country Code CR Capital - Independent Yes console.log('hey')"
+        "content": "Costa Rica Official Name Costa Rica Country Code CR Capital San José Independent Yes console.log('hey')"
     },
     {
         "title": "Cuba",
         "description": "",
         "url": "/countries/cu/index.html",
-        "content": "Cuba Official Name Cuba Country Code CU Capital - Independent Yes console.log('hey')"
+        "content": "Cuba Official Name Cuba Country Code CU Capital Havana Independent Yes console.log('hey')"
     },
     {
         "title": "Cabo Verde",
@@ -315,7 +315,7 @@
         "title": "Curaçao",
         "description": "",
         "url": "/countries/cw/index.html",
-        "content": "Curaçao Official Name Curaçao Country Code CW Capital - Independent No console.log('hey')"
+        "content": "Curaçao Official Name Curaçao Country Code CW Capital Willemstad Independent No console.log('hey')"
     },
     {
         "title": "Christmas Island",
@@ -327,43 +327,43 @@
         "title": "Cyprus",
         "description": "",
         "url": "/countries/cy/index.html",
-        "content": "Cyprus Official Name Cyprus Country Code CY Capital - Independent Yes console.log('hey')"
+        "content": "Cyprus Official Name Cyprus Country Code CY Capital Nicosia Independent Yes console.log('hey')"
     },
     {
         "title": "Czechia",
         "description": "",
         "url": "/countries/cz/index.html",
-        "content": "Czechia Official Name Czechia Country Code CZ Capital - Independent Yes console.log('hey')"
+        "content": "Czechia Official Name Czechia Country Code CZ Capital Prague Independent Yes console.log('hey')"
     },
     {
-        "title": "Germany",
+        "title": "Federal Republic of Germany",
         "description": "",
         "url": "/countries/de/index.html",
-        "content": "Germany Official Name Germany Country Code DE Capital - Independent Yes console.log('hey')"
+        "content": "Germany Official Name Federal Republic of Germany Country Code DE Capital Berlin Independent Yes console.log('hey')"
     },
     {
         "title": "Djibouti",
         "description": "",
         "url": "/countries/dj/index.html",
-        "content": "Djibouti Official Name Djibouti Country Code DJ Capital - Independent Yes console.log('hey')"
+        "content": "Djibouti Official Name Djibouti Country Code DJ Capital Djibouti Independent Yes console.log('hey')"
     },
     {
         "title": "Denmark",
         "description": "",
         "url": "/countries/dk/index.html",
-        "content": "Denmark Official Name Denmark Country Code DK Capital - Independent Yes console.log('hey')"
+        "content": "Denmark Official Name Denmark Country Code DK Capital Copenhagen Independent Yes console.log('hey')"
     },
     {
         "title": "Dominica",
         "description": "",
         "url": "/countries/dm/index.html",
-        "content": "Dominica Official Name Dominica Country Code DM Capital - Independent Yes console.log('hey')"
+        "content": "Dominica Official Name Dominica Country Code DM Capital Roseau Independent Yes console.log('hey')"
     },
     {
         "title": "Dominican Republic",
         "description": "",
         "url": "/countries/do/index.html",
-        "content": "Dominican Republic Official Name Dominican Republic Country Code DO Capital - Independent Yes console.log('hey')"
+        "content": "Dominican Republic Official Name Dominican Republic Country Code DO Capital Santo Domingo Independent Yes console.log('hey')"
     },
     {
         "title": "Algeria",
@@ -372,22 +372,22 @@
         "content": "Algeria Official Name Algeria Country Code DZ Capital Algiers Independent Yes console.log('hey')"
     },
     {
-        "title": "Ecuador",
+        "title": "Republic of Ecuador",
         "description": "",
         "url": "/countries/ec/index.html",
-        "content": "Ecuador Official Name Ecuador Country Code EC Capital - Independent Yes console.log('hey')"
+        "content": "Ecuador Official Name Republic of Ecuador Country Code EC Capital Quito Independent Yes console.log('hey')"
     },
     {
-        "title": "Estonia",
+        "title": "Republic of Estonia",
         "description": "",
         "url": "/countries/ee/index.html",
-        "content": "Estonia Official Name Estonia Country Code EE Capital - Independent Yes console.log('hey')"
+        "content": "Estonia Official Name Republic of Estonia Country Code EE Capital Tallin Independent Yes console.log('hey')"
     },
     {
-        "title": "Egypt",
+        "title": "Arab Republic of Egypt",
         "description": "",
         "url": "/countries/eg/index.html",
-        "content": "Egypt Official Name Egypt Country Code EG Capital - Independent Yes console.log('hey')"
+        "content": "Egypt Official Name Arab Republic of Egypt Country Code EG Capital Cairo Independent Yes console.log('hey')"
     },
     {
         "title": "Western Sahara",
@@ -396,10 +396,10 @@
         "content": "Western Sahara Official Name Western Sahara Country Code EH Capital - Independent No console.log('hey')"
     },
     {
-        "title": "Eritrea",
+        "title": "State of Eritrea",
         "description": "",
         "url": "/countries/er/index.html",
-        "content": "Eritrea Official Name Eritrea Country Code ER Capital - Independent Yes console.log('hey')"
+        "content": "Eritrea Official Name State of Eritrea Country Code ER Capital Asmara Independent Yes console.log('hey')"
     },
     {
         "title": "Spain",
@@ -408,28 +408,28 @@
         "content": "Spain Official Name Spain Country Code ES Capital - Independent Yes console.log('hey')"
     },
     {
-        "title": "Ethiopia",
+        "title": "Federal Democratic Republic of Ethiopia",
         "description": "",
         "url": "/countries/et/index.html",
-        "content": "Ethiopia Official Name Ethiopia Country Code ET Capital - Independent Yes console.log('hey')"
+        "content": "Ethiopia Official Name Federal Democratic Republic of Ethiopia Country Code ET Capital Addis Ababa Independent Yes console.log('hey')"
     },
     {
-        "title": "Finland",
+        "title": "Republic of Finland",
         "description": "",
         "url": "/countries/fi/index.html",
-        "content": "Finland Official Name Finland Country Code FI Capital - Independent Yes console.log('hey')"
+        "content": "Finland Official Name Republic of Finland Country Code FI Capital Helsinki Independent Yes console.log('hey')"
     },
     {
-        "title": "Fiji",
+        "title": "Republic of Fiji",
         "description": "",
         "url": "/countries/fj/index.html",
-        "content": "Fiji Official Name Fiji Country Code FJ Capital - Independent Yes console.log('hey')"
+        "content": "Fiji Official Name Republic of Fiji Country Code FJ Capital Suva Independent Yes console.log('hey')"
     },
     {
         "title": "Falkland Islands (Malvinas)",
         "description": "",
         "url": "/countries/fk/index.html",
-        "content": "Falkland Islands Official Name Falkland Islands (Malvinas) Country Code FK Capital - Independent No console.log('hey')"
+        "content": "Falkland Islands Official Name Falkland Islands (Malvinas) Country Code FK Capital Stanley Independent No console.log('hey')"
     },
     {
         "title": "Micronesia (Federated States of)",
@@ -441,19 +441,19 @@
         "title": "Faroe Islands",
         "description": "",
         "url": "/countries/fo/index.html",
-        "content": "Faroe Islands Official Name Faroe Islands Country Code FO Capital - Independent No console.log('hey')"
+        "content": "Faroe Islands Official Name Faroe Islands Country Code FO Capital Tórshavn Independent No console.log('hey')"
     },
     {
-        "title": "France",
+        "title": "French Republic",
         "description": "",
         "url": "/countries/fr/index.html",
-        "content": "France Official Name France Country Code FR Capital - Independent Yes console.log('hey')"
+        "content": "France Official Name French Republic Country Code FR Capital Paris Independent Yes console.log('hey')"
     },
     {
-        "title": "Gabon",
+        "title": "Gabonese Republic",
         "description": "",
         "url": "/countries/ga/index.html",
-        "content": "Gabon Official Name Gabon Country Code GA Capital - Independent Yes console.log('hey')"
+        "content": "Gabon Official Name Gabonese Republic Country Code GA Capital Livreville Independent Yes console.log('hey')"
     },
     {
         "title": "United Kingdom of Great Britain and Northern Ireland",
@@ -471,13 +471,13 @@
         "title": "Georgia",
         "description": "",
         "url": "/countries/ge/index.html",
-        "content": "Georgia Official Name Georgia Country Code GE Capital - Independent Yes console.log('hey')"
+        "content": "Georgia Official Name Georgia Country Code GE Capital Tbilisi Independent Yes console.log('hey')"
     },
     {
         "title": "French Guiana",
         "description": "",
         "url": "/countries/gf/index.html",
-        "content": "French Guiana Official Name French Guiana Country Code GF Capital - Independent No console.log('hey')"
+        "content": "French Guiana Official Name French Guiana Country Code GF Capital Cayenne Independent No console.log('hey')"
     },
     {
         "title": "Guernsey",
@@ -486,16 +486,16 @@
         "content": "Guernsey Official Name Guernsey Country Code GG Capital - Independent No console.log('hey')"
     },
     {
-        "title": "Ghana",
+        "title": "Republic of Ghana",
         "description": "",
         "url": "/countries/gh/index.html",
-        "content": "Ghana Official Name Ghana Country Code GH Capital - Independent Yes console.log('hey')"
+        "content": "Ghana Official Name Republic of Ghana Country Code GH Capital Accra Independent Yes console.log('hey')"
     },
     {
         "title": "Gibraltar",
         "description": "",
         "url": "/countries/gi/index.html",
-        "content": "Gibraltar Official Name Gibraltar Country Code GI Capital - Independent No console.log('hey')"
+        "content": "Gibraltar Official Name Gibraltar Country Code GI Capital Westside Independent No console.log('hey')"
     },
     {
         "title": "Greenland",
@@ -504,10 +504,10 @@
         "content": "Greenland Official Name Greenland Country Code GL Capital - Independent No console.log('hey')"
     },
     {
-        "title": "Gambia",
+        "title": "Republic of the Gambia",
         "description": "",
         "url": "/countries/gm/index.html",
-        "content": "Gambia Official Name Gambia Country Code GM Capital - Independent Yes console.log('hey')"
+        "content": "Gambia Official Name Republic of the Gambia Country Code GM Capital Banjul Independent Yes console.log('hey')"
     },
     {
         "title": "Guinea",
@@ -522,16 +522,16 @@
         "content": "Guadeloupe Official Name Guadeloupe Country Code GP Capital - Independent No console.log('hey')"
     },
     {
-        "title": "Equatorial Guinea",
+        "title": "Republic of Equatorial Guinea",
         "description": "",
         "url": "/countries/gq/index.html",
-        "content": "Equatorial Guinea Official Name Equatorial Guinea Country Code GQ Capital - Independent Yes console.log('hey')"
+        "content": "Equatorial Guinea Official Name Republic of Equatorial Guinea Country Code GQ Capital Malabo Independent Yes console.log('hey')"
     },
     {
-        "title": "Greece",
+        "title": "Hellenic Republic",
         "description": "",
         "url": "/countries/gr/index.html",
-        "content": "Greece Official Name Greece Country Code GR Capital - Independent Yes console.log('hey')"
+        "content": "Greece Official Name Hellenic Republic Country Code GR Capital Athens Independent Yes console.log('hey')"
     },
     {
         "title": "South Georgia and the South Sandwich Islands",
@@ -585,7 +585,7 @@
         "title": "Croatia",
         "description": "",
         "url": "/countries/hr/index.html",
-        "content": "Croatia Official Name Croatia Country Code HR Capital - Independent Yes console.log('hey')"
+        "content": "Croatia Official Name Croatia Country Code HR Capital Zagreb Independent Yes console.log('hey')"
     },
     {
         "title": "Haiti",
@@ -1047,7 +1047,7 @@
         "title": "French Polynesia",
         "description": "",
         "url": "/countries/pf/index.html",
-        "content": "French Polynesia Official Name French Polynesia Country Code PF Capital - Independent No console.log('hey')"
+        "content": "French Polynesia Official Name French Polynesia Country Code PF Capital Papeete Independent No console.log('hey')"
     },
     {
         "title": "Papua New Guinea",
@@ -1254,10 +1254,10 @@
         "content": "Sao Tome and Principe Official Name Sao Tome and Principe Country Code ST Capital - Independent Yes console.log('hey')"
     },
     {
-        "title": "El Salvador",
+        "title": "Republic of El Salvador",
         "description": "",
         "url": "/countries/sv/index.html",
-        "content": "El Salvador Official Name El Salvador Country Code SV Capital - Independent Yes console.log('hey')"
+        "content": "El Salvador Official Name Republic of El Salvador Country Code SV Capital San Salvador Independent Yes console.log('hey')"
     },
     {
         "title": "Sint Maarten (Dutch part)",
@@ -1272,10 +1272,10 @@
         "content": "Syria Official Name Syrian Arab Republic Country Code SY Capital - Independent Yes console.log('hey')"
     },
     {
-        "title": "Eswatini",
+        "title": "Kingdom of Eswatini",
         "description": "",
         "url": "/countries/sz/index.html",
-        "content": "Eswatini Official Name Eswatini Country Code SZ Capital - Independent Yes console.log('hey')"
+        "content": "Eswatini Official Name Kingdom of Eswatini Country Code SZ Capital Mbabane Independent Yes console.log('hey')"
     },
     {
         "title": "Turks and Caicos Islands",
@@ -1293,7 +1293,7 @@
         "title": "French Southern Territories",
         "description": "",
         "url": "/countries/tf/index.html",
-        "content": "French Southern Lands Official Name French Southern Territories Country Code TF Capital - Independent No console.log('hey')"
+        "content": "French Southern Lands Official Name French Southern Territories Country Code TF Capital Saint Pierre Independent No console.log('hey')"
     },
     {
         "title": "Togo",
@@ -1320,10 +1320,10 @@
         "content": "Tokelau Official Name Tokelau Country Code TK Capital - Independent No console.log('hey')"
     },
     {
-        "title": "Timor-Leste",
+        "title": "Democratic Republic of Timor-Leste",
         "description": "",
         "url": "/countries/tl/index.html",
-        "content": "East Timor Official Name Timor-Leste Country Code TL Capital - Independent Yes console.log('hey')"
+        "content": "East Timor Official Name Democratic Republic of Timor-Leste Country Code TL Capital Dili Independent Yes console.log('hey')"
     },
     {
         "title": "Turkmenistan",

@@ -395,15 +395,15 @@ export let countries = [
         "code": "CD",
         "name": "Democratic Republic of the Congo",
         "common_name": "Congo",
-        "capital": null,
+        "capital": "Kinshasa",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/cd.svg"
     },
     {
         "code": "CG",
-        "name": "Congo",
+        "name": "Republic of the Congo",
         "common_name": "Congo",
-        "capital": null,
+        "capital": "Brazzaville",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/cg.svg"
     },
@@ -411,7 +411,7 @@ export let countries = [
         "code": "CK",
         "name": "Cook Islands",
         "common_name": "Cook Islands",
-        "capital": null,
+        "capital": "Avarua",
         "independent": false,
         "flag_url": "https://countries.ekmwest.io/flags/ck.svg"
     },
@@ -419,7 +419,7 @@ export let countries = [
         "code": "CR",
         "name": "Costa Rica",
         "common_name": "Costa Rica",
-        "capital": null,
+        "capital": "San José",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/cr.svg"
     },
@@ -427,7 +427,7 @@ export let countries = [
         "code": "HR",
         "name": "Croatia",
         "common_name": "Croatia",
-        "capital": null,
+        "capital": "Zagreb",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/hr.svg"
     },
@@ -435,7 +435,7 @@ export let countries = [
         "code": "CU",
         "name": "Cuba",
         "common_name": "Cuba",
-        "capital": null,
+        "capital": "Havana",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/cu.svg"
     },
@@ -443,7 +443,7 @@ export let countries = [
         "code": "CW",
         "name": "Curaçao",
         "common_name": "Curaçao",
-        "capital": null,
+        "capital": "Willemstad",
         "independent": false,
         "flag_url": "https://countries.ekmwest.io/flags/cw.svg"
     },
@@ -451,7 +451,7 @@ export let countries = [
         "code": "CY",
         "name": "Cyprus",
         "common_name": "Cyprus",
-        "capital": null,
+        "capital": "Nicosia",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/cy.svg"
     },
@@ -459,7 +459,7 @@ export let countries = [
         "code": "CZ",
         "name": "Czechia",
         "common_name": "Czechia",
-        "capital": null,
+        "capital": "Prague",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/cz.svg"
     },
@@ -467,7 +467,7 @@ export let countries = [
         "code": "DK",
         "name": "Denmark",
         "common_name": "Denmark",
-        "capital": null,
+        "capital": "Copenhagen",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/dk.svg"
     },
@@ -475,7 +475,7 @@ export let countries = [
         "code": "DJ",
         "name": "Djibouti",
         "common_name": "Djibouti",
-        "capital": null,
+        "capital": "Djibouti",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/dj.svg"
     },
@@ -483,7 +483,7 @@ export let countries = [
         "code": "DM",
         "name": "Dominica",
         "common_name": "Dominica",
-        "capital": null,
+        "capital": "Roseau",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/dm.svg"
     },
@@ -491,79 +491,79 @@ export let countries = [
         "code": "DO",
         "name": "Dominican Republic",
         "common_name": "Dominican Republic",
-        "capital": null,
+        "capital": "Santo Domingo",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/do.svg"
     },
     {
         "code": "TL",
-        "name": "Timor-Leste",
+        "name": "Democratic Republic of Timor-Leste",
         "common_name": "East Timor",
-        "capital": null,
+        "capital": "Dili",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/tl.svg"
     },
     {
         "code": "EC",
-        "name": "Ecuador",
+        "name": "Republic of Ecuador",
         "common_name": "Ecuador",
-        "capital": null,
+        "capital": "Quito",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/ec.svg"
     },
     {
         "code": "EG",
-        "name": "Egypt",
+        "name": "Arab Republic of Egypt",
         "common_name": "Egypt",
-        "capital": null,
+        "capital": "Cairo",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/eg.svg"
     },
     {
         "code": "SV",
-        "name": "El Salvador",
+        "name": "Republic of El Salvador",
         "common_name": "El Salvador",
-        "capital": null,
+        "capital": "San Salvador",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/sv.svg"
     },
     {
         "code": "GQ",
-        "name": "Equatorial Guinea",
+        "name": "Republic of Equatorial Guinea",
         "common_name": "Equatorial Guinea",
-        "capital": null,
+        "capital": "Malabo",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/gq.svg"
     },
     {
         "code": "ER",
-        "name": "Eritrea",
+        "name": "State of Eritrea",
         "common_name": "Eritrea",
-        "capital": null,
+        "capital": "Asmara",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/er.svg"
     },
     {
         "code": "EE",
-        "name": "Estonia",
+        "name": "Republic of Estonia",
         "common_name": "Estonia",
-        "capital": null,
+        "capital": "Tallin",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/ee.svg"
     },
     {
         "code": "SZ",
-        "name": "Eswatini",
+        "name": "Kingdom of Eswatini",
         "common_name": "Eswatini",
-        "capital": null,
+        "capital": "Mbabane",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/sz.svg"
     },
     {
         "code": "ET",
-        "name": "Ethiopia",
+        "name": "Federal Democratic Republic of Ethiopia",
         "common_name": "Ethiopia",
-        "capital": null,
+        "capital": "Addis Ababa",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/et.svg"
     },
@@ -571,7 +571,7 @@ export let countries = [
         "code": "FK",
         "name": "Falkland Islands (Malvinas)",
         "common_name": "Falkland Islands",
-        "capital": null,
+        "capital": "Stanley",
         "independent": false,
         "flag_url": "https://countries.ekmwest.io/flags/fk.svg"
     },
@@ -579,31 +579,31 @@ export let countries = [
         "code": "FO",
         "name": "Faroe Islands",
         "common_name": "Faroe Islands",
-        "capital": null,
+        "capital": "Tórshavn",
         "independent": false,
         "flag_url": "https://countries.ekmwest.io/flags/fo.svg"
     },
     {
         "code": "FJ",
-        "name": "Fiji",
+        "name": "Republic of Fiji",
         "common_name": "Fiji",
-        "capital": null,
+        "capital": "Suva",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/fj.svg"
     },
     {
         "code": "FI",
-        "name": "Finland",
+        "name": "Republic of Finland",
         "common_name": "Finland",
-        "capital": null,
+        "capital": "Helsinki",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/fi.svg"
     },
     {
         "code": "FR",
-        "name": "France",
+        "name": "French Republic",
         "common_name": "France",
-        "capital": null,
+        "capital": "Paris",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/fr.svg"
     },
@@ -611,7 +611,7 @@ export let countries = [
         "code": "GF",
         "name": "French Guiana",
         "common_name": "French Guiana",
-        "capital": null,
+        "capital": "Cayenne",
         "independent": false,
         "flag_url": "https://countries.ekmwest.io/flags/gf.svg"
     },
@@ -619,7 +619,7 @@ export let countries = [
         "code": "PF",
         "name": "French Polynesia",
         "common_name": "French Polynesia",
-        "capital": null,
+        "capital": "Papeete",
         "independent": false,
         "flag_url": "https://countries.ekmwest.io/flags/pf.svg"
     },
@@ -627,23 +627,23 @@ export let countries = [
         "code": "TF",
         "name": "French Southern Territories",
         "common_name": "French Southern Lands",
-        "capital": null,
+        "capital": "Saint Pierre",
         "independent": false,
         "flag_url": "https://countries.ekmwest.io/flags/tf.svg"
     },
     {
         "code": "GA",
-        "name": "Gabon",
+        "name": "Gabonese Republic",
         "common_name": "Gabon",
-        "capital": null,
+        "capital": "Livreville",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/ga.svg"
     },
     {
         "code": "GM",
-        "name": "Gambia",
+        "name": "Republic of the Gambia",
         "common_name": "Gambia",
-        "capital": null,
+        "capital": "Banjul",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/gm.svg"
     },
@@ -651,23 +651,23 @@ export let countries = [
         "code": "GE",
         "name": "Georgia",
         "common_name": "Georgia",
-        "capital": null,
+        "capital": "Tbilisi",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/ge.svg"
     },
     {
         "code": "DE",
-        "name": "Germany",
+        "name": "Federal Republic of Germany",
         "common_name": "Germany",
-        "capital": null,
+        "capital": "Berlin",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/de.svg"
     },
     {
         "code": "GH",
-        "name": "Ghana",
+        "name": "Republic of Ghana",
         "common_name": "Ghana",
-        "capital": null,
+        "capital": "Accra",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/gh.svg"
     },
@@ -675,15 +675,15 @@ export let countries = [
         "code": "GI",
         "name": "Gibraltar",
         "common_name": "Gibraltar",
-        "capital": null,
+        "capital": "Westside",
         "independent": false,
         "flag_url": "https://countries.ekmwest.io/flags/gi.svg"
     },
     {
         "code": "GR",
-        "name": "Greece",
+        "name": "Hellenic Republic",
         "common_name": "Greece",
-        "capital": null,
+        "capital": "Athens",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/gr.svg"
     },
