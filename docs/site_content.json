@@ -465,7 +465,7 @@
         "title": "Grenada",
         "description": "",
         "url": "/countries/gd/index.html",
-        "content": "Grenada Official Name Grenada Country Code GD Capital - Independent Yes console.log('hey')"
+        "content": "Grenada Official Name Grenada Country Code GD Capital St. George's Independent Yes console.log('hey')"
     },
     {
         "title": "Georgia",
@@ -483,7 +483,7 @@
         "title": "Guernsey",
         "description": "",
         "url": "/countries/gg/index.html",
-        "content": "Guernsey Official Name Guernsey Country Code GG Capital - Independent No console.log('hey')"
+        "content": "Guernsey Official Name Guernsey Country Code GG Capital Saint Peter Port Independent No console.log('hey')"
     },
     {
         "title": "Republic of Ghana",
@@ -501,7 +501,7 @@
         "title": "Greenland",
         "description": "",
         "url": "/countries/gl/index.html",
-        "content": "Greenland Official Name Greenland Country Code GL Capital - Independent No console.log('hey')"
+        "content": "Greenland Official Name Greenland Country Code GL Capital Nuuk Independent No console.log('hey')"
     },
     {
         "title": "Republic of the Gambia",
@@ -510,10 +510,10 @@
         "content": "Gambia Official Name Republic of the Gambia Country Code GM Capital Banjul Independent Yes console.log('hey')"
     },
     {
-        "title": "Guinea",
+        "title": "Republic of Guinea",
         "description": "",
         "url": "/countries/gn/index.html",
-        "content": "Guinea Official Name Guinea Country Code GN Capital - Independent Yes console.log('hey')"
+        "content": "Guinea Official Name Republic of Guinea Country Code GN Capital Conakry Independent Yes console.log('hey')"
     },
     {
         "title": "Guadeloupe",
@@ -540,28 +540,28 @@
         "content": "South Georgia and the South Sandwich Islands Official Name South Georgia and the South Sandwich Islands Country Code GS Capital - Independent No console.log('hey')"
     },
     {
-        "title": "Guatemala",
+        "title": "Republic of Guatemala",
         "description": "",
         "url": "/countries/gt/index.html",
-        "content": "Guatemala Official Name Guatemala Country Code GT Capital - Independent Yes console.log('hey')"
+        "content": "Guatemala Official Name Republic of Guatemala Country Code GT Capital Guatemala City Independent Yes console.log('hey')"
     },
     {
         "title": "Guam",
         "description": "",
         "url": "/countries/gu/index.html",
-        "content": "Guam Official Name Guam Country Code GU Capital - Independent No console.log('hey')"
+        "content": "Guam Official Name Guam Country Code GU Capital Hagåtña Independent No console.log('hey')"
     },
     {
-        "title": "Guinea-Bissau",
+        "title": "Republic of Guinea-Bissau",
         "description": "",
         "url": "/countries/gw/index.html",
-        "content": "Guinea-Bissau Official Name Guinea-Bissau Country Code GW Capital - Independent Yes console.log('hey')"
+        "content": "Guinea-Bissau Official Name Republic of Guinea-Bissau Country Code GW Capital Bissau Independent Yes console.log('hey')"
     },
     {
-        "title": "Guyana",
+        "title": "Co-operative Republic of Guyana",
         "description": "",
         "url": "/countries/gy/index.html",
-        "content": "Guyana Official Name Guyana Country Code GY Capital - Independent Yes console.log('hey')"
+        "content": "Guyana Official Name Co-operative Republic of Guyana Country Code GY Capital Georgetown Independent Yes console.log('hey')"
     },
     {
         "title": "Hong Kong",
@@ -588,10 +588,10 @@
         "content": "Croatia Official Name Croatia Country Code HR Capital Zagreb Independent Yes console.log('hey')"
     },
     {
-        "title": "Haiti",
+        "title": "Republic of Haiti",
         "description": "",
         "url": "/countries/ht/index.html",
-        "content": "Haiti Official Name Haiti Country Code HT Capital - Independent Yes console.log('hey')"
+        "content": "Haiti Official Name Republic of Haiti Country Code HT Capital Port-au-Prince Independent Yes console.log('hey')"
     },
     {
         "title": "Hungary",

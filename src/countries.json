@@ -691,7 +691,7 @@
         "code": "GL",
         "name": "Greenland",
         "common_name": "Greenland",
-        "capital": null,
+        "capital": "Nuuk",
         "independent": false,
         "flag_url": "https://countries.ekmwest.io/flags/gl.svg"
     },
@@ -699,7 +699,7 @@
         "code": "GD",
         "name": "Grenada",
         "common_name": "Grenada",
-        "capital": null,
+        "capital": "St. George's",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/gd.svg"
     },
@@ -715,15 +715,15 @@
         "code": "GU",
         "name": "Guam",
         "common_name": "Guam",
-        "capital": null,
+        "capital": "Hagåtña",
         "independent": false,
         "flag_url": "https://countries.ekmwest.io/flags/gu.svg"
     },
     {
         "code": "GT",
-        "name": "Guatemala",
+        "name": "Republic of Guatemala",
         "common_name": "Guatemala",
-        "capital": null,
+        "capital": "Guatemala City",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/gt.svg"
     },
@@ -731,39 +731,39 @@
         "code": "GG",
         "name": "Guernsey",
         "common_name": "Guernsey",
-        "capital": null,
+        "capital": "Saint Peter Port",
         "independent": false,
         "flag_url": "https://countries.ekmwest.io/flags/gg.svg"
     },
     {
         "code": "GN",
-        "name": "Guinea",
+        "name": "Republic of Guinea",
         "common_name": "Guinea",
-        "capital": null,
+        "capital": "Conakry",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/gn.svg"
     },
     {
         "code": "GW",
-        "name": "Guinea-Bissau",
+        "name": "Republic of Guinea-Bissau",
         "common_name": "Guinea-Bissau",
-        "capital": null,
+        "capital": "Bissau",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/gw.svg"
     },
     {
         "code": "GY",
-        "name": "Guyana",
+        "name": "Co-operative Republic of Guyana",
         "common_name": "Guyana",
-        "capital": null,
+        "capital": "Georgetown",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/gy.svg"
     },
     {
         "code": "HT",
-        "name": "Haiti",
+        "name": "Republic of Haiti",
         "common_name": "Haiti",
-        "capital": null,
+        "capital": "Port-au-Prince",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/ht.svg"
     },
