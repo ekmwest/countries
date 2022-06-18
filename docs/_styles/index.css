@@ -46,3 +46,7 @@
     margin: .5em 0 0;
     font-size: 14px;
 }
+
+.index__main.HIDE-NAME .index__name {
+    color: transparent;
+}

@@ -6,6 +6,10 @@
 
     const Selector = {
         SEARCH_INPUT: '[data-element="index.search-input"]',
+        INDEPENDENT_INPUT: '[data-element="index.independent-input"]',
+        DEPENDENT_INPUT: '[data-element="index.dependent-input"]',
+        NAME_INPUT: '[data-element="index.name-input"]',
+        MAIN: '.index__main',
         COUNTRY_ELEMENT: '.index__country'
     };
 
@@ -23,13 +27,23 @@
 
 
     /*  =====================================
+        ClassName
+        ==================================== */
+
+    const ClassName = {
+        HIDE_NAME: 'HIDE-NAME'
+    };
+
+
+
+    /*  =====================================
         Countries
         ==================================== */
 
     const countries = Array.from(document.querySelectorAll(Selector.COUNTRY_ELEMENT)).map(countryElement => {
         return {
             name: countryElement.getAttribute(Attribute.COUNTRY_NAME),
-            independent: countryElement.getAttribute(Attribute.INDEPENDENT),
+            independent: countryElement.getAttribute(Attribute.INDEPENDENT) === 'true' ? true : false,
             element: countryElement
         };
     });
@@ -41,6 +55,10 @@
         ==================================== */
 
     const searchInput = document.querySelector(Selector.SEARCH_INPUT);
+    const independentInput = document.querySelector(Selector.INDEPENDENT_INPUT);
+    const dependentInput = document.querySelector(Selector.DEPENDENT_INPUT);
+    const nameInput = document.querySelector(Selector.NAME_INPUT);
+    const main = document.querySelector(Selector.MAIN);
 
 
 
@@ -48,8 +66,11 @@
         Events
         ==================================== */
 
-    searchInput.addEventListener('input', filter);
+    independentInput.addEventListener('change', filter);
+    dependentInput.addEventListener('change', filter);
+    nameInput.addEventListener('change', filter);
     window.addEventListener('pageshow', filter);
+    searchInput.addEventListener('input', filter);
 
 
 
@@ -57,40 +78,58 @@
         Filter
         ==================================== */
 
-    const searchDebounce = 400;
-    let searchDebounceTimeout = null;
-
     function filter() {
+        const searchQuery = searchInput.value.toLowerCase();
+        const showIndependent = independentInput.checked;
+        const showDependent = dependentInput.checked;
+        const showName = nameInput.checked;
 
-        if (searchDebounceTimeout) {
-            clearTimeout(searchDebounceTimeout);
+        if (showName) {
+            main.classList.remove(ClassName.HIDE_NAME);
+        } else {
+            main.classList.add(ClassName.HIDE_NAME);
         }
 
-        searchDebounceTimeout = setTimeout(() => {
-            const searchQuery = searchInput.value.toLowerCase();
-            const independence = document.querySelector('input[name="independence"]:checked').value;
-            const hideName = document.querySelector('[name="hide-name"]').checked;
+        countries.forEach(country => {
 
-            console.log('hideName', hideName);
+            // 1. Search
+            if (!country.name.toLowerCase().includes(searchQuery)) {
+                country.element.style.display = 'none';
+                return;
+            }
 
-            countries.forEach(country => {
-                if (country.name.toLowerCase().includes(searchQuery)) {
-                    country.element.style.display = '';
-                } else {
-                    country.element.style.display = 'none';
-                }
-            });
+            // 2. Independent
+            if (country.independent && !showIndependent) {
+                country.element.style.display = 'none';
+                return;
+            }
 
-            countries.forEach(country => {
-                const countryNameElement = country.element.querySelector('.index__name');
-                if (hideName) {
-                    countryNameElement.style.display = 'none';
-                } else {
-                    countryNameElement.style.display = '';
-                }
+            // 3. Dependent
+            if (!country.independent && !showDependent) {
+                country.element.style.display = 'none';
+                return;
+            }
 
-            })
-        }, searchDebounce);
+            country.element.style.display = '';
+        });
+    }
+
+
+
+    /*  =====================================
+        Debounced Filter
+        ==================================== */
+
+    const decouncedFilterDelay = 400;
+    let debouncedFilterTimeout = null;
+
+    function debouncedFilter() {
+
+        if (debouncedFilterTimeout) {
+            clearTimeout(debouncedFilterTimeout);
+        }
+
+        debouncedFilterTimeout = setTimeout(filter, decouncedFilterDelay);
     }
 
 })();

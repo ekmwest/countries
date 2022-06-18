@@ -1,6 +1,14 @@
 .not-found__body { }
 
 .not-found h1 {
-    padding: 2em;
+    padding: 2em 16px 1em;
     text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
+a {
+    color: red;
 }
