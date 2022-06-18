@@ -84,6 +84,7 @@
         const showDependent = dependentInput.checked;
         const showName = nameInput.checked;
 
+        // 1. Show Name
         if (showName) {
             main.classList.remove(ClassName.HIDE_NAME);
         } else {
@@ -92,19 +93,19 @@
 
         countries.forEach(country => {
 
-            // 1. Search
+            // 2. Search
             if (!country.name.toLowerCase().includes(searchQuery)) {
                 country.element.style.display = 'none';
                 return;
             }
 
-            // 2. Independent
+            // 3. Independent
             if (country.independent && !showIndependent) {
                 country.element.style.display = 'none';
                 return;
             }
 
-            // 3. Dependent
+            // 4. Dependent
             if (!country.independent && !showDependent) {
                 country.element.style.display = 'none';
                 return;
