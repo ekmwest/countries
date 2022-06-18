@@ -2,7 +2,7 @@
 
     /*  =====================================
         Selector
-        ==================================== */
+        ===================================== */
 
     const Selector = {
         SEARCH_INPUT: '[data-element="index.search-input"]',
@@ -17,7 +17,7 @@
 
     /*  =====================================
         Attribute
-        ==================================== */
+        ===================================== */
 
     const Attribute = {
         COUNTRY_NAME: 'data-country-name',
@@ -28,7 +28,7 @@
 
     /*  =====================================
         ClassName
-        ==================================== */
+        ===================================== */
 
     const ClassName = {
         HIDE_NAME: 'HIDE-NAME'
@@ -38,7 +38,7 @@
 
     /*  =====================================
         Countries
-        ==================================== */
+        ===================================== */
 
     const countries = Array.from(document.querySelectorAll(Selector.COUNTRY_ELEMENT)).map(countryElement => {
         return {
@@ -52,7 +52,7 @@
 
     /*  =====================================
         Elements
-        ==================================== */
+        ===================================== */
 
     const searchInput = document.querySelector(Selector.SEARCH_INPUT);
     const independentInput = document.querySelector(Selector.INDEPENDENT_INPUT);
@@ -64,7 +64,7 @@
 
     /*  =====================================
         Events
-        ==================================== */
+        ===================================== */
 
     independentInput.addEventListener('change', filter);
     dependentInput.addEventListener('change', filter);
@@ -76,7 +76,7 @@
 
     /*  =====================================
         Filter
-        ==================================== */
+        ===================================== */
 
     function filter() {
         const searchQuery = searchInput.value.toLowerCase();
@@ -119,7 +119,7 @@
 
     /*  =====================================
         Debounced Filter
-        ==================================== */
+        ===================================== */
 
     const decouncedFilterDelay = 400;
     let debouncedFilterTimeout = null;
