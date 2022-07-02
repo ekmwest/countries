@@ -248,6 +248,14 @@
         "flag_url": "https://countries.ekmwest.io/flags/io.svg"
     },
     {
+        "code": "VG",
+        "name": "Virgin Islands",
+        "common_name": "British Virgin Islands",
+        "capital": "Road Town",
+        "independent": false,
+        "flag_url": "https://countries.ekmwest.io/flags/vg.svg"
+    },
+    {
         "code": "BN",
         "name": "Brunei Darussalam",
         "common_name": "Brunei",
@@ -1105,41 +1113,41 @@
     },
     {
         "code": "MR",
-        "name": "Mauritania",
+        "name": "Islamic Republic of Mauritania",
         "common_name": "Mauritania",
-        "capital": null,
+        "capital": "Nouakchott",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/mr.svg"
     },
     {
         "code": "MU",
-        "name": "Mauritius",
+        "name": "Republic of Mauritius",
         "common_name": "Mauritius",
-        "capital": null,
+        "capital": "Port Louis",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/mu.svg"
     },
     {
         "code": "YT",
-        "name": "Mayotte",
+        "name": "Department of Mayotte",
         "common_name": "Mayotte",
-        "capital": null,
+        "capital": "Mamoudzou",
         "independent": false,
         "flag_url": "https://countries.ekmwest.io/flags/yt.svg"
     },
     {
         "code": "MX",
-        "name": "Mexico",
+        "name": "United Mexican States",
         "common_name": "Mexico",
-        "capital": null,
+        "capital": "Mixico City",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/mx.svg"
     },
     {
         "code": "FM",
-        "name": "Micronesia (Federated States of)",
+        "name": "Federated States of Micronesia",
         "common_name": "Micronesia",
-        "capital": null,
+        "capital": "Palikir",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/fm.svg"
     },
@@ -1147,7 +1155,7 @@
         "code": "MD",
         "name": "Republic of Moldova",
         "common_name": "Moldova",
-        "capital": null,
+        "capital": "Chisinau",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/md.svg"
     },
@@ -1155,7 +1163,7 @@
         "code": "MC",
         "name": "Monaco",
         "common_name": "Monaco",
-        "capital": null,
+        "capital": "Monaco",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/mc.svg"
     },
@@ -1163,7 +1171,7 @@
         "code": "MN",
         "name": "Mongolia",
         "common_name": "Mongolia",
-        "capital": null,
+        "capital": "Ulaanbaatar",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/mn.svg"
     },
@@ -1171,7 +1179,7 @@
         "code": "ME",
         "name": "Montenegro",
         "common_name": "Montenegro",
-        "capital": null,
+        "capital": "Podgorica",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/me.svg"
     },
@@ -1179,23 +1187,23 @@
         "code": "MS",
         "name": "Montserrat",
         "common_name": "Montserrat",
-        "capital": null,
+        "capital": "Plymouth",
         "independent": false,
         "flag_url": "https://countries.ekmwest.io/flags/ms.svg"
     },
     {
         "code": "MA",
-        "name": "Morocco",
+        "name": "Kingdom of Marocco",
         "common_name": "Morocco",
-        "capital": null,
+        "capital": "Rabat",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/ma.svg"
     },
     {
         "code": "MZ",
-        "name": "Mozambique",
+        "name": "Republic of Mozambique",
         "common_name": "Mozambique",
-        "capital": null,
+        "capital": "Maputo",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/mz.svg"
     },
@@ -1203,7 +1211,7 @@
         "code": "MM",
         "name": "Myanmar",
         "common_name": "Myanmar",
-        "capital": null,
+        "capital": "Naypyidaw",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/mm.svg"
     },
@@ -1211,7 +1219,7 @@
         "code": "NA",
         "name": "Namibia",
         "common_name": "Namibia",
-        "capital": null,
+        "capital": "Windhoek",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/na.svg"
     },
@@ -1219,15 +1227,15 @@
         "code": "NR",
         "name": "Nauru",
         "common_name": "Nauru",
-        "capital": null,
+        "capital": "Yaren",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/nr.svg"
     },
     {
         "code": "NP",
-        "name": "Nepal",
+        "name": "Federal Democratic Republic of Nepal",
         "common_name": "Nepal",
-        "capital": null,
+        "capital": "Kathmandu",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/np.svg"
     },
@@ -1235,7 +1243,7 @@
         "code": "NL",
         "name": "Netherlands",
         "common_name": "Netherlands",
-        "capital": null,
+        "capital": "Amsterdam",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/nl.svg"
     },
@@ -1243,7 +1251,7 @@
         "code": "NC",
         "name": "New Caledonia",
         "common_name": "New Caledonia",
-        "capital": null,
+        "capital": "Nouméa",
         "independent": false,
         "flag_url": "https://countries.ekmwest.io/flags/nc.svg"
     },
@@ -1251,31 +1259,31 @@
         "code": "NZ",
         "name": "New Zealand",
         "common_name": "New Zealand",
-        "capital": null,
+        "capital": "Wellington",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/nz.svg"
     },
     {
         "code": "NI",
-        "name": "Nicaragua",
+        "name": "Republic of Nicaragua",
         "common_name": "Nicaragua",
-        "capital": null,
+        "capital": "Managua",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/ni.svg"
     },
     {
         "code": "NE",
-        "name": "Niger",
+        "name": "Republic of the Niger",
         "common_name": "Niger",
-        "capital": null,
+        "capital": "Niamey",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/ne.svg"
     },
     {
         "code": "NG",
-        "name": "Nigeria",
+        "name": "Federal Republic of Nigeria",
         "common_name": "Nigeria",
-        "capital": null,
+        "capital": "Abuja",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/ng.svg"
     },
@@ -1283,7 +1291,7 @@
         "code": "NU",
         "name": "Niue",
         "common_name": "Niue",
-        "capital": null,
+        "capital": "Alofi",
         "independent": false,
         "flag_url": "https://countries.ekmwest.io/flags/nu.svg"
     },
@@ -1291,7 +1299,7 @@
         "code": "NF",
         "name": "Norfolk Island",
         "common_name": "Norfolk Island",
-        "capital": null,
+        "capital": "Kingston",
         "independent": false,
         "flag_url": "https://countries.ekmwest.io/flags/nf.svg"
     },
@@ -1299,135 +1307,135 @@
         "code": "KP",
         "name": "Democratic People's Republic of Korea",
         "common_name": "North Korea",
-        "capital": null,
+        "capital": "Pyongyang",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/kp.svg"
     },
     {
         "code": "MP",
-        "name": "Northern Mariana Islands",
+        "name": "Commonwealth of the Northern Mariana Islands",
         "common_name": "Northern Mariana Islands",
-        "capital": null,
+        "capital": "Saipan",
         "independent": false,
         "flag_url": "https://countries.ekmwest.io/flags/mp.svg"
     },
     {
         "code": "NO",
-        "name": "Norway",
+        "name": "Kingdom of Norway",
         "common_name": "Norway",
-        "capital": null,
+        "capital": "Oslo",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/no.svg"
     },
     {
         "code": "OM",
-        "name": "Oman",
+        "name": "Sultanate of Oman",
         "common_name": "Oman",
-        "capital": null,
+        "capital": "Muscat",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/om.svg"
     },
     {
         "code": "PK",
-        "name": "Pakistan",
+        "name": "Islamic Republic of Pakistan",
         "common_name": "Pakistan",
-        "capital": null,
+        "capital": "Islamabad",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/pk.svg"
     },
     {
         "code": "PW",
-        "name": "Palau",
+        "name": "Republic of Palau",
         "common_name": "Palau",
-        "capital": null,
+        "capital": "Ngerulmud",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/pw.svg"
     },
     {
         "code": "PS",
-        "name": "Palestine, State of",
+        "name": "State of Palestine",
         "common_name": "Palestine",
-        "capital": null,
+        "capital": "Jerusalem",
         "independent": false,
         "flag_url": "https://countries.ekmwest.io/flags/ps.svg"
     },
     {
         "code": "PA",
-        "name": "Panama",
+        "name": "Republic of Panama",
         "common_name": "Panama",
-        "capital": null,
+        "capital": "Panama City",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/pa.svg"
     },
     {
         "code": "PG",
-        "name": "Papua New Guinea",
+        "name": "Independent State of Papua New Guinea",
         "common_name": "Papua New Guinea",
-        "capital": null,
+        "capital": "Port Moresby",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/pg.svg"
     },
     {
         "code": "PY",
-        "name": "Paraguay",
+        "name": "Republic of Paraguay",
         "common_name": "Paraguay",
-        "capital": null,
+        "capital": "Asunción",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/py.svg"
     },
     {
         "code": "PE",
-        "name": "Peru",
+        "name": "Republic of Peru",
         "common_name": "Peru",
-        "capital": null,
+        "capital": "Lima",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/pe.svg"
     },
     {
         "code": "PH",
-        "name": "Philippines",
+        "name": "Republic of the Philippines",
         "common_name": "Philippines",
-        "capital": null,
+        "capital": "Manila",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/ph.svg"
     },
     {
         "code": "PN",
-        "name": "Pitcairn",
-        "common_name": "Pitcairn",
-        "capital": null,
+        "name": "Pitcairn, Henderson, Ducie and Oeno Islands",
+        "common_name": "Pitcairn Islands",
+        "capital": "Adamstown",
         "independent": false,
         "flag_url": "https://countries.ekmwest.io/flags/pn.svg"
     },
     {
         "code": "PL",
-        "name": "Poland",
+        "name": "Republic of Poland",
         "common_name": "Poland",
-        "capital": null,
+        "capital": "Warsaw",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/pl.svg"
     },
     {
         "code": "PT",
-        "name": "Portugal",
+        "name": "Portuguese Republic",
         "common_name": "Portugal",
-        "capital": null,
+        "capital": "Lisbon",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/pt.svg"
     },
     {
         "code": "PR",
-        "name": "Puerto Rico",
+        "name": "Commonwealth of Puerto Rico",
         "common_name": "Puerto Rico",
-        "capital": null,
+        "capital": "San Juan",
         "independent": false,
         "flag_url": "https://countries.ekmwest.io/flags/pr.svg"
     },
     {
         "code": "QA",
-        "name": "Qatar",
+        "name": "State of Qatar",
         "common_name": "Qatar",
-        "capital": null,
+        "capital": "Doha",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/qa.svg"
     },
@@ -1435,7 +1443,7 @@
         "code": "RO",
         "name": "Romania",
         "common_name": "Romania",
-        "capital": null,
+        "capital": "Bucharest",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/ro.svg"
     },
@@ -1443,15 +1451,15 @@
         "code": "RU",
         "name": "Russian Federation",
         "common_name": "Russia",
-        "capital": null,
+        "capital": "Moscow",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/ru.svg"
     },
     {
         "code": "RW",
-        "name": "Rwanda",
+        "name": "Republic of Rwanda",
         "common_name": "Rwanda",
-        "capital": null,
+        "capital": "Kigali",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/rw.svg"
     },
@@ -1459,7 +1467,7 @@
         "code": "RE",
         "name": "Réunion",
         "common_name": "Réunion",
-        "capital": null,
+        "capital": "Saint-Denis",
         "independent": false,
         "flag_url": "https://countries.ekmwest.io/flags/re.svg"
     },
@@ -1475,15 +1483,15 @@
         "code": "SH",
         "name": "Saint Helena, Ascension and Tristan da Cunha",
         "common_name": "Saint Helena, Ascension and Tristan da Cunha",
-        "capital": null,
+        "capital": "Jamestown",
         "independent": false,
         "flag_url": "https://countries.ekmwest.io/flags/sh.svg"
     },
     {
         "code": "KN",
-        "name": "Saint Kitts and Nevis",
+        "name": "Federation of Saint Christopher and Nevis",
         "common_name": "Saint Kitts and Nevis",
-        "capital": null,
+        "capital": "Basseterre",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/kn.svg"
     },
@@ -1491,23 +1499,23 @@
         "code": "LC",
         "name": "Saint Lucia",
         "common_name": "Saint Lucia",
-        "capital": null,
+        "capital": "Castries",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/lc.svg"
     },
     {
         "code": "MF",
-        "name": "Saint Martin (French part)",
+        "name": "Collectivity of Saint Martin",
         "common_name": "Saint Martin",
-        "capital": null,
+        "capital": "Marigot",
         "independent": false,
         "flag_url": "https://countries.ekmwest.io/flags/mf.svg"
     },
     {
         "code": "PM",
-        "name": "Saint Pierre and Miquelon",
+        "name": "Territorial Collectivity of Sain-Pierre and Miquelon",
         "common_name": "Saint Pierre and Miquelon",
-        "capital": null,
+        "capital": "Saint-Pierre",
         "independent": false,
         "flag_url": "https://countries.ekmwest.io/flags/pm.svg"
     },
@@ -1515,79 +1523,79 @@
         "code": "VC",
         "name": "Saint Vincent and the Grenadines",
         "common_name": "Saint Vincent",
-        "capital": null,
+        "capital": "Kingstown",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/vc.svg"
     },
     {
         "code": "WS",
-        "name": "Samoa",
+        "name": "Independent State of Samoa",
         "common_name": "Samoa",
-        "capital": null,
+        "capital": "Apia",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/ws.svg"
     },
     {
         "code": "SM",
-        "name": "San Marino",
+        "name": "Republic of San Marino",
         "common_name": "San Marino",
-        "capital": null,
+        "capital": "San Marino",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/sm.svg"
     },
     {
         "code": "ST",
-        "name": "Sao Tome and Principe",
+        "name": "Democratic Republic of São Tomé and Príncipe",
         "common_name": "Sao Tome and Principe",
-        "capital": null,
+        "capital": "São Tomé",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/st.svg"
     },
     {
         "code": "SA",
-        "name": "Saudi Arabia",
+        "name": "Kingdom of Saudi Arabia",
         "common_name": "Saudi Arabia",
-        "capital": null,
+        "capital": "Riyadh",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/sa.svg"
     },
     {
         "code": "SN",
-        "name": "Senegal",
+        "name": "Republic of Senegal",
         "common_name": "Senegal",
-        "capital": null,
+        "capital": "Dakar",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/sn.svg"
     },
     {
         "code": "RS",
-        "name": "Serbia",
+        "name": "Republic of Serbia",
         "common_name": "Serbia",
-        "capital": null,
+        "capital": "Belgrade",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/rs.svg"
     },
     {
         "code": "SC",
-        "name": "Seychelles",
+        "name": "Republic of Seychelles",
         "common_name": "Seychelles",
-        "capital": null,
+        "capital": "Victoria",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/sc.svg"
     },
     {
         "code": "SL",
-        "name": "Sierra Leone",
+        "name": "Republic of Sierra Leone",
         "common_name": "Sierra Leone",
-        "capital": null,
+        "capital": "Freetown",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/sl.svg"
     },
     {
         "code": "SG",
-        "name": "Singapore",
+        "name": "Republic of Singapore",
         "common_name": "Singapore",
-        "capital": null,
+        "capital": "Singapore",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/sg.svg"
     },
@@ -1595,23 +1603,23 @@
         "code": "SX",
         "name": "Sint Maarten (Dutch part)",
         "common_name": "Sint Maarten",
-        "capital": null,
+        "capital": "Philipsburg",
         "independent": false,
         "flag_url": "https://countries.ekmwest.io/flags/sx.svg"
     },
     {
         "code": "SK",
-        "name": "Slovakia",
+        "name": "Slovak Republic",
         "common_name": "Slovakia",
-        "capital": null,
+        "capital": "Bratislava",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/sk.svg"
     },
     {
         "code": "SI",
-        "name": "Slovenia",
+        "name": "Republic of Slovenia",
         "common_name": "Slovenia",
-        "capital": null,
+        "capital": "Ljubljiana",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/si.svg"
     },
@@ -1619,23 +1627,23 @@
         "code": "SB",
         "name": "Solomon Islands",
         "common_name": "Solomon Islands",
-        "capital": null,
+        "capital": "Honiara",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/sb.svg"
     },
     {
         "code": "SO",
-        "name": "Somalia",
+        "name": "Federal Republic of Somalia",
         "common_name": "Somalia",
-        "capital": null,
+        "capital": "Mogadishu",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/so.svg"
     },
     {
         "code": "ZA",
-        "name": "South Africa",
+        "name": "Republic of South Africa",
         "common_name": "South Africa",
-        "capital": null,
+        "capital": "Pretoria",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/za.svg"
     },
@@ -1643,55 +1651,55 @@
         "code": "GS",
         "name": "South Georgia and the South Sandwich Islands",
         "common_name": "South Georgia and the South Sandwich Islands",
-        "capital": null,
+        "capital": "King Edward Point",
         "independent": false,
         "flag_url": "https://countries.ekmwest.io/flags/gs.svg"
     },
     {
         "code": "KR",
-        "name": "Korea, Republic of",
+        "name": "Republic of Korea",
         "common_name": "South Korea",
-        "capital": null,
+        "capital": "Seoul",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/kr.svg"
     },
     {
         "code": "SS",
-        "name": "South Sudan",
+        "name": "Republic of South Sudan",
         "common_name": "South Sudan",
-        "capital": null,
+        "capital": "Juba",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/ss.svg"
     },
     {
         "code": "ES",
-        "name": "Spain",
+        "name": "Kingdom of Spain",
         "common_name": "Spain",
-        "capital": null,
+        "capital": "Madrid",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/es.svg"
     },
     {
         "code": "LK",
-        "name": "Sri Lanka",
+        "name": "Democratic Socialist Republic of Sri Lanka",
         "common_name": "Sri Lanka",
-        "capital": null,
+        "capital": "Sri Jayawardenepura Kotte",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/lk.svg"
     },
     {
         "code": "SD",
-        "name": "Sudan",
+        "name": "Republic of Sudan",
         "common_name": "Sudan",
-        "capital": null,
+        "capital": "Khartoum",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/sd.svg"
     },
     {
         "code": "SR",
-        "name": "Suriname",
+        "name": "Republic of Suriname",
         "common_name": "Suriname",
-        "capital": null,
+        "capital": "Paramaribo",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/sr.svg"
     },
@@ -1699,13 +1707,13 @@
         "code": "SJ",
         "name": "Svalbard and Jan Mayen",
         "common_name": "Svalbard and Jan Mayen",
-        "capital": null,
+        "capital": "Longyearbyen",
         "independent": false,
         "flag_url": "https://countries.ekmwest.io/flags/sj.svg"
     },
     {
         "code": "SE",
-        "name": "Sweden",
+        "name": "Kingdom of Sweden",
         "common_name": "Sweden",
         "capital": "Stockholm",
         "independent": true,
@@ -1713,9 +1721,9 @@
     },
     {
         "code": "CH",
-        "name": "Switzerland",
+        "name": "Swiss Confederation",
         "common_name": "Switzerland",
-        "capital": null,
+        "capital": "Bern",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/ch.svg"
     },
@@ -1723,47 +1731,47 @@
         "code": "SY",
         "name": "Syrian Arab Republic",
         "common_name": "Syria",
-        "capital": null,
+        "capital": "Damascus",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/sy.svg"
     },
     {
         "code": "TW",
-        "name": "Taiwan, Province of China",
+        "name": "Republic of China",
         "common_name": "Taiwan",
-        "capital": null,
+        "capital": "Taipei",
         "independent": false,
         "flag_url": "https://countries.ekmwest.io/flags/tw.svg"
     },
     {
         "code": "TJ",
-        "name": "Tajikistan",
+        "name": "Republic of Tajikistan",
         "common_name": "Tajikistan",
-        "capital": null,
+        "capital": "Dushanbe",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/tj.svg"
     },
     {
         "code": "TZ",
-        "name": "Tanzania, United Republic of",
+        "name": "United Republic of Tanzania",
         "common_name": "Tanzania",
-        "capital": null,
+        "capital": "Dodoma",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/tz.svg"
     },
     {
         "code": "TH",
-        "name": "Thailand",
+        "name": "Kingdom of Thailand",
         "common_name": "Thailand",
-        "capital": null,
+        "capital": "Bangkok",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/th.svg"
     },
     {
         "code": "TG",
-        "name": "Togo",
+        "name": "Togolese Republic",
         "common_name": "Togo",
-        "capital": null,
+        "capital": "Lomé",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/tg.svg"
     },
@@ -1777,33 +1785,33 @@
     },
     {
         "code": "TO",
-        "name": "Tonga",
+        "name": "Kingdom of Tonga",
         "common_name": "Tonga",
-        "capital": null,
+        "capital": "Nukualofa",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/to.svg"
     },
     {
         "code": "TT",
-        "name": "Trinidad and Tobago",
+        "name": "Republic of Trinidad and Tobago",
         "common_name": "Trinidad and Tobago",
-        "capital": null,
+        "capital": "Port of Spain",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/tt.svg"
     },
     {
         "code": "TN",
-        "name": "Tunisia",
+        "name": "Republic of Tunisia",
         "common_name": "Tunisia",
-        "capital": null,
+        "capital": "Tunis",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/tn.svg"
     },
     {
         "code": "TR",
-        "name": "Turkey",
+        "name": "Republic of Turkiye",
         "common_name": "Turkey",
-        "capital": null,
+        "capital": "Ankara",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/tr.svg"
     },
@@ -1811,7 +1819,7 @@
         "code": "TM",
         "name": "Turkmenistan",
         "common_name": "Turkmenistan",
-        "capital": null,
+        "capital": "Ashgabat",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/tm.svg"
     },
@@ -1819,7 +1827,7 @@
         "code": "TC",
         "name": "Turks and Caicos Islands",
         "common_name": "Turks and Caicos Islands",
-        "capital": null,
+        "capital": "Grand Turk",
         "independent": false,
         "flag_url": "https://countries.ekmwest.io/flags/tc.svg"
     },
@@ -1827,15 +1835,15 @@
         "code": "TV",
         "name": "Tuvalu",
         "common_name": "Tuvalu",
-        "capital": null,
+        "capital": "Funafuti",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/tv.svg"
     },
     {
         "code": "UG",
-        "name": "Uganda",
+        "name": "Fourth Republic of Uganda",
         "common_name": "Uganda",
-        "capital": null,
+        "capital": "Kampala",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/ug.svg"
     },
@@ -1843,7 +1851,7 @@
         "code": "UA",
         "name": "Ukraine",
         "common_name": "Ukraine",
-        "capital": null,
+        "capital": "Kyiv",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/ua.svg"
     },
@@ -1859,9 +1867,17 @@
         "code": "GB",
         "name": "United Kingdom of Great Britain and Northern Ireland",
         "common_name": "United Kingdom",
-        "capital": null,
+        "capital": "London",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/gb.svg"
+    },
+    {
+        "code": "US",
+        "name": "United States of America",
+        "common_name": "United States",
+        "capital": "Washington, D.C.",
+        "independent": true,
+        "flag_url": "https://countries.ekmwest.io/flags/us.svg"
     },
     {
         "code": "UM",
@@ -1872,82 +1888,66 @@
         "flag_url": "https://countries.ekmwest.io/flags/um.svg"
     },
     {
-        "code": "US",
-        "name": "United States of America",
-        "common_name": "United States of America",
-        "capital": null,
-        "independent": true,
-        "flag_url": "https://countries.ekmwest.io/flags/us.svg"
+        "code": "VI",
+        "name": "Virgin Islands of the United States",
+        "common_name": "United States Virgin Islands",
+        "capital": "Charlotte Amalie",
+        "independent": false,
+        "flag_url": "https://countries.ekmwest.io/flags/vi.svg"
     },
     {
         "code": "UY",
-        "name": "Uruguay",
+        "name": "Oriental Republic of Uruguay",
         "common_name": "Uruguay",
-        "capital": null,
+        "capital": "Montevideo",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/uy.svg"
     },
     {
         "code": "UZ",
-        "name": "Uzbekistan",
+        "name": "Republic of Uzbekistan",
         "common_name": "Uzbekistan",
-        "capital": null,
+        "capital": "Tashkent",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/uz.svg"
     },
     {
         "code": "VU",
-        "name": "Vanuatu",
+        "name": "Republic of Vanuatu",
         "common_name": "Vanuatu",
-        "capital": null,
+        "capital": "Port Vila",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/vu.svg"
     },
     {
         "code": "VA",
-        "name": "Holy See",
+        "name": "Vatican City State",
         "common_name": "Vatican City",
-        "capital": null,
+        "capital": "Vatican City",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/va.svg"
     },
     {
         "code": "VE",
-        "name": "Venezuela (Bolivarian Republic of)",
+        "name": "Bolivarian Republic of Venezuela",
         "common_name": "Venezuela",
-        "capital": null,
+        "capital": "Caracas",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/ve.svg"
     },
     {
         "code": "VN",
-        "name": "Viet Nam",
+        "name": "Socialist Republic of Vietnam",
         "common_name": "Vietnam",
-        "capital": null,
+        "capital": "Hanoi",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/vn.svg"
     },
     {
-        "code": "VG",
-        "name": "Virgin Islands (British)",
-        "common_name": "Virgin Islands (British)",
-        "capital": null,
-        "independent": false,
-        "flag_url": "https://countries.ekmwest.io/flags/vg.svg"
-    },
-    {
-        "code": "VI",
-        "name": "Virgin Islands (U.S.)",
-        "common_name": "Virgin Islands (U.S.)",
-        "capital": null,
-        "independent": false,
-        "flag_url": "https://countries.ekmwest.io/flags/vi.svg"
-    },
-    {
         "code": "WF",
-        "name": "Wallis and Futuna",
+        "name": "Territory of the Wallis and Futuna Islands",
         "common_name": "Wallis and Futuna",
-        "capital": null,
+        "capital": "Mata Utu",
         "independent": false,
         "flag_url": "https://countries.ekmwest.io/flags/wf.svg"
     },
@@ -1955,38 +1955,38 @@
         "code": "EH",
         "name": "Western Sahara",
         "common_name": "Western Sahara",
-        "capital": null,
+        "capital": "Laayoune",
         "independent": false,
         "flag_url": "https://countries.ekmwest.io/flags/eh.svg"
     },
     {
         "code": "YE",
-        "name": "Yemen",
+        "name": "Republic of Yemen",
         "common_name": "Yemen",
-        "capital": null,
+        "capital": "Sanaa",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/ye.svg"
     },
     {
         "code": "ZM",
-        "name": "Zambia",
+        "name": "Republic of Zambia",
         "common_name": "Zambia",
-        "capital": null,
+        "capital": "Lusaka",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/zm.svg"
     },
     {
         "code": "ZW",
-        "name": "Zimbabwe",
+        "name": "Republic of Zimbabwe",
         "common_name": "Zimbabwe",
-        "capital": null,
+        "capital": "Harare",
         "independent": true,
         "flag_url": "https://countries.ekmwest.io/flags/zw.svg"
     },
     {
         "code": "AX",
-        "name": "Åland Islands",
-        "common_name": "Åland Islands",
+        "name": "Åland",
+        "common_name": "Åland",
         "capital": "Mariehamn",
         "independent": false,
         "flag_url": "https://countries.ekmwest.io/flags/ax.svg"

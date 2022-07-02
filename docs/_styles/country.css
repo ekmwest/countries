@@ -37,7 +37,7 @@
 }
 
 .country__data-label {
-    width: 50%;
+    width: 48%;
     text-align: right;
     font-weight: 600;
     padding: .3em .3em;
@@ -45,7 +45,7 @@
 }
 
 .country__data-value {
-    width: 50%;
+    width: 52%;
     text-align: left;
     padding: .3em .3em;
     line-height: 1.1;
