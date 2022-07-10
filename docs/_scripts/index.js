@@ -71,12 +71,11 @@
     searchInput.addEventListener('input', debouncedFilter);
 
 
-
     /*  =====================================
         Filter
         ===================================== */
 
-    function filter() {
+    function filter(event) {
         const searchQuery = searchInput.value.toLowerCase();
         const showDependent = dependentInput.checked;
         const showName = nameInput.checked;
@@ -104,6 +103,10 @@
 
             country.element.style.display = '';
         });
+
+        // if (main) {
+        //     main.classList.add('SHOW');
+        // }
     }
 
 

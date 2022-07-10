@@ -10,6 +10,12 @@
     justify-content: center;
     flex-wrap: wrap;
     gap: 4em 2em;
+    /* opacity: 0; */
+    transition: opacity .01s;
+}
+
+.index__main.SHOW {
+    opacity: 1;
 }
 
 .index__form {
