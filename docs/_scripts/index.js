@@ -31,7 +31,8 @@
         ===================================== */
 
     const ClassName = {
-        HIDE_NAME: 'HIDE-NAME'
+        HIDE_NAME: 'HIDE-NAME',
+        SHOW_MAIN: 'SHOW-MAIN'
     };
 
 
@@ -71,11 +72,23 @@
     searchInput.addEventListener('input', debouncedFilter);
 
 
+
     /*  =====================================
         Filter
         ===================================== */
 
     function filter(event) {
+
+        if (event.persisted) {
+
+            // On pageshow for persisted page, we don't need to
+            // run the filter. This is typical in production, but
+            // in development, pages are not persisted (because Piko
+            // uses websockets).
+
+            return;
+        }
+
         const searchQuery = searchInput.value.toLowerCase();
         const showDependent = dependentInput.checked;
         const showName = nameInput.checked;
@@ -104,9 +117,8 @@
             country.element.style.display = '';
         });
 
-        // if (main) {
-        //     main.classList.add('SHOW');
-        // }
+        // 5. Show Page
+        main.classList.add(ClassName.SHOW_MAIN);
     }
 
 

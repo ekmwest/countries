@@ -10,11 +10,11 @@
     justify-content: center;
     flex-wrap: wrap;
     gap: 4em 2em;
-    /* opacity: 0; */
+    opacity: 0;
     transition: opacity .01s;
 }
 
-.index__main.SHOW {
+.index__main.SHOW-MAIN {
     opacity: 1;
 }
 
