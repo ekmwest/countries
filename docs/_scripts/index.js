@@ -10,6 +10,7 @@
         DEPENDENT_INPUT: '[data-element="index.dependent-input"]',
         NAME_INPUT: '[data-element="index.name-input"]',
         MAIN: '.index__main',
+        BODY: '.index__body',
         COUNTRY_ELEMENT: '.index__country'
     };
 
@@ -32,7 +33,7 @@
 
     const ClassName = {
         HIDE_NAME: 'HIDE-NAME',
-        SHOW_MAIN: 'SHOW-MAIN'
+        SHOW_BODY: 'SHOW-BODY'
     };
 
 
@@ -59,6 +60,7 @@
     const dependentInput = document.querySelector(Selector.DEPENDENT_INPUT);
     const nameInput = document.querySelector(Selector.NAME_INPUT);
     const main = document.querySelector(Selector.MAIN);
+    const body = document.querySelector(Selector.BODY);
 
 
 
@@ -117,8 +119,8 @@
             country.element.style.display = '';
         });
 
-        // 5. Show Page
-        main.classList.add(ClassName.SHOW_MAIN);
+        // 5. Show
+        body.classList.add(ClassName.SHOW_BODY);
     }
 
 
