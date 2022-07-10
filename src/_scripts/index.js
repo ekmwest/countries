@@ -79,7 +79,7 @@
 
     function filter(event) {
 
-        if (event.persisted) {
+        if (event?.persisted) {
 
             // On pageshow for persisted page, we don't need to
             // run the filter. This is typical in production, but

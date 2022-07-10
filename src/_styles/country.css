@@ -1,7 +1,3 @@
-.country__body {
-    /* background-color: #f0f0f0; */
-}
-
 .country__flag {
     display: block;
     object-fit: contain;
@@ -19,8 +15,8 @@
 }
 
 .country__name {
-    font-size: 3em;
-    margin: .5em 0 .3em;
+    font-size: 2.6em;
+    margin: 1em 0 .3em;
     line-height: 1.1;
     text-align: center;
 }
