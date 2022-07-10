@@ -55,7 +55,6 @@
         ===================================== */
 
     const searchInput = document.querySelector(Selector.SEARCH_INPUT);
-    const independentInput = document.querySelector(Selector.INDEPENDENT_INPUT);
     const dependentInput = document.querySelector(Selector.DEPENDENT_INPUT);
     const nameInput = document.querySelector(Selector.NAME_INPUT);
     const main = document.querySelector(Selector.MAIN);
@@ -66,7 +65,6 @@
         Events
         ===================================== */
 
-    independentInput.addEventListener('change', filter);
     dependentInput.addEventListener('change', filter);
     nameInput.addEventListener('change', filter);
     window.addEventListener('pageshow', filter);
@@ -80,7 +78,6 @@
 
     function filter() {
         const searchQuery = searchInput.value.toLowerCase();
-        const showIndependent = independentInput.checked;
         const showDependent = dependentInput.checked;
         const showName = nameInput.checked;
 
@@ -95,12 +92,6 @@
 
             // 2. Search
             if (!country.name.toLowerCase().includes(searchQuery)) {
-                country.element.style.display = 'none';
-                return;
-            }
-
-            // 3. Independent
-            if (country.independent && !showIndependent) {
                 country.element.style.display = 'none';
                 return;
             }

@@ -116,12 +116,12 @@ layout: country.html
         <div class="country__data-value">${country.capital ? country.capital : '-'}</div>
     </div>
     <div class="country__data-item">
-        <div class="country__data-label">Country Code</div>
-        <div class="country__data-value">${country.code}</div>
-    </div>
-    <div class="country__data-item">
         <div class="country__data-label">Independent</div>
         <div class="country__data-value">${country.independent ? 'Yes' : 'No'}</div>
+    </div>
+    <div class="country__data-item">
+        <div class="country__data-label">Country Code</div>
+        <div class="country__data-value">${country.code}</div>
     </div>
 </div>`;
 
