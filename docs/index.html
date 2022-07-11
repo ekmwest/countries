@@ -16,18 +16,22 @@
 <body class="index__body">
     <header class="index__header">
         <form class="index__form">
-            <input type="text" class="index__search-input" data-element="index.search-input" />
             <label>
-                <input type="checkbox" name="name-input" data-element="index.name-input" checked />
-                <span>Show Names</span>
+                <input type="checkbox" name="hide-dependent-countries-input" data-element="index.hide-dependent-countries-input" checked />
+                <span>Hide Dependent Countries</span>
             </label>
+
             <label>
-                <input type="checkbox" name="dependent-input" data-element="index.dependent-input" />
-                <span>Show Dependent States</span>
+                <input type="checkbox" name="show-country-names-input" data-element="index.show-country-names-input" checked />
+                <span>Show Country Names</span>
+            </label>
+
+            <label>
+                <input placeholder="Search..." type="text" class="index__search-input" data-element="index.search-input" />
             </label>
         </form>
     </header>
-    <main class="index__main">
+    <main class="index__main SHOW-COUNTRY-NAMES">
         
             <a class="index__country" href="/countries/af/" data-country-name="Afghanistan" data-independent="true">
                 <img class="index__flag" src="/flags/af.svg" alt="Afghanistan" />

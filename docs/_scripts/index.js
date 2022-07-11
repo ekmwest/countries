@@ -5,12 +5,11 @@
         ===================================== */
 
     const Selector = {
-        SEARCH_INPUT: '[data-element="index.search-input"]',
-        INDEPENDENT_INPUT: '[data-element="index.independent-input"]',
-        DEPENDENT_INPUT: '[data-element="index.dependent-input"]',
-        NAME_INPUT: '[data-element="index.name-input"]',
-        MAIN: '.index__main',
         BODY: '.index__body',
+        MAIN: '.index__main',
+        HIDE_DEPENDENT_COUNTRIES_INPUT: '[data-element="index.hide-dependent-countries-input"]',
+        SHOW_COUNTRY_NAMES_INPUT: '[data-element="index.show-country-names-input"]',
+        SEARCH_INPUT: '[data-element="index.search-input"]',
         COUNTRY_ELEMENT: '.index__country'
     };
 
@@ -32,7 +31,7 @@
         ===================================== */
 
     const ClassName = {
-        HIDE_NAME: 'HIDE-NAME',
+        SHOW_COUNTRY_NAMES: 'SHOW-COUNTRY-NAMES',
         SHOW_BODY: 'SHOW-BODY'
     };
 
@@ -56,11 +55,11 @@
         Elements
         ===================================== */
 
-    const searchInput = document.querySelector(Selector.SEARCH_INPUT);
-    const dependentInput = document.querySelector(Selector.DEPENDENT_INPUT);
-    const nameInput = document.querySelector(Selector.NAME_INPUT);
-    const main = document.querySelector(Selector.MAIN);
     const body = document.querySelector(Selector.BODY);
+    const main = document.querySelector(Selector.MAIN);
+    const hideDependentCountriesInput = document.querySelector(Selector.HIDE_DEPENDENT_COUNTRIES_INPUT);
+    const showCountryNamesInput = document.querySelector(Selector.SHOW_COUNTRY_NAMES_INPUT);
+    const searchInput = document.querySelector(Selector.SEARCH_INPUT);
 
 
 
@@ -68,9 +67,9 @@
         Events
         ===================================== */
 
-    dependentInput.addEventListener('change', filter);
-    nameInput.addEventListener('change', filter);
     window.addEventListener('pageshow', filter);
+    hideDependentCountriesInput.addEventListener('change', filter);
+    showCountryNamesInput.addEventListener('change', filter);
     searchInput.addEventListener('input', debouncedFilter);
 
 
@@ -81,6 +80,7 @@
 
     function filter(event) {
 
+        // Persisted?
         if (event?.persisted) {
 
             // On pageshow for persisted page, we don't need to
@@ -91,27 +91,28 @@
             return;
         }
 
+        // Filter values
+        const hideDependentCountries = hideDependentCountriesInput.checked;
+        const showCountryNames = showCountryNamesInput.checked;
         const searchQuery = searchInput.value.toLowerCase();
-        const showDependent = dependentInput.checked;
-        const showName = nameInput.checked;
 
-        // 1. Show Name
-        if (showName) {
-            main.classList.remove(ClassName.HIDE_NAME);
+        // 1. Show Country Names
+        if (showCountryNames) {
+            main.classList.add(ClassName.SHOW_COUNTRY_NAMES);
         } else {
-            main.classList.add(ClassName.HIDE_NAME);
+            main.classList.remove(ClassName.SHOW_COUNTRY_NAMES);
         }
 
         countries.forEach(country => {
 
-            // 2. Search
+            // 2. Search Match?
             if (!country.name.toLowerCase().includes(searchQuery)) {
                 country.element.style.display = 'none';
                 return;
             }
 
-            // 4. Dependent
-            if (!country.independent && !showDependent) {
+            // 3. Dependency Match?
+            if (!country.independent && hideDependentCountries) {
                 country.element.style.display = 'none';
                 return;
             }
@@ -119,7 +120,7 @@
             country.element.style.display = '';
         });
 
-        // 5. Show
+        // 4. Show
         body.classList.add(ClassName.SHOW_BODY);
     }
 
