@@ -35,7 +35,7 @@
 
 .index__form {
     display: block;
-    padding: 1em 0;
+    padding: 2em 0;
     max-width: 320px;
     margin: 0 auto;
 }
@@ -54,12 +54,24 @@
 
 
 /* =========================================================================
+   Checbox
+   ========================================================================= */
+
+.index input[type=checkbox] {
+    transform: scale(1.4);
+    margin: 0 .8em 0 .8em;
+}
+
+
+
+/* =========================================================================
    Search Input
    ========================================================================= */
 
 .index__search-input {
     box-sizing: border-box;
-    border: 1px solid #999;
+    border: 1px solid #bbb;
+    margin-top: 1em;
     padding: .4em .6em;
     border-radius: 4px;
     outline: none;
@@ -72,7 +84,7 @@
 
 .index__search-input:focus {
     border: 1px solid #0075ff;
-    box-shadow: 0 0 2px #0075ff;
+    box-shadow: 0 0 3px #0075ff;
 }
 
 

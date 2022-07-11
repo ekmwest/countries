@@ -96,32 +96,37 @@
         const showCountryNames = showCountryNamesInput.checked;
         const searchQuery = searchInput.value.toLowerCase();
 
-        // 1. Show Country Names
-        if (showCountryNames) {
-            main.classList.add(ClassName.SHOW_COUNTRY_NAMES);
-        } else {
-            main.classList.remove(ClassName.SHOW_COUNTRY_NAMES);
-        }
 
-        countries.forEach(country => {
+        requestAnimationFrame(() => {
 
-            // 2. Search Match?
-            if (!country.name.toLowerCase().includes(searchQuery)) {
-                country.element.style.display = 'none';
-                return;
+            // 1. Show Country Names
+            if (showCountryNames) {
+                main.classList.add(ClassName.SHOW_COUNTRY_NAMES);
+            } else {
+                main.classList.remove(ClassName.SHOW_COUNTRY_NAMES);
             }
 
-            // 3. Dependency Match?
-            if (!country.independent && hideDependentCountries) {
-                country.element.style.display = 'none';
-                return;
-            }
+            countries.forEach(country => {
 
-            country.element.style.display = '';
+                // 2. Search Match?
+                if (!country.name.toLowerCase().includes(searchQuery)) {
+                    country.element.style.display = 'none';
+                    return;
+                }
+
+                // 3. Dependency Match?
+                if (!country.independent && hideDependentCountries) {
+                    country.element.style.display = 'none';
+                    return;
+                }
+
+                country.element.style.display = '';
+            });
+
+            // 4. Show
+            body.classList.add(ClassName.SHOW_BODY);
+
         });
-
-        // 4. Show
-        body.classList.add(ClassName.SHOW_BODY);
     }
 
 
