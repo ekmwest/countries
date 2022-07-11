@@ -5,6 +5,7 @@
         "common_name": "Afghanistan",
         "capital": "Kabul",
         "independent": true,
+        "continent": "Asia",
         "flag_url": "https://countries.ekmwest.io/flags/af.svg"
     },
     {
@@ -13,6 +14,7 @@
         "common_name": "Albania",
         "capital": "Tirana",
         "independent": true,
+        "continent": "Europe",
         "flag_url": "https://countries.ekmwest.io/flags/al.svg"
     },
     {
@@ -21,6 +23,7 @@
         "common_name": "Algeria",
         "capital": "Algiers",
         "independent": true,
+        "continent": "Africa",
         "flag_url": "https://countries.ekmwest.io/flags/dz.svg"
     },
     {
@@ -29,6 +32,7 @@
         "common_name": "American Samoa",
         "capital": "Pago Pago",
         "independent": false,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/as.svg"
     },
     {
@@ -37,6 +41,7 @@
         "common_name": "Andorra",
         "capital": "Andorra la Vella",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/ad.svg"
     },
     {
@@ -45,6 +50,7 @@
         "common_name": "Angola",
         "capital": "Luanda",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/ao.svg"
     },
     {
@@ -53,6 +59,7 @@
         "common_name": "Anguilla",
         "capital": "The Valley",
         "independent": false,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/ai.svg"
     },
     {
@@ -61,6 +68,7 @@
         "common_name": "Antarctica",
         "capital": null,
         "independent": false,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/aq.svg"
     },
     {
@@ -69,6 +77,7 @@
         "common_name": "Antigua and Barbuda",
         "capital": "St. John's",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/ag.svg"
     },
     {
@@ -77,6 +86,7 @@
         "common_name": "Argentina",
         "capital": "Buenos Aires",
         "independent": true,
+        "continent": "South America",
         "flag_url": "https://countries.ekmwest.io/flags/ar.svg"
     },
     {
@@ -85,6 +95,7 @@
         "common_name": "Armenia",
         "capital": "Yerevan",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/am.svg"
     },
     {
@@ -93,6 +104,7 @@
         "common_name": "Aruba",
         "capital": "Oranjestad",
         "independent": false,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/aw.svg"
     },
     {
@@ -101,6 +113,7 @@
         "common_name": "Australia",
         "capital": "Canberra",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/au.svg"
     },
     {
@@ -109,6 +122,7 @@
         "common_name": "Austria",
         "capital": "Vienna",
         "independent": true,
+        "continent": "Europe",
         "flag_url": "https://countries.ekmwest.io/flags/at.svg"
     },
     {
@@ -117,6 +131,7 @@
         "common_name": "Azerbaijan",
         "capital": "Baku",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/az.svg"
     },
     {
@@ -125,6 +140,7 @@
         "common_name": "Bahamas",
         "capital": "Nassau",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/bs.svg"
     },
     {
@@ -133,6 +149,7 @@
         "common_name": "Bahrain",
         "capital": "Manama",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/bh.svg"
     },
     {
@@ -141,6 +158,7 @@
         "common_name": "Bangladesh",
         "capital": "Dhaka",
         "independent": true,
+        "continent": "Asia",
         "flag_url": "https://countries.ekmwest.io/flags/bd.svg"
     },
     {
@@ -149,6 +167,7 @@
         "common_name": "Barbados",
         "capital": "Bridgetown",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/bb.svg"
     },
     {
@@ -157,6 +176,7 @@
         "common_name": "Belarus",
         "capital": "Minsk",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/by.svg"
     },
     {
@@ -165,6 +185,7 @@
         "common_name": "Belgium",
         "capital": "Brussels",
         "independent": true,
+        "continent": "Europe",
         "flag_url": "https://countries.ekmwest.io/flags/be.svg"
     },
     {
@@ -173,6 +194,7 @@
         "common_name": "Belize",
         "capital": "Belmopan",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/bz.svg"
     },
     {
@@ -181,6 +203,7 @@
         "common_name": "Benin",
         "capital": "Porto-Novo",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/bj.svg"
     },
     {
@@ -189,6 +212,7 @@
         "common_name": "Bermuda",
         "capital": "Hamilton",
         "independent": false,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/bm.svg"
     },
     {
@@ -197,6 +221,7 @@
         "common_name": "Bhutan",
         "capital": "Thimphu",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/bt.svg"
     },
     {
@@ -205,6 +230,7 @@
         "common_name": "Bolivia",
         "capital": null,
         "independent": true,
+        "continent": "South America",
         "flag_url": "https://countries.ekmwest.io/flags/bo.svg"
     },
     {
@@ -213,6 +239,7 @@
         "common_name": "Bosnia and Herzegovina",
         "capital": "Sarajevo",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/ba.svg"
     },
     {
@@ -221,6 +248,7 @@
         "common_name": "Botswana",
         "capital": "Gaborone",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/bw.svg"
     },
     {
@@ -229,6 +257,7 @@
         "common_name": "Bouvet Island",
         "capital": null,
         "independent": false,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/bv.svg"
     },
     {
@@ -237,6 +266,7 @@
         "common_name": "Brazil",
         "capital": "Brasilia",
         "independent": true,
+        "continent": "South America",
         "flag_url": "https://countries.ekmwest.io/flags/br.svg"
     },
     {
@@ -245,6 +275,7 @@
         "common_name": "British Indian Ocean Territory",
         "capital": null,
         "independent": false,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/io.svg"
     },
     {
@@ -253,6 +284,7 @@
         "common_name": "British Virgin Islands",
         "capital": "Road Town",
         "independent": false,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/vg.svg"
     },
     {
@@ -261,6 +293,7 @@
         "common_name": "Brunei",
         "capital": "Bandar Seri",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/bn.svg"
     },
     {
@@ -269,6 +302,7 @@
         "common_name": "Bulgaria",
         "capital": "Sofia",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/bg.svg"
     },
     {
@@ -277,6 +311,7 @@
         "common_name": "Burkina Faso",
         "capital": "Ouagadougou",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/bf.svg"
     },
     {
@@ -285,6 +320,7 @@
         "common_name": "Burundi",
         "capital": "Gitega",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/bi.svg"
     },
     {
@@ -293,6 +329,7 @@
         "common_name": "Cabo Verde",
         "capital": "Praia",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/cv.svg"
     },
     {
@@ -301,6 +338,7 @@
         "common_name": "Cambodia",
         "capital": "Phnom Penh",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/kh.svg"
     },
     {
@@ -309,6 +347,7 @@
         "common_name": "Cameroon",
         "capital": "Yaoundé",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/cm.svg"
     },
     {
@@ -317,6 +356,7 @@
         "common_name": "Canada",
         "capital": "Ottawa",
         "independent": true,
+        "continent": "North America",
         "flag_url": "https://countries.ekmwest.io/flags/ca.svg"
     },
     {
@@ -325,6 +365,7 @@
         "common_name": "Caribbean Netherlands",
         "capital": null,
         "independent": false,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/bq.svg"
     },
     {
@@ -333,6 +374,7 @@
         "common_name": "Cayman Islands",
         "capital": "George Town",
         "independent": false,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/ky.svg"
     },
     {
@@ -341,6 +383,7 @@
         "common_name": "Central African Republic",
         "capital": "Bangui",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/cf.svg"
     },
     {
@@ -349,6 +392,7 @@
         "common_name": "Chad",
         "capital": "N'Djamena",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/td.svg"
     },
     {
@@ -357,6 +401,7 @@
         "common_name": "Chile",
         "capital": "Santiago",
         "independent": true,
+        "continent": "South America",
         "flag_url": "https://countries.ekmwest.io/flags/cl.svg"
     },
     {
@@ -365,6 +410,7 @@
         "common_name": "China",
         "capital": "Beijing",
         "independent": true,
+        "continent": "Asia",
         "flag_url": "https://countries.ekmwest.io/flags/cn.svg"
     },
     {
@@ -373,6 +419,7 @@
         "common_name": "Christmas Island",
         "capital": "Flying Fish Cove",
         "independent": false,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/cx.svg"
     },
     {
@@ -381,6 +428,7 @@
         "common_name": "Cocos Islands",
         "capital": "West Island",
         "independent": false,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/cc.svg"
     },
     {
@@ -389,6 +437,7 @@
         "common_name": "Colombia",
         "capital": "Bogotá",
         "independent": true,
+        "continent": "South America",
         "flag_url": "https://countries.ekmwest.io/flags/co.svg"
     },
     {
@@ -397,6 +446,7 @@
         "common_name": "Comoros",
         "capital": "Moroni",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/km.svg"
     },
     {
@@ -405,6 +455,7 @@
         "common_name": "Congo",
         "capital": "Kinshasa",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/cd.svg"
     },
     {
@@ -413,6 +464,7 @@
         "common_name": "Congo",
         "capital": "Brazzaville",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/cg.svg"
     },
     {
@@ -421,6 +473,7 @@
         "common_name": "Cook Islands",
         "capital": "Avarua",
         "independent": false,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/ck.svg"
     },
     {
@@ -429,6 +482,7 @@
         "common_name": "Costa Rica",
         "capital": "San José",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/cr.svg"
     },
     {
@@ -437,6 +491,7 @@
         "common_name": "Croatia",
         "capital": "Zagreb",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/hr.svg"
     },
     {
@@ -445,6 +500,7 @@
         "common_name": "Cuba",
         "capital": "Havana",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/cu.svg"
     },
     {
@@ -453,6 +509,7 @@
         "common_name": "Curaçao",
         "capital": "Willemstad",
         "independent": false,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/cw.svg"
     },
     {
@@ -461,6 +518,7 @@
         "common_name": "Cyprus",
         "capital": "Nicosia",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/cy.svg"
     },
     {
@@ -469,6 +527,7 @@
         "common_name": "Czechia",
         "capital": "Prague",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/cz.svg"
     },
     {
@@ -477,6 +536,7 @@
         "common_name": "Denmark",
         "capital": "Copenhagen",
         "independent": true,
+        "continent": "Europe",
         "flag_url": "https://countries.ekmwest.io/flags/dk.svg"
     },
     {
@@ -485,6 +545,7 @@
         "common_name": "Djibouti",
         "capital": "Djibouti",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/dj.svg"
     },
     {
@@ -493,6 +554,7 @@
         "common_name": "Dominica",
         "capital": "Roseau",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/dm.svg"
     },
     {
@@ -501,6 +563,7 @@
         "common_name": "Dominican Republic",
         "capital": "Santo Domingo",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/do.svg"
     },
     {
@@ -509,6 +572,7 @@
         "common_name": "East Timor",
         "capital": "Dili",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/tl.svg"
     },
     {
@@ -517,6 +581,7 @@
         "common_name": "Ecuador",
         "capital": "Quito",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/ec.svg"
     },
     {
@@ -525,6 +590,7 @@
         "common_name": "Egypt",
         "capital": "Cairo",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/eg.svg"
     },
     {
@@ -533,6 +599,7 @@
         "common_name": "El Salvador",
         "capital": "San Salvador",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/sv.svg"
     },
     {
@@ -541,6 +608,7 @@
         "common_name": "Equatorial Guinea",
         "capital": "Malabo",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/gq.svg"
     },
     {
@@ -549,6 +617,7 @@
         "common_name": "Eritrea",
         "capital": "Asmara",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/er.svg"
     },
     {
@@ -557,6 +626,7 @@
         "common_name": "Estonia",
         "capital": "Tallin",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/ee.svg"
     },
     {
@@ -565,6 +635,7 @@
         "common_name": "Eswatini",
         "capital": "Mbabane",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/sz.svg"
     },
     {
@@ -573,6 +644,7 @@
         "common_name": "Ethiopia",
         "capital": "Addis Ababa",
         "independent": true,
+        "continent": "Africa",
         "flag_url": "https://countries.ekmwest.io/flags/et.svg"
     },
     {
@@ -581,6 +653,7 @@
         "common_name": "Falkland Islands",
         "capital": "Stanley",
         "independent": false,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/fk.svg"
     },
     {
@@ -589,6 +662,7 @@
         "common_name": "Faroe Islands",
         "capital": "Tórshavn",
         "independent": false,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/fo.svg"
     },
     {
@@ -597,6 +671,7 @@
         "common_name": "Fiji",
         "capital": "Suva",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/fj.svg"
     },
     {
@@ -605,6 +680,7 @@
         "common_name": "Finland",
         "capital": "Helsinki",
         "independent": true,
+        "continent": "Europe",
         "flag_url": "https://countries.ekmwest.io/flags/fi.svg"
     },
     {
@@ -613,6 +689,7 @@
         "common_name": "France",
         "capital": "Paris",
         "independent": true,
+        "continent": "Europe",
         "flag_url": "https://countries.ekmwest.io/flags/fr.svg"
     },
     {
@@ -621,6 +698,7 @@
         "common_name": "French Guiana",
         "capital": "Cayenne",
         "independent": false,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/gf.svg"
     },
     {
@@ -629,6 +707,7 @@
         "common_name": "French Polynesia",
         "capital": "Papeete",
         "independent": false,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/pf.svg"
     },
     {
@@ -637,6 +716,7 @@
         "common_name": "French Southern Lands",
         "capital": "Saint Pierre",
         "independent": false,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/tf.svg"
     },
     {
@@ -645,6 +725,7 @@
         "common_name": "Gabon",
         "capital": "Livreville",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/ga.svg"
     },
     {
@@ -653,6 +734,7 @@
         "common_name": "Gambia",
         "capital": "Banjul",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/gm.svg"
     },
     {
@@ -661,6 +743,7 @@
         "common_name": "Georgia",
         "capital": "Tbilisi",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/ge.svg"
     },
     {
@@ -669,6 +752,7 @@
         "common_name": "Germany",
         "capital": "Berlin",
         "independent": true,
+        "continent": "Europe",
         "flag_url": "https://countries.ekmwest.io/flags/de.svg"
     },
     {
@@ -677,6 +761,7 @@
         "common_name": "Ghana",
         "capital": "Accra",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/gh.svg"
     },
     {
@@ -685,6 +770,7 @@
         "common_name": "Gibraltar",
         "capital": "Westside",
         "independent": false,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/gi.svg"
     },
     {
@@ -693,6 +779,7 @@
         "common_name": "Greece",
         "capital": "Athens",
         "independent": true,
+        "continent": "Europe",
         "flag_url": "https://countries.ekmwest.io/flags/gr.svg"
     },
     {
@@ -701,6 +788,7 @@
         "common_name": "Greenland",
         "capital": "Nuuk",
         "independent": false,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/gl.svg"
     },
     {
@@ -709,6 +797,7 @@
         "common_name": "Grenada",
         "capital": "St. George's",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/gd.svg"
     },
     {
@@ -717,6 +806,7 @@
         "common_name": "Guadeloupe",
         "capital": null,
         "independent": false,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/gp.svg"
     },
     {
@@ -725,6 +815,7 @@
         "common_name": "Guam",
         "capital": "Hagåtña",
         "independent": false,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/gu.svg"
     },
     {
@@ -733,6 +824,7 @@
         "common_name": "Guatemala",
         "capital": "Guatemala City",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/gt.svg"
     },
     {
@@ -741,6 +833,7 @@
         "common_name": "Guernsey",
         "capital": "Saint Peter Port",
         "independent": false,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/gg.svg"
     },
     {
@@ -749,6 +842,7 @@
         "common_name": "Guinea",
         "capital": "Conakry",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/gn.svg"
     },
     {
@@ -757,6 +851,7 @@
         "common_name": "Guinea-Bissau",
         "capital": "Bissau",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/gw.svg"
     },
     {
@@ -765,6 +860,7 @@
         "common_name": "Guyana",
         "capital": "Georgetown",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/gy.svg"
     },
     {
@@ -773,6 +869,7 @@
         "common_name": "Haiti",
         "capital": "Port-au-Prince",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/ht.svg"
     },
     {
@@ -781,6 +878,7 @@
         "common_name": "Heard Island and McDonald Islands",
         "capital": null,
         "independent": false,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/hm.svg"
     },
     {
@@ -789,6 +887,7 @@
         "common_name": "Honduras",
         "capital": "Tegucigalpa",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/hn.svg"
     },
     {
@@ -797,6 +896,7 @@
         "common_name": "Hong Kong",
         "capital": null,
         "independent": false,
+        "continent": "Asia",
         "flag_url": "https://countries.ekmwest.io/flags/hk.svg"
     },
     {
@@ -805,6 +905,7 @@
         "common_name": "Hungary",
         "capital": "Budapest",
         "independent": true,
+        "continent": "Europe",
         "flag_url": "https://countries.ekmwest.io/flags/hu.svg"
     },
     {
@@ -813,6 +914,7 @@
         "common_name": "Iceland",
         "capital": "Reykjavik",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/is.svg"
     },
     {
@@ -821,6 +923,7 @@
         "common_name": "India",
         "capital": "New Delhi",
         "independent": true,
+        "continent": "Asia",
         "flag_url": "https://countries.ekmwest.io/flags/in.svg"
     },
     {
@@ -829,6 +932,7 @@
         "common_name": "Indonesia",
         "capital": "Jakarta",
         "independent": true,
+        "continent": "Asia",
         "flag_url": "https://countries.ekmwest.io/flags/id.svg"
     },
     {
@@ -837,6 +941,7 @@
         "common_name": "Iran",
         "capital": "Tehran",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/ir.svg"
     },
     {
@@ -845,6 +950,7 @@
         "common_name": "Iraq",
         "capital": "Baghdad",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/iq.svg"
     },
     {
@@ -853,6 +959,7 @@
         "common_name": "Ireland",
         "capital": "Dublin",
         "independent": true,
+        "continent": "Europe",
         "flag_url": "https://countries.ekmwest.io/flags/ie.svg"
     },
     {
@@ -861,6 +968,7 @@
         "common_name": "Isle of Man",
         "capital": "Douglas",
         "independent": false,
+        "continent": "Europe",
         "flag_url": "https://countries.ekmwest.io/flags/im.svg"
     },
     {
@@ -869,6 +977,7 @@
         "common_name": "Israel",
         "capital": "Jerusalem",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/il.svg"
     },
     {
@@ -877,6 +986,7 @@
         "common_name": "Italy",
         "capital": "Rome",
         "independent": true,
+        "continent": "Europe",
         "flag_url": "https://countries.ekmwest.io/flags/it.svg"
     },
     {
@@ -885,6 +995,7 @@
         "common_name": "Ivory Coast",
         "capital": "Yamoussoukro",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/ci.svg"
     },
     {
@@ -893,6 +1004,7 @@
         "common_name": "Jamaica",
         "capital": "Kingston",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/jm.svg"
     },
     {
@@ -901,6 +1013,7 @@
         "common_name": "Japan",
         "capital": "Tokyo",
         "independent": true,
+        "continent": "Asia",
         "flag_url": "https://countries.ekmwest.io/flags/jp.svg"
     },
     {
@@ -909,6 +1022,7 @@
         "common_name": "Jersey",
         "capital": "Saint Helier",
         "independent": false,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/je.svg"
     },
     {
@@ -917,6 +1031,7 @@
         "common_name": "Jordan",
         "capital": "Amman",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/jo.svg"
     },
     {
@@ -925,6 +1040,7 @@
         "common_name": "Kazakhstan",
         "capital": "Nur-Sultan",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/kz.svg"
     },
     {
@@ -933,6 +1049,7 @@
         "common_name": "Kenya",
         "capital": "Nairobi",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/ke.svg"
     },
     {
@@ -941,6 +1058,7 @@
         "common_name": "Kiribati",
         "capital": "South Tarawa",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/ki.svg"
     },
     {
@@ -949,6 +1067,7 @@
         "common_name": "Kuwait",
         "capital": "Kuwait City",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/kw.svg"
     },
     {
@@ -957,6 +1076,7 @@
         "common_name": "Kyrgyzstan",
         "capital": "Bishkek",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/kg.svg"
     },
     {
@@ -965,6 +1085,7 @@
         "common_name": "Laos",
         "capital": "Vientiane",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/la.svg"
     },
     {
@@ -973,6 +1094,7 @@
         "common_name": "Latvia",
         "capital": "Riga",
         "independent": true,
+        "continent": "Europe",
         "flag_url": "https://countries.ekmwest.io/flags/lv.svg"
     },
     {
@@ -981,6 +1103,7 @@
         "common_name": "Lebanon",
         "capital": "Beirut",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/lb.svg"
     },
     {
@@ -989,6 +1112,7 @@
         "common_name": "Lesotho",
         "capital": "Maseru",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/ls.svg"
     },
     {
@@ -997,6 +1121,7 @@
         "common_name": "Liberia",
         "capital": "Monrovia",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/lr.svg"
     },
     {
@@ -1005,6 +1130,7 @@
         "common_name": "Libya",
         "capital": "Tripoli",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/ly.svg"
     },
     {
@@ -1013,6 +1139,7 @@
         "common_name": "Liechtenstein",
         "capital": "Vaduz",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/li.svg"
     },
     {
@@ -1021,6 +1148,7 @@
         "common_name": "Lithuania",
         "capital": "Vilnius",
         "independent": true,
+        "continent": "Europe",
         "flag_url": "https://countries.ekmwest.io/flags/lt.svg"
     },
     {
@@ -1029,6 +1157,7 @@
         "common_name": "Luxembourg",
         "capital": "Luxembourg City",
         "independent": true,
+        "continent": "Europe",
         "flag_url": "https://countries.ekmwest.io/flags/lu.svg"
     },
     {
@@ -1037,6 +1166,7 @@
         "common_name": "Macao",
         "capital": null,
         "independent": false,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/mo.svg"
     },
     {
@@ -1045,6 +1175,7 @@
         "common_name": "Macedonia",
         "capital": "Skopje",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/mk.svg"
     },
     {
@@ -1053,6 +1184,7 @@
         "common_name": "Madagascar",
         "capital": "Antananarivo",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/mg.svg"
     },
     {
@@ -1061,6 +1193,7 @@
         "common_name": "Malawi",
         "capital": "Lilongwe",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/mw.svg"
     },
     {
@@ -1069,6 +1202,7 @@
         "common_name": "Malaysia",
         "capital": "Putrajaya",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/my.svg"
     },
     {
@@ -1077,6 +1211,7 @@
         "common_name": "Maldives",
         "capital": "Malé",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/mv.svg"
     },
     {
@@ -1085,6 +1220,7 @@
         "common_name": "Mali",
         "capital": "Bamako",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/ml.svg"
     },
     {
@@ -1093,6 +1229,7 @@
         "common_name": "Malta",
         "capital": "Valletta",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/mt.svg"
     },
     {
@@ -1101,6 +1238,7 @@
         "common_name": "Marshall Islands",
         "capital": "Delap-Uliga-Djarrit",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/mh.svg"
     },
     {
@@ -1109,6 +1247,7 @@
         "common_name": "Martinique",
         "capital": "Fort-de-France",
         "independent": false,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/mq.svg"
     },
     {
@@ -1117,6 +1256,7 @@
         "common_name": "Mauritania",
         "capital": "Nouakchott",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/mr.svg"
     },
     {
@@ -1125,6 +1265,7 @@
         "common_name": "Mauritius",
         "capital": "Port Louis",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/mu.svg"
     },
     {
@@ -1133,6 +1274,7 @@
         "common_name": "Mayotte",
         "capital": "Mamoudzou",
         "independent": false,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/yt.svg"
     },
     {
@@ -1141,6 +1283,7 @@
         "common_name": "Mexico",
         "capital": "Mixico City",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/mx.svg"
     },
     {
@@ -1149,6 +1292,7 @@
         "common_name": "Micronesia",
         "capital": "Palikir",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/fm.svg"
     },
     {
@@ -1157,6 +1301,7 @@
         "common_name": "Moldova",
         "capital": "Chisinau",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/md.svg"
     },
     {
@@ -1165,6 +1310,7 @@
         "common_name": "Monaco",
         "capital": "Monaco",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/mc.svg"
     },
     {
@@ -1173,6 +1319,7 @@
         "common_name": "Mongolia",
         "capital": "Ulaanbaatar",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/mn.svg"
     },
     {
@@ -1181,6 +1328,7 @@
         "common_name": "Montenegro",
         "capital": "Podgorica",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/me.svg"
     },
     {
@@ -1189,6 +1337,7 @@
         "common_name": "Montserrat",
         "capital": "Plymouth",
         "independent": false,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/ms.svg"
     },
     {
@@ -1197,6 +1346,7 @@
         "common_name": "Morocco",
         "capital": "Rabat",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/ma.svg"
     },
     {
@@ -1205,6 +1355,7 @@
         "common_name": "Mozambique",
         "capital": "Maputo",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/mz.svg"
     },
     {
@@ -1213,6 +1364,7 @@
         "common_name": "Myanmar",
         "capital": "Naypyidaw",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/mm.svg"
     },
     {
@@ -1221,6 +1373,7 @@
         "common_name": "Namibia",
         "capital": "Windhoek",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/na.svg"
     },
     {
@@ -1229,6 +1382,7 @@
         "common_name": "Nauru",
         "capital": "Yaren",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/nr.svg"
     },
     {
@@ -1237,6 +1391,7 @@
         "common_name": "Nepal",
         "capital": "Kathmandu",
         "independent": true,
+        "continent": "Asia",
         "flag_url": "https://countries.ekmwest.io/flags/np.svg"
     },
     {
@@ -1245,6 +1400,7 @@
         "common_name": "Netherlands",
         "capital": "Amsterdam",
         "independent": true,
+        "continent": "Europe",
         "flag_url": "https://countries.ekmwest.io/flags/nl.svg"
     },
     {
@@ -1253,6 +1409,7 @@
         "common_name": "New Caledonia",
         "capital": "Nouméa",
         "independent": false,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/nc.svg"
     },
     {
@@ -1261,6 +1418,7 @@
         "common_name": "New Zealand",
         "capital": "Wellington",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/nz.svg"
     },
     {
@@ -1269,6 +1427,7 @@
         "common_name": "Nicaragua",
         "capital": "Managua",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/ni.svg"
     },
     {
@@ -1277,6 +1436,7 @@
         "common_name": "Niger",
         "capital": "Niamey",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/ne.svg"
     },
     {
@@ -1285,6 +1445,7 @@
         "common_name": "Nigeria",
         "capital": "Abuja",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/ng.svg"
     },
     {
@@ -1293,6 +1454,7 @@
         "common_name": "Niue",
         "capital": "Alofi",
         "independent": false,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/nu.svg"
     },
     {
@@ -1301,6 +1463,7 @@
         "common_name": "Norfolk Island",
         "capital": "Kingston",
         "independent": false,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/nf.svg"
     },
     {
@@ -1309,6 +1472,7 @@
         "common_name": "North Korea",
         "capital": "Pyongyang",
         "independent": true,
+        "continent": "Asia",
         "flag_url": "https://countries.ekmwest.io/flags/kp.svg"
     },
     {
@@ -1317,6 +1481,7 @@
         "common_name": "Northern Mariana Islands",
         "capital": "Saipan",
         "independent": false,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/mp.svg"
     },
     {
@@ -1325,6 +1490,7 @@
         "common_name": "Norway",
         "capital": "Oslo",
         "independent": true,
+        "continent": "Europe",
         "flag_url": "https://countries.ekmwest.io/flags/no.svg"
     },
     {
@@ -1333,6 +1499,7 @@
         "common_name": "Oman",
         "capital": "Muscat",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/om.svg"
     },
     {
@@ -1341,6 +1508,7 @@
         "common_name": "Pakistan",
         "capital": "Islamabad",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/pk.svg"
     },
     {
@@ -1349,6 +1517,7 @@
         "common_name": "Palau",
         "capital": "Ngerulmud",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/pw.svg"
     },
     {
@@ -1357,6 +1526,7 @@
         "common_name": "Palestine",
         "capital": "Jerusalem",
         "independent": false,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/ps.svg"
     },
     {
@@ -1365,6 +1535,7 @@
         "common_name": "Panama",
         "capital": "Panama City",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/pa.svg"
     },
     {
@@ -1373,6 +1544,7 @@
         "common_name": "Papua New Guinea",
         "capital": "Port Moresby",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/pg.svg"
     },
     {
@@ -1381,6 +1553,7 @@
         "common_name": "Paraguay",
         "capital": "Asunción",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/py.svg"
     },
     {
@@ -1389,6 +1562,7 @@
         "common_name": "Peru",
         "capital": "Lima",
         "independent": true,
+        "continent": "South America",
         "flag_url": "https://countries.ekmwest.io/flags/pe.svg"
     },
     {
@@ -1397,6 +1571,7 @@
         "common_name": "Philippines",
         "capital": "Manila",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/ph.svg"
     },
     {
@@ -1405,6 +1580,7 @@
         "common_name": "Pitcairn Islands",
         "capital": "Adamstown",
         "independent": false,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/pn.svg"
     },
     {
@@ -1413,6 +1589,7 @@
         "common_name": "Poland",
         "capital": "Warsaw",
         "independent": true,
+        "continent": "Europe",
         "flag_url": "https://countries.ekmwest.io/flags/pl.svg"
     },
     {
@@ -1421,6 +1598,7 @@
         "common_name": "Portugal",
         "capital": "Lisbon",
         "independent": true,
+        "continent": "Europe",
         "flag_url": "https://countries.ekmwest.io/flags/pt.svg"
     },
     {
@@ -1429,6 +1607,7 @@
         "common_name": "Puerto Rico",
         "capital": "San Juan",
         "independent": false,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/pr.svg"
     },
     {
@@ -1437,6 +1616,7 @@
         "common_name": "Qatar",
         "capital": "Doha",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/qa.svg"
     },
     {
@@ -1445,6 +1625,7 @@
         "common_name": "Romania",
         "capital": "Bucharest",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/ro.svg"
     },
     {
@@ -1453,6 +1634,7 @@
         "common_name": "Russia",
         "capital": "Moscow",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/ru.svg"
     },
     {
@@ -1461,6 +1643,7 @@
         "common_name": "Rwanda",
         "capital": "Kigali",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/rw.svg"
     },
     {
@@ -1469,6 +1652,7 @@
         "common_name": "Réunion",
         "capital": "Saint-Denis",
         "independent": false,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/re.svg"
     },
     {
@@ -1477,6 +1661,7 @@
         "common_name": "Saint Barthélemy",
         "capital": "Gustavia",
         "independent": false,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/bl.svg"
     },
     {
@@ -1485,6 +1670,7 @@
         "common_name": "Saint Helena, Ascension and Tristan da Cunha",
         "capital": "Jamestown",
         "independent": false,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/sh.svg"
     },
     {
@@ -1493,6 +1679,7 @@
         "common_name": "Saint Kitts and Nevis",
         "capital": "Basseterre",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/kn.svg"
     },
     {
@@ -1501,6 +1688,7 @@
         "common_name": "Saint Lucia",
         "capital": "Castries",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/lc.svg"
     },
     {
@@ -1509,6 +1697,7 @@
         "common_name": "Saint Martin",
         "capital": "Marigot",
         "independent": false,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/mf.svg"
     },
     {
@@ -1517,6 +1706,7 @@
         "common_name": "Saint Pierre and Miquelon",
         "capital": "Saint-Pierre",
         "independent": false,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/pm.svg"
     },
     {
@@ -1525,6 +1715,7 @@
         "common_name": "Saint Vincent",
         "capital": "Kingstown",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/vc.svg"
     },
     {
@@ -1533,6 +1724,7 @@
         "common_name": "Samoa",
         "capital": "Apia",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/ws.svg"
     },
     {
@@ -1541,6 +1733,7 @@
         "common_name": "San Marino",
         "capital": "San Marino",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/sm.svg"
     },
     {
@@ -1549,6 +1742,7 @@
         "common_name": "Sao Tome and Principe",
         "capital": "São Tomé",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/st.svg"
     },
     {
@@ -1557,6 +1751,7 @@
         "common_name": "Saudi Arabia",
         "capital": "Riyadh",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/sa.svg"
     },
     {
@@ -1565,6 +1760,7 @@
         "common_name": "Senegal",
         "capital": "Dakar",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/sn.svg"
     },
     {
@@ -1573,6 +1769,7 @@
         "common_name": "Serbia",
         "capital": "Belgrade",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/rs.svg"
     },
     {
@@ -1581,6 +1778,7 @@
         "common_name": "Seychelles",
         "capital": "Victoria",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/sc.svg"
     },
     {
@@ -1589,6 +1787,7 @@
         "common_name": "Sierra Leone",
         "capital": "Freetown",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/sl.svg"
     },
     {
@@ -1597,6 +1796,7 @@
         "common_name": "Singapore",
         "capital": "Singapore",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/sg.svg"
     },
     {
@@ -1605,6 +1805,7 @@
         "common_name": "Sint Maarten",
         "capital": "Philipsburg",
         "independent": false,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/sx.svg"
     },
     {
@@ -1613,6 +1814,7 @@
         "common_name": "Slovakia",
         "capital": "Bratislava",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/sk.svg"
     },
     {
@@ -1621,6 +1823,7 @@
         "common_name": "Slovenia",
         "capital": "Ljubljiana",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/si.svg"
     },
     {
@@ -1629,6 +1832,7 @@
         "common_name": "Solomon Islands",
         "capital": "Honiara",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/sb.svg"
     },
     {
@@ -1637,6 +1841,7 @@
         "common_name": "Somalia",
         "capital": "Mogadishu",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/so.svg"
     },
     {
@@ -1645,6 +1850,7 @@
         "common_name": "South Africa",
         "capital": "Pretoria",
         "independent": true,
+        "continent": "Africa",
         "flag_url": "https://countries.ekmwest.io/flags/za.svg"
     },
     {
@@ -1653,6 +1859,7 @@
         "common_name": "South Georgia and the South Sandwich Islands",
         "capital": "King Edward Point",
         "independent": false,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/gs.svg"
     },
     {
@@ -1661,6 +1868,7 @@
         "common_name": "South Korea",
         "capital": "Seoul",
         "independent": true,
+        "continent": "Asia",
         "flag_url": "https://countries.ekmwest.io/flags/kr.svg"
     },
     {
@@ -1669,6 +1877,7 @@
         "common_name": "South Sudan",
         "capital": "Juba",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/ss.svg"
     },
     {
@@ -1677,6 +1886,7 @@
         "common_name": "Spain",
         "capital": "Madrid",
         "independent": true,
+        "continent": "Europe",
         "flag_url": "https://countries.ekmwest.io/flags/es.svg"
     },
     {
@@ -1685,6 +1895,7 @@
         "common_name": "Sri Lanka",
         "capital": "Sri Jayawardenepura Kotte",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/lk.svg"
     },
     {
@@ -1693,6 +1904,7 @@
         "common_name": "Sudan",
         "capital": "Khartoum",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/sd.svg"
     },
     {
@@ -1701,6 +1913,7 @@
         "common_name": "Suriname",
         "capital": "Paramaribo",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/sr.svg"
     },
     {
@@ -1709,6 +1922,7 @@
         "common_name": "Svalbard and Jan Mayen",
         "capital": "Longyearbyen",
         "independent": false,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/sj.svg"
     },
     {
@@ -1717,6 +1931,7 @@
         "common_name": "Sweden",
         "capital": "Stockholm",
         "independent": true,
+        "continent": "Europe",
         "flag_url": "https://countries.ekmwest.io/flags/se.svg"
     },
     {
@@ -1725,6 +1940,7 @@
         "common_name": "Switzerland",
         "capital": "Bern",
         "independent": true,
+        "continent": "Europe",
         "flag_url": "https://countries.ekmwest.io/flags/ch.svg"
     },
     {
@@ -1733,6 +1949,7 @@
         "common_name": "Syria",
         "capital": "Damascus",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/sy.svg"
     },
     {
@@ -1741,6 +1958,7 @@
         "common_name": "Taiwan",
         "capital": "Taipei",
         "independent": false,
+        "continent": "Asia",
         "flag_url": "https://countries.ekmwest.io/flags/tw.svg"
     },
     {
@@ -1749,6 +1967,7 @@
         "common_name": "Tajikistan",
         "capital": "Dushanbe",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/tj.svg"
     },
     {
@@ -1757,6 +1976,7 @@
         "common_name": "Tanzania",
         "capital": "Dodoma",
         "independent": true,
+        "continent": "Africa",
         "flag_url": "https://countries.ekmwest.io/flags/tz.svg"
     },
     {
@@ -1765,6 +1985,7 @@
         "common_name": "Thailand",
         "capital": "Bangkok",
         "independent": true,
+        "continent": "Asia",
         "flag_url": "https://countries.ekmwest.io/flags/th.svg"
     },
     {
@@ -1773,6 +1994,7 @@
         "common_name": "Togo",
         "capital": "Lomé",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/tg.svg"
     },
     {
@@ -1781,6 +2003,7 @@
         "common_name": "Tokelau",
         "capital": null,
         "independent": false,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/tk.svg"
     },
     {
@@ -1789,6 +2012,7 @@
         "common_name": "Tonga",
         "capital": "Nukualofa",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/to.svg"
     },
     {
@@ -1797,6 +2021,7 @@
         "common_name": "Trinidad and Tobago",
         "capital": "Port of Spain",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/tt.svg"
     },
     {
@@ -1805,6 +2030,7 @@
         "common_name": "Tunisia",
         "capital": "Tunis",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/tn.svg"
     },
     {
@@ -1813,6 +2039,7 @@
         "common_name": "Turkey",
         "capital": "Ankara",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/tr.svg"
     },
     {
@@ -1821,6 +2048,7 @@
         "common_name": "Turkmenistan",
         "capital": "Ashgabat",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/tm.svg"
     },
     {
@@ -1829,6 +2057,7 @@
         "common_name": "Turks and Caicos Islands",
         "capital": "Grand Turk",
         "independent": false,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/tc.svg"
     },
     {
@@ -1837,6 +2066,7 @@
         "common_name": "Tuvalu",
         "capital": "Funafuti",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/tv.svg"
     },
     {
@@ -1845,6 +2075,7 @@
         "common_name": "Uganda",
         "capital": "Kampala",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/ug.svg"
     },
     {
@@ -1853,6 +2084,7 @@
         "common_name": "Ukraine",
         "capital": "Kyiv",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/ua.svg"
     },
     {
@@ -1861,6 +2093,7 @@
         "common_name": "United Arab Emirates",
         "capital": "Abu Dhabi",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/ae.svg"
     },
     {
@@ -1869,6 +2102,7 @@
         "common_name": "United Kingdom",
         "capital": "London",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/gb.svg"
     },
     {
@@ -1877,6 +2111,7 @@
         "common_name": "United States",
         "capital": "Washington, D.C.",
         "independent": true,
+        "continent": "North America",
         "flag_url": "https://countries.ekmwest.io/flags/us.svg"
     },
     {
@@ -1885,6 +2120,7 @@
         "common_name": "United States Minor Outlying Islands",
         "capital": null,
         "independent": false,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/um.svg"
     },
     {
@@ -1893,6 +2129,7 @@
         "common_name": "United States Virgin Islands",
         "capital": "Charlotte Amalie",
         "independent": false,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/vi.svg"
     },
     {
@@ -1901,6 +2138,7 @@
         "common_name": "Uruguay",
         "capital": "Montevideo",
         "independent": true,
+        "continent": "South America",
         "flag_url": "https://countries.ekmwest.io/flags/uy.svg"
     },
     {
@@ -1909,6 +2147,7 @@
         "common_name": "Uzbekistan",
         "capital": "Tashkent",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/uz.svg"
     },
     {
@@ -1917,6 +2156,7 @@
         "common_name": "Vanuatu",
         "capital": "Port Vila",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/vu.svg"
     },
     {
@@ -1925,6 +2165,7 @@
         "common_name": "Vatican City",
         "capital": "Vatican City",
         "independent": true,
+        "continent": "Europe",
         "flag_url": "https://countries.ekmwest.io/flags/va.svg"
     },
     {
@@ -1933,6 +2174,7 @@
         "common_name": "Venezuela",
         "capital": "Caracas",
         "independent": true,
+        "continent": "South America",
         "flag_url": "https://countries.ekmwest.io/flags/ve.svg"
     },
     {
@@ -1941,6 +2183,7 @@
         "common_name": "Vietnam",
         "capital": "Hanoi",
         "independent": true,
+        "continent": "Asia",
         "flag_url": "https://countries.ekmwest.io/flags/vn.svg"
     },
     {
@@ -1949,6 +2192,7 @@
         "common_name": "Wallis and Futuna",
         "capital": "Mata Utu",
         "independent": false,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/wf.svg"
     },
     {
@@ -1957,6 +2201,7 @@
         "common_name": "Western Sahara",
         "capital": "Laayoune",
         "independent": false,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/eh.svg"
     },
     {
@@ -1965,6 +2210,7 @@
         "common_name": "Yemen",
         "capital": "Sanaa",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/ye.svg"
     },
     {
@@ -1973,6 +2219,7 @@
         "common_name": "Zambia",
         "capital": "Lusaka",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/zm.svg"
     },
     {
@@ -1981,6 +2228,7 @@
         "common_name": "Zimbabwe",
         "capital": "Harare",
         "independent": true,
+        "continent": null,
         "flag_url": "https://countries.ekmwest.io/flags/zw.svg"
     },
     {
@@ -1989,6 +2237,7 @@
         "common_name": "Åland",
         "capital": "Mariehamn",
         "independent": false,
+        "continent": "Europe",
         "flag_url": "https://countries.ekmwest.io/flags/ax.svg"
     }
 ]

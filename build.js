@@ -28,7 +28,7 @@ async function createCountriesFromDB() {
 
     const db = new DB('data/countries.db');
 
-    for (const [code, name, common_name, capital, independent] of db.query("SELECT code, name, common_name, capital, independent FROM countries ORDER BY common_name")) {
+    for (const [code, name, common_name, capital, independent, continent] of db.query("SELECT code, name, common_name, capital, independent, continent FROM countries ORDER BY common_name")) {
 
         countries.push({
             code,
@@ -36,6 +36,7 @@ async function createCountriesFromDB() {
             common_name,
             capital,
             independent: independent ? true : false,
+            continent,
             flag_url: flagUrl(code)
         });
     }
@@ -114,6 +115,10 @@ layout: country.html
     <div class="country__data-item">
         <div class="country__data-label">Capital</div>
         <div class="country__data-value">${country.capital ? country.capital : '-'}</div>
+    </div>
+    <div class="country__data-item">
+        <div class="country__data-label">Continent</div>
+        <div class="country__data-value">${country.continent ? country.continent : '-'}</div>
     </div>
     <div class="country__data-item">
         <div class="country__data-label">Independent</div>
