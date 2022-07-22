@@ -3,13 +3,13 @@
         "title": "Andorra",
         "description": "",
         "url": "/countries/ad/index.html",
-        "content": "Andorra Official Name Andorra Capital Andorra la Vella Continent - Independent Yes Country Code AD"
+        "content": "Andorra Official Name Andorra Capital Andorra la Vella Continent Europe Independent Yes Country Code AD"
     },
     {
         "title": "United Arab Emirates",
         "description": "",
         "url": "/countries/ae/index.html",
-        "content": "United Arab Emirates Official Name United Arab Emirates Capital Abu Dhabi Continent - Independent Yes Country Code AE"
+        "content": "United Arab Emirates Official Name United Arab Emirates Capital Abu Dhabi Continent Asia Independent Yes Country Code AE"
     },
     {
         "title": "Afghanistan",
@@ -21,13 +21,13 @@
         "title": "Antigua and Barbuda",
         "description": "",
         "url": "/countries/ag/index.html",
-        "content": "Antigua and Barbuda Official Name Antigua and Barbuda Capital St. John's Continent - Independent Yes Country Code AG"
+        "content": "Antigua and Barbuda Official Name Antigua and Barbuda Capital St. John's Continent North America Independent Yes Country Code AG"
     },
     {
         "title": "Anguilla",
         "description": "",
         "url": "/countries/ai/index.html",
-        "content": "Anguilla Official Name Anguilla Capital The Valley Continent - Independent No Country Code AI"
+        "content": "Anguilla Official Name Anguilla Capital The Valley Continent North America Independent No Country Code AI"
     },
     {
         "title": "Albania",
@@ -39,19 +39,19 @@
         "title": "Armenia",
         "description": "",
         "url": "/countries/am/index.html",
-        "content": "Armenia Official Name Armenia Capital Yerevan Continent - Independent Yes Country Code AM"
+        "content": "Armenia Official Name Armenia Capital Yerevan Continent Asia Independent Yes Country Code AM"
     },
     {
         "title": "Angola",
         "description": "",
         "url": "/countries/ao/index.html",
-        "content": "Angola Official Name Angola Capital Luanda Continent - Independent Yes Country Code AO"
+        "content": "Angola Official Name Angola Capital Luanda Continent Africa Independent Yes Country Code AO"
     },
     {
         "title": "Antarctica",
         "description": "",
         "url": "/countries/aq/index.html",
-        "content": "Antarctica Official Name Antarctica Capital - Continent - Independent No Country Code AQ"
+        "content": "Antarctica Official Name Antarctica Capital - Continent Antarctica Independent No Country Code AQ"
     },
     {
         "title": "Argentina",
@@ -63,7 +63,7 @@
         "title": "American Samoa",
         "description": "",
         "url": "/countries/as/index.html",
-        "content": "American Samoa Official Name American Samoa Capital Pago Pago Continent - Independent No Country Code AS"
+        "content": "American Samoa Official Name American Samoa Capital Pago Pago Continent Oceania Independent No Country Code AS"
     },
     {
         "title": "Austria",
@@ -75,13 +75,13 @@
         "title": "Australia",
         "description": "",
         "url": "/countries/au/index.html",
-        "content": "Australia Official Name Australia Capital Canberra Continent - Independent Yes Country Code AU"
+        "content": "Australia Official Name Australia Capital Canberra Continent Oceania Independent Yes Country Code AU"
     },
     {
         "title": "Aruba",
         "description": "",
         "url": "/countries/aw/index.html",
-        "content": "Aruba Official Name Aruba Capital Oranjestad Continent - Independent No Country Code AW"
+        "content": "Aruba Official Name Aruba Capital Oranjestad Continent North America Independent No Country Code AW"
     },
     {
         "title": "Åland",
@@ -93,19 +93,19 @@
         "title": "Azerbaijan",
         "description": "",
         "url": "/countries/az/index.html",
-        "content": "Azerbaijan Official Name Azerbaijan Capital Baku Continent - Independent Yes Country Code AZ"
+        "content": "Azerbaijan Official Name Azerbaijan Capital Baku Continent Asia Independent Yes Country Code AZ"
     },
     {
         "title": "Bosnia and Herzegovina",
         "description": "",
         "url": "/countries/ba/index.html",
-        "content": "Bosnia and Herzegovina Official Name Bosnia and Herzegovina Capital Sarajevo Continent - Independent Yes Country Code BA"
+        "content": "Bosnia and Herzegovina Official Name Bosnia and Herzegovina Capital Sarajevo Continent Europe Independent Yes Country Code BA"
     },
     {
         "title": "Barbados",
         "description": "",
         "url": "/countries/bb/index.html",
-        "content": "Barbados Official Name Barbados Capital Bridgetown Continent - Independent Yes Country Code BB"
+        "content": "Barbados Official Name Barbados Capital Bridgetown Continent North America Independent Yes Country Code BB"
     },
     {
         "title": "Bangladesh",
@@ -123,49 +123,49 @@
         "title": "Burkina Faso",
         "description": "",
         "url": "/countries/bf/index.html",
-        "content": "Burkina Faso Official Name Burkina Faso Capital Ouagadougou Continent - Independent Yes Country Code BF"
+        "content": "Burkina Faso Official Name Burkina Faso Capital Ouagadougou Continent Africa Independent Yes Country Code BF"
     },
     {
         "title": "Bulgaria",
         "description": "",
         "url": "/countries/bg/index.html",
-        "content": "Bulgaria Official Name Bulgaria Capital Sofia Continent - Independent Yes Country Code BG"
+        "content": "Bulgaria Official Name Bulgaria Capital Sofia Continent Europe Independent Yes Country Code BG"
     },
     {
         "title": "Bahrain",
         "description": "",
         "url": "/countries/bh/index.html",
-        "content": "Bahrain Official Name Bahrain Capital Manama Continent - Independent Yes Country Code BH"
+        "content": "Bahrain Official Name Bahrain Capital Manama Continent Asia Independent Yes Country Code BH"
     },
     {
         "title": "Burundi",
         "description": "",
         "url": "/countries/bi/index.html",
-        "content": "Burundi Official Name Burundi Capital Gitega Continent - Independent Yes Country Code BI"
+        "content": "Burundi Official Name Burundi Capital Gitega Continent Africa Independent Yes Country Code BI"
     },
     {
         "title": "Benin",
         "description": "",
         "url": "/countries/bj/index.html",
-        "content": "Benin Official Name Benin Capital Porto-Novo Continent - Independent Yes Country Code BJ"
+        "content": "Benin Official Name Benin Capital Porto-Novo Continent Africa Independent Yes Country Code BJ"
     },
     {
         "title": "Saint Barthélemy",
         "description": "",
         "url": "/countries/bl/index.html",
-        "content": "Saint Barthélemy Official Name Saint Barthélemy Capital Gustavia Continent - Independent No Country Code BL"
+        "content": "Saint Barthélemy Official Name Saint Barthélemy Capital Gustavia Continent North America Independent No Country Code BL"
     },
     {
         "title": "Bermuda",
         "description": "",
         "url": "/countries/bm/index.html",
-        "content": "Bermuda Official Name Bermuda Capital Hamilton Continent - Independent No Country Code BM"
+        "content": "Bermuda Official Name Bermuda Capital Hamilton Continent North America Independent No Country Code BM"
     },
     {
         "title": "Brunei",
         "description": "",
         "url": "/countries/bn/index.html",
-        "content": "Brunei Official Name Brunei Darussalam Capital Bandar Seri Continent - Independent Yes Country Code BN"
+        "content": "Brunei Official Name Brunei Darussalam Capital Bandar Seri Continent Asia Independent Yes Country Code BN"
     },
     {
         "title": "Bolivia",
@@ -177,7 +177,7 @@
         "title": "Caribbean Netherlands",
         "description": "",
         "url": "/countries/bq/index.html",
-        "content": "Caribbean Netherlands Official Name Bonaire, Sint Eustatius and Saba Capital - Continent - Independent No Country Code BQ"
+        "content": "Caribbean Netherlands Official Name Bonaire, Sint Eustatius and Saba Capital - Continent North America Independent No Country Code BQ"
     },
     {
         "title": "Brazil",
@@ -189,37 +189,37 @@
         "title": "Bahamas",
         "description": "",
         "url": "/countries/bs/index.html",
-        "content": "Bahamas Official Name Bahamas Capital Nassau Continent - Independent Yes Country Code BS"
+        "content": "Bahamas Official Name Bahamas Capital Nassau Continent North America Independent Yes Country Code BS"
     },
     {
         "title": "Bhutan",
         "description": "",
         "url": "/countries/bt/index.html",
-        "content": "Bhutan Official Name Bhutan Capital Thimphu Continent - Independent Yes Country Code BT"
+        "content": "Bhutan Official Name Bhutan Capital Thimphu Continent Asia Independent Yes Country Code BT"
     },
     {
         "title": "Bouvet Island",
         "description": "",
         "url": "/countries/bv/index.html",
-        "content": "Bouvet Island Official Name Bouvet Island Capital - Continent - Independent No Country Code BV"
+        "content": "Bouvet Island Official Name Bouvet Island Capital - Continent Antarctica Independent No Country Code BV"
     },
     {
         "title": "Botswana",
         "description": "",
         "url": "/countries/bw/index.html",
-        "content": "Botswana Official Name Botswana Capital Gaborone Continent - Independent Yes Country Code BW"
+        "content": "Botswana Official Name Botswana Capital Gaborone Continent Africa Independent Yes Country Code BW"
     },
     {
         "title": "Belarus",
         "description": "",
         "url": "/countries/by/index.html",
-        "content": "Belarus Official Name Belarus Capital Minsk Continent - Independent Yes Country Code BY"
+        "content": "Belarus Official Name Belarus Capital Minsk Continent Europe Independent Yes Country Code BY"
     },
     {
         "title": "Belize",
         "description": "",
         "url": "/countries/bz/index.html",
-        "content": "Belize Official Name Belize Capital Belmopan Continent - Independent Yes Country Code BZ"
+        "content": "Belize Official Name Belize Capital Belmopan Continent North America Independent Yes Country Code BZ"
     },
     {
         "title": "Canada",
@@ -231,25 +231,25 @@
         "title": "Cocos Islands",
         "description": "",
         "url": "/countries/cc/index.html",
-        "content": "Cocos Islands Official Name Cocos (Keeling) Islands Capital West Island Continent - Independent No Country Code CC"
+        "content": "Cocos Islands Official Name Cocos (Keeling) Islands Capital West Island Continent Asia Independent No Country Code CC"
     },
     {
         "title": "Congo",
         "description": "",
         "url": "/countries/cd/index.html",
-        "content": "Congo Official Name Democratic Republic of the Congo Capital Kinshasa Continent - Independent Yes Country Code CD"
+        "content": "Congo Official Name Democratic Republic of the Congo Capital Kinshasa Continent Africa Independent Yes Country Code CD"
     },
     {
         "title": "Central African Republic",
         "description": "",
         "url": "/countries/cf/index.html",
-        "content": "Central African Republic Official Name Central African Republic Capital Bangui Continent - Independent Yes Country Code CF"
+        "content": "Central African Republic Official Name Central African Republic Capital Bangui Continent Africa Independent Yes Country Code CF"
     },
     {
         "title": "Congo",
         "description": "",
         "url": "/countries/cg/index.html",
-        "content": "Congo Official Name Republic of the Congo Capital Brazzaville Continent - Independent Yes Country Code CG"
+        "content": "Congo Official Name Republic of the Congo Capital Brazzaville Continent Africa Independent Yes Country Code CG"
     },
     {
         "title": "Switzerland",
@@ -261,13 +261,13 @@
         "title": "Ivory Coast",
         "description": "",
         "url": "/countries/ci/index.html",
-        "content": "Ivory Coast Official Name Republic of Côte d'Ivoire Capital Yamoussoukro Continent - Independent Yes Country Code CI"
+        "content": "Ivory Coast Official Name Republic of Côte d'Ivoire Capital Yamoussoukro Continent Africa Independent Yes Country Code CI"
     },
     {
         "title": "Cook Islands",
         "description": "",
         "url": "/countries/ck/index.html",
-        "content": "Cook Islands Official Name Cook Islands Capital Avarua Continent - Independent No Country Code CK"
+        "content": "Cook Islands Official Name Cook Islands Capital Avarua Continent Oceania Independent No Country Code CK"
     },
     {
         "title": "Chile",
@@ -279,7 +279,7 @@
         "title": "Cameroon",
         "description": "",
         "url": "/countries/cm/index.html",
-        "content": "Cameroon Official Name Cameroon Capital Yaoundé Continent - Independent Yes Country Code CM"
+        "content": "Cameroon Official Name Cameroon Capital Yaoundé Continent Africa Independent Yes Country Code CM"
     },
     {
         "title": "China",
@@ -297,43 +297,43 @@
         "title": "Costa Rica",
         "description": "",
         "url": "/countries/cr/index.html",
-        "content": "Costa Rica Official Name Costa Rica Capital San José Continent - Independent Yes Country Code CR"
+        "content": "Costa Rica Official Name Costa Rica Capital San José Continent North America Independent Yes Country Code CR"
     },
     {
         "title": "Cuba",
         "description": "",
         "url": "/countries/cu/index.html",
-        "content": "Cuba Official Name Cuba Capital Havana Continent - Independent Yes Country Code CU"
+        "content": "Cuba Official Name Cuba Capital Havana Continent North America Independent Yes Country Code CU"
     },
     {
         "title": "Cabo Verde",
         "description": "",
         "url": "/countries/cv/index.html",
-        "content": "Cabo Verde Official Name Cabo Verde Capital Praia Continent - Independent Yes Country Code CV"
+        "content": "Cabo Verde Official Name Cabo Verde Capital Praia Continent Africa Independent Yes Country Code CV"
     },
     {
         "title": "Curaçao",
         "description": "",
         "url": "/countries/cw/index.html",
-        "content": "Curaçao Official Name Curaçao Capital Willemstad Continent - Independent No Country Code CW"
+        "content": "Curaçao Official Name Curaçao Capital Willemstad Continent North America Independent No Country Code CW"
     },
     {
         "title": "Christmas Island",
         "description": "",
         "url": "/countries/cx/index.html",
-        "content": "Christmas Island Official Name Christmas Island Capital Flying Fish Cove Continent - Independent No Country Code CX"
+        "content": "Christmas Island Official Name Christmas Island Capital Flying Fish Cove Continent Asia Independent No Country Code CX"
     },
     {
         "title": "Cyprus",
         "description": "",
         "url": "/countries/cy/index.html",
-        "content": "Cyprus Official Name Cyprus Capital Nicosia Continent - Independent Yes Country Code CY"
+        "content": "Cyprus Official Name Cyprus Capital Nicosia Continent Asia Independent Yes Country Code CY"
     },
     {
         "title": "Czechia",
         "description": "",
         "url": "/countries/cz/index.html",
-        "content": "Czechia Official Name Czechia Capital Prague Continent - Independent Yes Country Code CZ"
+        "content": "Czechia Official Name Czechia Capital Prague Continent Europe Independent Yes Country Code CZ"
     },
     {
         "title": "Germany",
@@ -345,7 +345,7 @@
         "title": "Djibouti",
         "description": "",
         "url": "/countries/dj/index.html",
-        "content": "Djibouti Official Name Djibouti Capital Djibouti Continent - Independent Yes Country Code DJ"
+        "content": "Djibouti Official Name Djibouti Capital Djibouti Continent Africa Independent Yes Country Code DJ"
     },
     {
         "title": "Denmark",
@@ -357,13 +357,13 @@
         "title": "Dominica",
         "description": "",
         "url": "/countries/dm/index.html",
-        "content": "Dominica Official Name Dominica Capital Roseau Continent - Independent Yes Country Code DM"
+        "content": "Dominica Official Name Dominica Capital Roseau Continent North America Independent Yes Country Code DM"
     },
     {
         "title": "Dominican Republic",
         "description": "",
         "url": "/countries/do/index.html",
-        "content": "Dominican Republic Official Name Dominican Republic Capital Santo Domingo Continent - Independent Yes Country Code DO"
+        "content": "Dominican Republic Official Name Dominican Republic Capital Santo Domingo Continent North America Independent Yes Country Code DO"
     },
     {
         "title": "Algeria",
@@ -375,31 +375,31 @@
         "title": "Ecuador",
         "description": "",
         "url": "/countries/ec/index.html",
-        "content": "Ecuador Official Name Republic of Ecuador Capital Quito Continent - Independent Yes Country Code EC"
+        "content": "Ecuador Official Name Republic of Ecuador Capital Quito Continent South America Independent Yes Country Code EC"
     },
     {
         "title": "Estonia",
         "description": "",
         "url": "/countries/ee/index.html",
-        "content": "Estonia Official Name Republic of Estonia Capital Tallin Continent - Independent Yes Country Code EE"
+        "content": "Estonia Official Name Republic of Estonia Capital Tallin Continent Europe Independent Yes Country Code EE"
     },
     {
         "title": "Egypt",
         "description": "",
         "url": "/countries/eg/index.html",
-        "content": "Egypt Official Name Arab Republic of Egypt Capital Cairo Continent - Independent Yes Country Code EG"
+        "content": "Egypt Official Name Arab Republic of Egypt Capital Cairo Continent Africa Independent Yes Country Code EG"
     },
     {
         "title": "Western Sahara",
         "description": "",
         "url": "/countries/eh/index.html",
-        "content": "Western Sahara Official Name Western Sahara Capital Laayoune Continent - Independent No Country Code EH"
+        "content": "Western Sahara Official Name Western Sahara Capital Laayoune Continent Africa Independent No Country Code EH"
     },
     {
         "title": "Eritrea",
         "description": "",
         "url": "/countries/er/index.html",
-        "content": "Eritrea Official Name State of Eritrea Capital Asmara Continent - Independent Yes Country Code ER"
+        "content": "Eritrea Official Name State of Eritrea Capital Asmara Continent Africa Independent Yes Country Code ER"
     },
     {
         "title": "Spain",
@@ -423,25 +423,25 @@
         "title": "Fiji",
         "description": "",
         "url": "/countries/fj/index.html",
-        "content": "Fiji Official Name Republic of Fiji Capital Suva Continent - Independent Yes Country Code FJ"
+        "content": "Fiji Official Name Republic of Fiji Capital Suva Continent Oceania Independent Yes Country Code FJ"
     },
     {
         "title": "Falkland Islands",
         "description": "",
         "url": "/countries/fk/index.html",
-        "content": "Falkland Islands Official Name Falkland Islands (Malvinas) Capital Stanley Continent - Independent No Country Code FK"
+        "content": "Falkland Islands Official Name Falkland Islands (Malvinas) Capital Stanley Continent South America Independent No Country Code FK"
     },
     {
         "title": "Micronesia",
         "description": "",
         "url": "/countries/fm/index.html",
-        "content": "Micronesia Official Name Federated States of Micronesia Capital Palikir Continent - Independent Yes Country Code FM"
+        "content": "Micronesia Official Name Federated States of Micronesia Capital Palikir Continent Oceania Independent Yes Country Code FM"
     },
     {
         "title": "Faroe Islands",
         "description": "",
         "url": "/countries/fo/index.html",
-        "content": "Faroe Islands Official Name Faroe Islands Capital Tórshavn Continent - Independent No Country Code FO"
+        "content": "Faroe Islands Official Name Faroe Islands Capital Tórshavn Continent Europe Independent No Country Code FO"
     },
     {
         "title": "France",
@@ -453,79 +453,79 @@
         "title": "Gabon",
         "description": "",
         "url": "/countries/ga/index.html",
-        "content": "Gabon Official Name Gabonese Republic Capital Livreville Continent - Independent Yes Country Code GA"
+        "content": "Gabon Official Name Gabonese Republic Capital Livreville Continent Africa Independent Yes Country Code GA"
     },
     {
         "title": "United Kingdom",
         "description": "",
         "url": "/countries/gb/index.html",
-        "content": "United Kingdom Official Name United Kingdom of Great Britain and Northern Ireland Capital London Continent - Independent Yes Country Code GB"
+        "content": "United Kingdom Official Name United Kingdom of Great Britain and Northern Ireland Capital London Continent Europe Independent Yes Country Code GB"
     },
     {
         "title": "Grenada",
         "description": "",
         "url": "/countries/gd/index.html",
-        "content": "Grenada Official Name Grenada Capital St. George's Continent - Independent Yes Country Code GD"
+        "content": "Grenada Official Name Grenada Capital St. George's Continent North America Independent Yes Country Code GD"
     },
     {
         "title": "Georgia",
         "description": "",
         "url": "/countries/ge/index.html",
-        "content": "Georgia Official Name Georgia Capital Tbilisi Continent - Independent Yes Country Code GE"
+        "content": "Georgia Official Name Georgia Capital Tbilisi Continent Asia Independent Yes Country Code GE"
     },
     {
         "title": "French Guiana",
         "description": "",
         "url": "/countries/gf/index.html",
-        "content": "French Guiana Official Name French Guiana Capital Cayenne Continent - Independent No Country Code GF"
+        "content": "French Guiana Official Name French Guiana Capital Cayenne Continent South America Independent No Country Code GF"
     },
     {
         "title": "Guernsey",
         "description": "",
         "url": "/countries/gg/index.html",
-        "content": "Guernsey Official Name Guernsey Capital Saint Peter Port Continent - Independent No Country Code GG"
+        "content": "Guernsey Official Name Guernsey Capital Saint Peter Port Continent Europe Independent No Country Code GG"
     },
     {
         "title": "Ghana",
         "description": "",
         "url": "/countries/gh/index.html",
-        "content": "Ghana Official Name Republic of Ghana Capital Accra Continent - Independent Yes Country Code GH"
+        "content": "Ghana Official Name Republic of Ghana Capital Accra Continent Africa Independent Yes Country Code GH"
     },
     {
         "title": "Gibraltar",
         "description": "",
         "url": "/countries/gi/index.html",
-        "content": "Gibraltar Official Name Gibraltar Capital Westside Continent - Independent No Country Code GI"
+        "content": "Gibraltar Official Name Gibraltar Capital Westside Continent Europe Independent No Country Code GI"
     },
     {
         "title": "Greenland",
         "description": "",
         "url": "/countries/gl/index.html",
-        "content": "Greenland Official Name Greenland Capital Nuuk Continent - Independent No Country Code GL"
+        "content": "Greenland Official Name Greenland Capital Nuuk Continent North America Independent No Country Code GL"
     },
     {
         "title": "Gambia",
         "description": "",
         "url": "/countries/gm/index.html",
-        "content": "Gambia Official Name Republic of the Gambia Capital Banjul Continent - Independent Yes Country Code GM"
+        "content": "Gambia Official Name Republic of the Gambia Capital Banjul Continent Africa Independent Yes Country Code GM"
     },
     {
         "title": "Guinea",
         "description": "",
         "url": "/countries/gn/index.html",
-        "content": "Guinea Official Name Republic of Guinea Capital Conakry Continent - Independent Yes Country Code GN"
+        "content": "Guinea Official Name Republic of Guinea Capital Conakry Continent Africa Independent Yes Country Code GN"
     },
     {
         "title": "Guadeloupe",
         "description": "",
         "url": "/countries/gp/index.html",
-        "content": "Guadeloupe Official Name Guadeloupe Capital - Continent - Independent No Country Code GP"
+        "content": "Guadeloupe Official Name Guadeloupe Capital - Continent North America Independent No Country Code GP"
     },
     {
         "title": "Equatorial Guinea",
         "description": "",
         "url": "/countries/gq/index.html",
-        "content": "Equatorial Guinea Official Name Republic of Equatorial Guinea Capital Malabo Continent - Independent Yes Country Code GQ"
+        "content": "Equatorial Guinea Official Name Republic of Equatorial Guinea Capital Malabo Continent Africa Independent Yes Country Code GQ"
     },
     {
         "title": "Greece",
@@ -537,31 +537,31 @@
         "title": "South Georgia and the South Sandwich Islands",
         "description": "",
         "url": "/countries/gs/index.html",
-        "content": "South Georgia and the South Sandwich Islands Official Name South Georgia and the South Sandwich Islands Capital King Edward Point Continent - Independent No Country Code GS"
+        "content": "South Georgia and the South Sandwich Islands Official Name South Georgia and the South Sandwich Islands Capital King Edward Point Continent South America Independent No Country Code GS"
     },
     {
         "title": "Guatemala",
         "description": "",
         "url": "/countries/gt/index.html",
-        "content": "Guatemala Official Name Republic of Guatemala Capital Guatemala City Continent - Independent Yes Country Code GT"
+        "content": "Guatemala Official Name Republic of Guatemala Capital Guatemala City Continent North America Independent Yes Country Code GT"
     },
     {
         "title": "Guam",
         "description": "",
         "url": "/countries/gu/index.html",
-        "content": "Guam Official Name Guam Capital Hagåtña Continent - Independent No Country Code GU"
+        "content": "Guam Official Name Guam Capital Hagåtña Continent Oceania Independent No Country Code GU"
     },
     {
         "title": "Guinea-Bissau",
         "description": "",
         "url": "/countries/gw/index.html",
-        "content": "Guinea-Bissau Official Name Republic of Guinea-Bissau Capital Bissau Continent - Independent Yes Country Code GW"
+        "content": "Guinea-Bissau Official Name Republic of Guinea-Bissau Capital Bissau Continent Africa Independent Yes Country Code GW"
     },
     {
         "title": "Guyana",
         "description": "",
         "url": "/countries/gy/index.html",
-        "content": "Guyana Official Name Co-operative Republic of Guyana Capital Georgetown Continent - Independent Yes Country Code GY"
+        "content": "Guyana Official Name Co-operative Republic of Guyana Capital Georgetown Continent South America Independent Yes Country Code GY"
     },
     {
         "title": "Hong Kong",
@@ -573,25 +573,25 @@
         "title": "Heard Island and McDonald Islands",
         "description": "",
         "url": "/countries/hm/index.html",
-        "content": "Heard Island and McDonald Islands Official Name Heard Island and McDonald Islands Capital - Continent - Independent No Country Code HM"
+        "content": "Heard Island and McDonald Islands Official Name Heard Island and McDonald Islands Capital - Continent Antarctica Independent No Country Code HM"
     },
     {
         "title": "Honduras",
         "description": "",
         "url": "/countries/hn/index.html",
-        "content": "Honduras Official Name Republic of Honduras Capital Tegucigalpa Continent - Independent Yes Country Code HN"
+        "content": "Honduras Official Name Republic of Honduras Capital Tegucigalpa Continent North America Independent Yes Country Code HN"
     },
     {
         "title": "Croatia",
         "description": "",
         "url": "/countries/hr/index.html",
-        "content": "Croatia Official Name Croatia Capital Zagreb Continent - Independent Yes Country Code HR"
+        "content": "Croatia Official Name Croatia Capital Zagreb Continent Europe Independent Yes Country Code HR"
     },
     {
         "title": "Haiti",
         "description": "",
         "url": "/countries/ht/index.html",
-        "content": "Haiti Official Name Republic of Haiti Capital Port-au-Prince Continent - Independent Yes Country Code HT"
+        "content": "Haiti Official Name Republic of Haiti Capital Port-au-Prince Continent North America Independent Yes Country Code HT"
     },
     {
         "title": "Hungary",
@@ -615,7 +615,7 @@
         "title": "Israel",
         "description": "",
         "url": "/countries/il/index.html",
-        "content": "Israel Official Name Israel Capital Jerusalem Continent - Independent Yes Country Code IL"
+        "content": "Israel Official Name Israel Capital Jerusalem Continent Asia Independent Yes Country Code IL"
     },
     {
         "title": "Isle of Man",
@@ -633,25 +633,25 @@
         "title": "British Indian Ocean Territory",
         "description": "",
         "url": "/countries/io/index.html",
-        "content": "British Indian Ocean Territory Official Name British Indian Ocean Territory Capital - Continent - Independent No Country Code IO"
+        "content": "British Indian Ocean Territory Official Name British Indian Ocean Territory Capital - Continent Asia Independent No Country Code IO"
     },
     {
         "title": "Iraq",
         "description": "",
         "url": "/countries/iq/index.html",
-        "content": "Iraq Official Name Republic of Iraq Capital Baghdad Continent - Independent Yes Country Code IQ"
+        "content": "Iraq Official Name Republic of Iraq Capital Baghdad Continent Asia Independent Yes Country Code IQ"
     },
     {
         "title": "Iran",
         "description": "",
         "url": "/countries/ir/index.html",
-        "content": "Iran Official Name Islamic Republic of Iran Capital Tehran Continent - Independent Yes Country Code IR"
+        "content": "Iran Official Name Islamic Republic of Iran Capital Tehran Continent Asia Independent Yes Country Code IR"
     },
     {
         "title": "Iceland",
         "description": "",
         "url": "/countries/is/index.html",
-        "content": "Iceland Official Name Iceland Capital Reykjavik Continent - Independent Yes Country Code IS"
+        "content": "Iceland Official Name Iceland Capital Reykjavik Continent Europe Independent Yes Country Code IS"
     },
     {
         "title": "Italy",
@@ -663,19 +663,19 @@
         "title": "Jersey",
         "description": "",
         "url": "/countries/je/index.html",
-        "content": "Jersey Official Name Jersey Capital Saint Helier Continent - Independent No Country Code JE"
+        "content": "Jersey Official Name Jersey Capital Saint Helier Continent Europe Independent No Country Code JE"
     },
     {
         "title": "Jamaica",
         "description": "",
         "url": "/countries/jm/index.html",
-        "content": "Jamaica Official Name Jamaica Capital Kingston Continent - Independent Yes Country Code JM"
+        "content": "Jamaica Official Name Jamaica Capital Kingston Continent North America Independent Yes Country Code JM"
     },
     {
         "title": "Jordan",
         "description": "",
         "url": "/countries/jo/index.html",
-        "content": "Jordan Official Name Hashemite Kingdom of Jordan Capital Amman Continent - Independent Yes Country Code JO"
+        "content": "Jordan Official Name Hashemite Kingdom of Jordan Capital Amman Continent Asia Independent Yes Country Code JO"
     },
     {
         "title": "Japan",
@@ -687,37 +687,37 @@
         "title": "Kenya",
         "description": "",
         "url": "/countries/ke/index.html",
-        "content": "Kenya Official Name Republic of Kenya Capital Nairobi Continent - Independent Yes Country Code KE"
+        "content": "Kenya Official Name Republic of Kenya Capital Nairobi Continent Africa Independent Yes Country Code KE"
     },
     {
         "title": "Kyrgyzstan",
         "description": "",
         "url": "/countries/kg/index.html",
-        "content": "Kyrgyzstan Official Name Kyrgyz Republic Capital Bishkek Continent - Independent Yes Country Code KG"
+        "content": "Kyrgyzstan Official Name Kyrgyz Republic Capital Bishkek Continent Asia Independent Yes Country Code KG"
     },
     {
         "title": "Cambodia",
         "description": "",
         "url": "/countries/kh/index.html",
-        "content": "Cambodia Official Name Cambodia Capital Phnom Penh Continent - Independent Yes Country Code KH"
+        "content": "Cambodia Official Name Cambodia Capital Phnom Penh Continent Asia Independent Yes Country Code KH"
     },
     {
         "title": "Kiribati",
         "description": "",
         "url": "/countries/ki/index.html",
-        "content": "Kiribati Official Name Republic of Kiribati Capital South Tarawa Continent - Independent Yes Country Code KI"
+        "content": "Kiribati Official Name Republic of Kiribati Capital South Tarawa Continent Oceania Independent Yes Country Code KI"
     },
     {
         "title": "Comoros",
         "description": "",
         "url": "/countries/km/index.html",
-        "content": "Comoros Official Name Comoros Capital Moroni Continent - Independent Yes Country Code KM"
+        "content": "Comoros Official Name Comoros Capital Moroni Continent Africa Independent Yes Country Code KM"
     },
     {
         "title": "Saint Kitts and Nevis",
         "description": "",
         "url": "/countries/kn/index.html",
-        "content": "Saint Kitts and Nevis Official Name Federation of Saint Christopher and Nevis Capital Basseterre Continent - Independent Yes Country Code KN"
+        "content": "Saint Kitts and Nevis Official Name Federation of Saint Christopher and Nevis Capital Basseterre Continent North America Independent Yes Country Code KN"
     },
     {
         "title": "North Korea",
@@ -735,61 +735,61 @@
         "title": "Kuwait",
         "description": "",
         "url": "/countries/kw/index.html",
-        "content": "Kuwait Official Name State of Kuwait Capital Kuwait City Continent - Independent Yes Country Code KW"
+        "content": "Kuwait Official Name State of Kuwait Capital Kuwait City Continent Asia Independent Yes Country Code KW"
     },
     {
         "title": "Cayman Islands",
         "description": "",
         "url": "/countries/ky/index.html",
-        "content": "Cayman Islands Official Name Cayman Islands Capital George Town Continent - Independent No Country Code KY"
+        "content": "Cayman Islands Official Name Cayman Islands Capital George Town Continent North America Independent No Country Code KY"
     },
     {
         "title": "Kazakhstan",
         "description": "",
         "url": "/countries/kz/index.html",
-        "content": "Kazakhstan Official Name Republic of Kazakhstan Capital Nur-Sultan Continent - Independent Yes Country Code KZ"
+        "content": "Kazakhstan Official Name Republic of Kazakhstan Capital Nur-Sultan Continent Asia Independent Yes Country Code KZ"
     },
     {
         "title": "Laos",
         "description": "",
         "url": "/countries/la/index.html",
-        "content": "Laos Official Name Lao People's Democratic Republic Capital Vientiane Continent - Independent Yes Country Code LA"
+        "content": "Laos Official Name Lao People's Democratic Republic Capital Vientiane Continent Asia Independent Yes Country Code LA"
     },
     {
         "title": "Lebanon",
         "description": "",
         "url": "/countries/lb/index.html",
-        "content": "Lebanon Official Name Republic of Lebanon Capital Beirut Continent - Independent Yes Country Code LB"
+        "content": "Lebanon Official Name Republic of Lebanon Capital Beirut Continent Asia Independent Yes Country Code LB"
     },
     {
         "title": "Saint Lucia",
         "description": "",
         "url": "/countries/lc/index.html",
-        "content": "Saint Lucia Official Name Saint Lucia Capital Castries Continent - Independent Yes Country Code LC"
+        "content": "Saint Lucia Official Name Saint Lucia Capital Castries Continent North America Independent Yes Country Code LC"
     },
     {
         "title": "Liechtenstein",
         "description": "",
         "url": "/countries/li/index.html",
-        "content": "Liechtenstein Official Name Principality of Liechtenstein Capital Vaduz Continent - Independent Yes Country Code LI"
+        "content": "Liechtenstein Official Name Principality of Liechtenstein Capital Vaduz Continent Europe Independent Yes Country Code LI"
     },
     {
         "title": "Sri Lanka",
         "description": "",
         "url": "/countries/lk/index.html",
-        "content": "Sri Lanka Official Name Democratic Socialist Republic of Sri Lanka Capital Sri Jayawardenepura Kotte Continent - Independent Yes Country Code LK"
+        "content": "Sri Lanka Official Name Democratic Socialist Republic of Sri Lanka Capital Sri Jayawardenepura Kotte Continent Asia Independent Yes Country Code LK"
     },
     {
         "title": "Liberia",
         "description": "",
         "url": "/countries/lr/index.html",
-        "content": "Liberia Official Name Republic of Liberia Capital Monrovia Continent - Independent Yes Country Code LR"
+        "content": "Liberia Official Name Republic of Liberia Capital Monrovia Continent Africa Independent Yes Country Code LR"
     },
     {
         "title": "Lesotho",
         "description": "",
         "url": "/countries/ls/index.html",
-        "content": "Lesotho Official Name Kingdom of Lesotho Capital Maseru Continent - Independent Yes Country Code LS"
+        "content": "Lesotho Official Name Kingdom of Lesotho Capital Maseru Continent Africa Independent Yes Country Code LS"
     },
     {
         "title": "Lithuania",
@@ -813,181 +813,181 @@
         "title": "Libya",
         "description": "",
         "url": "/countries/ly/index.html",
-        "content": "Libya Official Name State of Libya Capital Tripoli Continent - Independent Yes Country Code LY"
+        "content": "Libya Official Name State of Libya Capital Tripoli Continent Africa Independent Yes Country Code LY"
     },
     {
         "title": "Morocco",
         "description": "",
         "url": "/countries/ma/index.html",
-        "content": "Morocco Official Name Kingdom of Marocco Capital Rabat Continent - Independent Yes Country Code MA"
+        "content": "Morocco Official Name Kingdom of Marocco Capital Rabat Continent Africa Independent Yes Country Code MA"
     },
     {
         "title": "Monaco",
         "description": "",
         "url": "/countries/mc/index.html",
-        "content": "Monaco Official Name Monaco Capital Monaco Continent - Independent Yes Country Code MC"
+        "content": "Monaco Official Name Monaco Capital Monaco Continent Europe Independent Yes Country Code MC"
     },
     {
         "title": "Moldova",
         "description": "",
         "url": "/countries/md/index.html",
-        "content": "Moldova Official Name Republic of Moldova Capital Chisinau Continent - Independent Yes Country Code MD"
+        "content": "Moldova Official Name Republic of Moldova Capital Chisinau Continent Europe Independent Yes Country Code MD"
     },
     {
         "title": "Montenegro",
         "description": "",
         "url": "/countries/me/index.html",
-        "content": "Montenegro Official Name Montenegro Capital Podgorica Continent - Independent Yes Country Code ME"
+        "content": "Montenegro Official Name Montenegro Capital Podgorica Continent Europe Independent Yes Country Code ME"
     },
     {
         "title": "Saint Martin",
         "description": "",
         "url": "/countries/mf/index.html",
-        "content": "Saint Martin Official Name Collectivity of Saint Martin Capital Marigot Continent - Independent No Country Code MF"
+        "content": "Saint Martin Official Name Collectivity of Saint Martin Capital Marigot Continent North America Independent No Country Code MF"
     },
     {
         "title": "Madagascar",
         "description": "",
         "url": "/countries/mg/index.html",
-        "content": "Madagascar Official Name Republic of Madagascar Capital Antananarivo Continent - Independent Yes Country Code MG"
+        "content": "Madagascar Official Name Republic of Madagascar Capital Antananarivo Continent Africa Independent Yes Country Code MG"
     },
     {
         "title": "Marshall Islands",
         "description": "",
         "url": "/countries/mh/index.html",
-        "content": "Marshall Islands Official Name Republic of the Marshall Islands Capital Delap-Uliga-Djarrit Continent - Independent Yes Country Code MH"
+        "content": "Marshall Islands Official Name Republic of the Marshall Islands Capital Delap-Uliga-Djarrit Continent Oceania Independent Yes Country Code MH"
     },
     {
-        "title": "Macedonia",
+        "title": "North Macedonia",
         "description": "",
         "url": "/countries/mk/index.html",
-        "content": "Macedonia Official Name North Macedonia Capital Skopje Continent - Independent Yes Country Code MK"
+        "content": "North Macedonia Official Name Republic of North Macedonia Capital Skopje Continent Europe Independent Yes Country Code MK"
     },
     {
         "title": "Mali",
         "description": "",
         "url": "/countries/ml/index.html",
-        "content": "Mali Official Name Republic of Mali Capital Bamako Continent - Independent Yes Country Code ML"
+        "content": "Mali Official Name Republic of Mali Capital Bamako Continent Africa Independent Yes Country Code ML"
     },
     {
         "title": "Myanmar",
         "description": "",
         "url": "/countries/mm/index.html",
-        "content": "Myanmar Official Name Myanmar Capital Naypyidaw Continent - Independent Yes Country Code MM"
+        "content": "Myanmar Official Name Myanmar Capital Naypyidaw Continent Asia Independent Yes Country Code MM"
     },
     {
         "title": "Mongolia",
         "description": "",
         "url": "/countries/mn/index.html",
-        "content": "Mongolia Official Name Mongolia Capital Ulaanbaatar Continent - Independent Yes Country Code MN"
+        "content": "Mongolia Official Name Mongolia Capital Ulaanbaatar Continent Asia Independent Yes Country Code MN"
     },
     {
         "title": "Macao",
         "description": "",
         "url": "/countries/mo/index.html",
-        "content": "Macao Official Name Macao Capital - Continent - Independent No Country Code MO"
+        "content": "Macao Official Name Macao Capital - Continent Asia Independent No Country Code MO"
     },
     {
         "title": "Northern Mariana Islands",
         "description": "",
         "url": "/countries/mp/index.html",
-        "content": "Northern Mariana Islands Official Name Commonwealth of the Northern Mariana Islands Capital Saipan Continent - Independent No Country Code MP"
+        "content": "Northern Mariana Islands Official Name Commonwealth of the Northern Mariana Islands Capital Saipan Continent Oceania Independent No Country Code MP"
     },
     {
         "title": "Martinique",
         "description": "",
         "url": "/countries/mq/index.html",
-        "content": "Martinique Official Name Territorial Collectivity of Martinique Capital Fort-de-France Continent - Independent No Country Code MQ"
+        "content": "Martinique Official Name Territorial Collectivity of Martinique Capital Fort-de-France Continent North America Independent No Country Code MQ"
     },
     {
         "title": "Mauritania",
         "description": "",
         "url": "/countries/mr/index.html",
-        "content": "Mauritania Official Name Islamic Republic of Mauritania Capital Nouakchott Continent - Independent Yes Country Code MR"
+        "content": "Mauritania Official Name Islamic Republic of Mauritania Capital Nouakchott Continent Africa Independent Yes Country Code MR"
     },
     {
         "title": "Montserrat",
         "description": "",
         "url": "/countries/ms/index.html",
-        "content": "Montserrat Official Name Montserrat Capital Plymouth Continent - Independent No Country Code MS"
+        "content": "Montserrat Official Name Montserrat Capital Plymouth Continent North America Independent No Country Code MS"
     },
     {
         "title": "Malta",
         "description": "",
         "url": "/countries/mt/index.html",
-        "content": "Malta Official Name Republic of Malta Capital Valletta Continent - Independent Yes Country Code MT"
+        "content": "Malta Official Name Republic of Malta Capital Valletta Continent Europe Independent Yes Country Code MT"
     },
     {
         "title": "Mauritius",
         "description": "",
         "url": "/countries/mu/index.html",
-        "content": "Mauritius Official Name Republic of Mauritius Capital Port Louis Continent - Independent Yes Country Code MU"
+        "content": "Mauritius Official Name Republic of Mauritius Capital Port Louis Continent Africa Independent Yes Country Code MU"
     },
     {
         "title": "Maldives",
         "description": "",
         "url": "/countries/mv/index.html",
-        "content": "Maldives Official Name Republic of Maldives Capital Malé Continent - Independent Yes Country Code MV"
+        "content": "Maldives Official Name Republic of Maldives Capital Malé Continent Asia Independent Yes Country Code MV"
     },
     {
         "title": "Malawi",
         "description": "",
         "url": "/countries/mw/index.html",
-        "content": "Malawi Official Name Republic of Malawi Capital Lilongwe Continent - Independent Yes Country Code MW"
+        "content": "Malawi Official Name Republic of Malawi Capital Lilongwe Continent Africa Independent Yes Country Code MW"
     },
     {
         "title": "Mexico",
         "description": "",
         "url": "/countries/mx/index.html",
-        "content": "Mexico Official Name United Mexican States Capital Mixico City Continent - Independent Yes Country Code MX"
+        "content": "Mexico Official Name United Mexican States Capital Mixico City Continent North America Independent Yes Country Code MX"
     },
     {
         "title": "Malaysia",
         "description": "",
         "url": "/countries/my/index.html",
-        "content": "Malaysia Official Name Malaysia Capital Putrajaya Continent - Independent Yes Country Code MY"
+        "content": "Malaysia Official Name Malaysia Capital Putrajaya Continent Asia Independent Yes Country Code MY"
     },
     {
         "title": "Mozambique",
         "description": "",
         "url": "/countries/mz/index.html",
-        "content": "Mozambique Official Name Republic of Mozambique Capital Maputo Continent - Independent Yes Country Code MZ"
+        "content": "Mozambique Official Name Republic of Mozambique Capital Maputo Continent Africa Independent Yes Country Code MZ"
     },
     {
         "title": "Namibia",
         "description": "",
         "url": "/countries/na/index.html",
-        "content": "Namibia Official Name Namibia Capital Windhoek Continent - Independent Yes Country Code NA"
+        "content": "Namibia Official Name Namibia Capital Windhoek Continent Africa Independent Yes Country Code NA"
     },
     {
         "title": "New Caledonia",
         "description": "",
         "url": "/countries/nc/index.html",
-        "content": "New Caledonia Official Name New Caledonia Capital Nouméa Continent - Independent No Country Code NC"
+        "content": "New Caledonia Official Name New Caledonia Capital Nouméa Continent Oceania Independent No Country Code NC"
     },
     {
         "title": "Niger",
         "description": "",
         "url": "/countries/ne/index.html",
-        "content": "Niger Official Name Republic of the Niger Capital Niamey Continent - Independent Yes Country Code NE"
+        "content": "Niger Official Name Republic of the Niger Capital Niamey Continent Africa Independent Yes Country Code NE"
     },
     {
         "title": "Norfolk Island",
         "description": "",
         "url": "/countries/nf/index.html",
-        "content": "Norfolk Island Official Name Norfolk Island Capital Kingston Continent - Independent No Country Code NF"
+        "content": "Norfolk Island Official Name Norfolk Island Capital Kingston Continent Oceania Independent No Country Code NF"
     },
     {
         "title": "Nigeria",
         "description": "",
         "url": "/countries/ng/index.html",
-        "content": "Nigeria Official Name Federal Republic of Nigeria Capital Abuja Continent - Independent Yes Country Code NG"
+        "content": "Nigeria Official Name Federal Republic of Nigeria Capital Abuja Continent Africa Independent Yes Country Code NG"
     },
     {
         "title": "Nicaragua",
         "description": "",
         "url": "/countries/ni/index.html",
-        "content": "Nicaragua Official Name Republic of Nicaragua Capital Managua Continent - Independent Yes Country Code NI"
+        "content": "Nicaragua Official Name Republic of Nicaragua Capital Managua Continent North America Independent Yes Country Code NI"
     },
     {
         "title": "Netherlands",
@@ -1011,31 +1011,31 @@
         "title": "Nauru",
         "description": "",
         "url": "/countries/nr/index.html",
-        "content": "Nauru Official Name Nauru Capital Yaren Continent - Independent Yes Country Code NR"
+        "content": "Nauru Official Name Nauru Capital Yaren Continent Oceania Independent Yes Country Code NR"
     },
     {
         "title": "Niue",
         "description": "",
         "url": "/countries/nu/index.html",
-        "content": "Niue Official Name Niue Capital Alofi Continent - Independent No Country Code NU"
+        "content": "Niue Official Name Niue Capital Alofi Continent Oceania Independent No Country Code NU"
     },
     {
         "title": "New Zealand",
         "description": "",
         "url": "/countries/nz/index.html",
-        "content": "New Zealand Official Name New Zealand Capital Wellington Continent - Independent Yes Country Code NZ"
+        "content": "New Zealand Official Name New Zealand Capital Wellington Continent Oceania Independent Yes Country Code NZ"
     },
     {
         "title": "Oman",
         "description": "",
         "url": "/countries/om/index.html",
-        "content": "Oman Official Name Sultanate of Oman Capital Muscat Continent - Independent Yes Country Code OM"
+        "content": "Oman Official Name Sultanate of Oman Capital Muscat Continent Asia Independent Yes Country Code OM"
     },
     {
         "title": "Panama",
         "description": "",
         "url": "/countries/pa/index.html",
-        "content": "Panama Official Name Republic of Panama Capital Panama City Continent - Independent Yes Country Code PA"
+        "content": "Panama Official Name Republic of Panama Capital Panama City Continent North America Independent Yes Country Code PA"
     },
     {
         "title": "Peru",
@@ -1047,25 +1047,25 @@
         "title": "French Polynesia",
         "description": "",
         "url": "/countries/pf/index.html",
-        "content": "French Polynesia Official Name French Polynesia Capital Papeete Continent - Independent No Country Code PF"
+        "content": "French Polynesia Official Name French Polynesia Capital Papeete Continent Oceania Independent No Country Code PF"
     },
     {
         "title": "Papua New Guinea",
         "description": "",
         "url": "/countries/pg/index.html",
-        "content": "Papua New Guinea Official Name Independent State of Papua New Guinea Capital Port Moresby Continent - Independent Yes Country Code PG"
+        "content": "Papua New Guinea Official Name Independent State of Papua New Guinea Capital Port Moresby Continent Oceania Independent Yes Country Code PG"
     },
     {
         "title": "Philippines",
         "description": "",
         "url": "/countries/ph/index.html",
-        "content": "Philippines Official Name Republic of the Philippines Capital Manila Continent - Independent Yes Country Code PH"
+        "content": "Philippines Official Name Republic of the Philippines Capital Manila Continent Asia Independent Yes Country Code PH"
     },
     {
         "title": "Pakistan",
         "description": "",
         "url": "/countries/pk/index.html",
-        "content": "Pakistan Official Name Islamic Republic of Pakistan Capital Islamabad Continent - Independent Yes Country Code PK"
+        "content": "Pakistan Official Name Islamic Republic of Pakistan Capital Islamabad Continent Asia Independent Yes Country Code PK"
     },
     {
         "title": "Poland",
@@ -1077,25 +1077,25 @@
         "title": "Saint Pierre and Miquelon",
         "description": "",
         "url": "/countries/pm/index.html",
-        "content": "Saint Pierre and Miquelon Official Name Territorial Collectivity of Sain-Pierre and Miquelon Capital Saint-Pierre Continent - Independent No Country Code PM"
+        "content": "Saint Pierre and Miquelon Official Name Territorial Collectivity of Sain-Pierre and Miquelon Capital Saint-Pierre Continent North America Independent No Country Code PM"
     },
     {
         "title": "Pitcairn Islands",
         "description": "",
         "url": "/countries/pn/index.html",
-        "content": "Pitcairn Islands Official Name Pitcairn, Henderson, Ducie and Oeno Islands Capital Adamstown Continent - Independent No Country Code PN"
+        "content": "Pitcairn Islands Official Name Pitcairn, Henderson, Ducie and Oeno Islands Capital Adamstown Continent Oceania Independent No Country Code PN"
     },
     {
         "title": "Puerto Rico",
         "description": "",
         "url": "/countries/pr/index.html",
-        "content": "Puerto Rico Official Name Commonwealth of Puerto Rico Capital San Juan Continent - Independent No Country Code PR"
+        "content": "Puerto Rico Official Name Commonwealth of Puerto Rico Capital San Juan Continent North America Independent No Country Code PR"
     },
     {
         "title": "Palestine",
         "description": "",
         "url": "/countries/ps/index.html",
-        "content": "Palestine Official Name State of Palestine Capital Jerusalem Continent - Independent No Country Code PS"
+        "content": "Palestine Official Name State of Palestine Capital Jerusalem Continent Asia Independent No Country Code PS"
     },
     {
         "title": "Portugal",
@@ -1107,73 +1107,73 @@
         "title": "Palau",
         "description": "",
         "url": "/countries/pw/index.html",
-        "content": "Palau Official Name Republic of Palau Capital Ngerulmud Continent - Independent Yes Country Code PW"
+        "content": "Palau Official Name Republic of Palau Capital Ngerulmud Continent Oceania Independent Yes Country Code PW"
     },
     {
         "title": "Paraguay",
         "description": "",
         "url": "/countries/py/index.html",
-        "content": "Paraguay Official Name Republic of Paraguay Capital Asunción Continent - Independent Yes Country Code PY"
+        "content": "Paraguay Official Name Republic of Paraguay Capital Asunción Continent South America Independent Yes Country Code PY"
     },
     {
         "title": "Qatar",
         "description": "",
         "url": "/countries/qa/index.html",
-        "content": "Qatar Official Name State of Qatar Capital Doha Continent - Independent Yes Country Code QA"
+        "content": "Qatar Official Name State of Qatar Capital Doha Continent Asia Independent Yes Country Code QA"
     },
     {
         "title": "Réunion",
         "description": "",
         "url": "/countries/re/index.html",
-        "content": "Réunion Official Name Réunion Capital Saint-Denis Continent - Independent No Country Code RE"
+        "content": "Réunion Official Name Réunion Capital Saint-Denis Continent Africa Independent No Country Code RE"
     },
     {
         "title": "Romania",
         "description": "",
         "url": "/countries/ro/index.html",
-        "content": "Romania Official Name Romania Capital Bucharest Continent - Independent Yes Country Code RO"
+        "content": "Romania Official Name Romania Capital Bucharest Continent Europe Independent Yes Country Code RO"
     },
     {
         "title": "Serbia",
         "description": "",
         "url": "/countries/rs/index.html",
-        "content": "Serbia Official Name Republic of Serbia Capital Belgrade Continent - Independent Yes Country Code RS"
+        "content": "Serbia Official Name Republic of Serbia Capital Belgrade Continent Europe Independent Yes Country Code RS"
     },
     {
         "title": "Russia",
         "description": "",
         "url": "/countries/ru/index.html",
-        "content": "Russia Official Name Russian Federation Capital Moscow Continent - Independent Yes Country Code RU"
+        "content": "Russia Official Name Russian Federation Capital Moscow Continent Europe Independent Yes Country Code RU"
     },
     {
         "title": "Rwanda",
         "description": "",
         "url": "/countries/rw/index.html",
-        "content": "Rwanda Official Name Republic of Rwanda Capital Kigali Continent - Independent Yes Country Code RW"
+        "content": "Rwanda Official Name Republic of Rwanda Capital Kigali Continent Africa Independent Yes Country Code RW"
     },
     {
         "title": "Saudi Arabia",
         "description": "",
         "url": "/countries/sa/index.html",
-        "content": "Saudi Arabia Official Name Kingdom of Saudi Arabia Capital Riyadh Continent - Independent Yes Country Code SA"
+        "content": "Saudi Arabia Official Name Kingdom of Saudi Arabia Capital Riyadh Continent Asia Independent Yes Country Code SA"
     },
     {
         "title": "Solomon Islands",
         "description": "",
         "url": "/countries/sb/index.html",
-        "content": "Solomon Islands Official Name Solomon Islands Capital Honiara Continent - Independent Yes Country Code SB"
+        "content": "Solomon Islands Official Name Solomon Islands Capital Honiara Continent Oceania Independent Yes Country Code SB"
     },
     {
         "title": "Seychelles",
         "description": "",
         "url": "/countries/sc/index.html",
-        "content": "Seychelles Official Name Republic of Seychelles Capital Victoria Continent - Independent Yes Country Code SC"
+        "content": "Seychelles Official Name Republic of Seychelles Capital Victoria Continent Africa Independent Yes Country Code SC"
     },
     {
         "title": "Sudan",
         "description": "",
         "url": "/countries/sd/index.html",
-        "content": "Sudan Official Name Republic of Sudan Capital Khartoum Continent - Independent Yes Country Code SD"
+        "content": "Sudan Official Name Republic of Sudan Capital Khartoum Continent Africa Independent Yes Country Code SD"
     },
     {
         "title": "Sweden",
@@ -1185,121 +1185,121 @@
         "title": "Singapore",
         "description": "",
         "url": "/countries/sg/index.html",
-        "content": "Singapore Official Name Republic of Singapore Capital Singapore Continent - Independent Yes Country Code SG"
+        "content": "Singapore Official Name Republic of Singapore Capital Singapore Continent Asia Independent Yes Country Code SG"
     },
     {
         "title": "Saint Helena, Ascension and Tristan da Cunha",
         "description": "",
         "url": "/countries/sh/index.html",
-        "content": "Saint Helena, Ascension and Tristan da Cunha Official Name Saint Helena, Ascension and Tristan da Cunha Capital Jamestown Continent - Independent No Country Code SH"
+        "content": "Saint Helena, Ascension and Tristan da Cunha Official Name Saint Helena, Ascension and Tristan da Cunha Capital Jamestown Continent Africa Independent No Country Code SH"
     },
     {
         "title": "Slovenia",
         "description": "",
         "url": "/countries/si/index.html",
-        "content": "Slovenia Official Name Republic of Slovenia Capital Ljubljiana Continent - Independent Yes Country Code SI"
+        "content": "Slovenia Official Name Republic of Slovenia Capital Ljubljiana Continent Europe Independent Yes Country Code SI"
     },
     {
         "title": "Svalbard and Jan Mayen",
         "description": "",
         "url": "/countries/sj/index.html",
-        "content": "Svalbard and Jan Mayen Official Name Svalbard and Jan Mayen Capital Longyearbyen Continent - Independent No Country Code SJ"
+        "content": "Svalbard and Jan Mayen Official Name Svalbard and Jan Mayen Capital Longyearbyen Continent Europe Independent No Country Code SJ"
     },
     {
         "title": "Slovakia",
         "description": "",
         "url": "/countries/sk/index.html",
-        "content": "Slovakia Official Name Slovak Republic Capital Bratislava Continent - Independent Yes Country Code SK"
+        "content": "Slovakia Official Name Slovak Republic Capital Bratislava Continent Europe Independent Yes Country Code SK"
     },
     {
         "title": "Sierra Leone",
         "description": "",
         "url": "/countries/sl/index.html",
-        "content": "Sierra Leone Official Name Republic of Sierra Leone Capital Freetown Continent - Independent Yes Country Code SL"
+        "content": "Sierra Leone Official Name Republic of Sierra Leone Capital Freetown Continent Africa Independent Yes Country Code SL"
     },
     {
         "title": "San Marino",
         "description": "",
         "url": "/countries/sm/index.html",
-        "content": "San Marino Official Name Republic of San Marino Capital San Marino Continent - Independent Yes Country Code SM"
+        "content": "San Marino Official Name Republic of San Marino Capital San Marino Continent Europe Independent Yes Country Code SM"
     },
     {
         "title": "Senegal",
         "description": "",
         "url": "/countries/sn/index.html",
-        "content": "Senegal Official Name Republic of Senegal Capital Dakar Continent - Independent Yes Country Code SN"
+        "content": "Senegal Official Name Republic of Senegal Capital Dakar Continent Africa Independent Yes Country Code SN"
     },
     {
         "title": "Somalia",
         "description": "",
         "url": "/countries/so/index.html",
-        "content": "Somalia Official Name Federal Republic of Somalia Capital Mogadishu Continent - Independent Yes Country Code SO"
+        "content": "Somalia Official Name Federal Republic of Somalia Capital Mogadishu Continent Africa Independent Yes Country Code SO"
     },
     {
         "title": "Suriname",
         "description": "",
         "url": "/countries/sr/index.html",
-        "content": "Suriname Official Name Republic of Suriname Capital Paramaribo Continent - Independent Yes Country Code SR"
+        "content": "Suriname Official Name Republic of Suriname Capital Paramaribo Continent South America Independent Yes Country Code SR"
     },
     {
         "title": "South Sudan",
         "description": "",
         "url": "/countries/ss/index.html",
-        "content": "South Sudan Official Name Republic of South Sudan Capital Juba Continent - Independent Yes Country Code SS"
+        "content": "South Sudan Official Name Republic of South Sudan Capital Juba Continent Africa Independent Yes Country Code SS"
     },
     {
         "title": "Sao Tome and Principe",
         "description": "",
         "url": "/countries/st/index.html",
-        "content": "Sao Tome and Principe Official Name Democratic Republic of São Tomé and Príncipe Capital São Tomé Continent - Independent Yes Country Code ST"
+        "content": "Sao Tome and Principe Official Name Democratic Republic of São Tomé and Príncipe Capital São Tomé Continent Africa Independent Yes Country Code ST"
     },
     {
         "title": "El Salvador",
         "description": "",
         "url": "/countries/sv/index.html",
-        "content": "El Salvador Official Name Republic of El Salvador Capital San Salvador Continent - Independent Yes Country Code SV"
+        "content": "El Salvador Official Name Republic of El Salvador Capital San Salvador Continent North America Independent Yes Country Code SV"
     },
     {
         "title": "Sint Maarten",
         "description": "",
         "url": "/countries/sx/index.html",
-        "content": "Sint Maarten Official Name Sint Maarten (Dutch part) Capital Philipsburg Continent - Independent No Country Code SX"
+        "content": "Sint Maarten Official Name Sint Maarten Capital Philipsburg Continent North America Independent No Country Code SX"
     },
     {
         "title": "Syria",
         "description": "",
         "url": "/countries/sy/index.html",
-        "content": "Syria Official Name Syrian Arab Republic Capital Damascus Continent - Independent Yes Country Code SY"
+        "content": "Syria Official Name Syrian Arab Republic Capital Damascus Continent Asia Independent Yes Country Code SY"
     },
     {
         "title": "Eswatini",
         "description": "",
         "url": "/countries/sz/index.html",
-        "content": "Eswatini Official Name Kingdom of Eswatini Capital Mbabane Continent - Independent Yes Country Code SZ"
+        "content": "Eswatini Official Name Kingdom of Eswatini Capital Mbabane Continent Africa Independent Yes Country Code SZ"
     },
     {
         "title": "Turks and Caicos Islands",
         "description": "",
         "url": "/countries/tc/index.html",
-        "content": "Turks and Caicos Islands Official Name Turks and Caicos Islands Capital Grand Turk Continent - Independent No Country Code TC"
+        "content": "Turks and Caicos Islands Official Name Turks and Caicos Islands Capital Grand Turk Continent North America Independent No Country Code TC"
     },
     {
         "title": "Chad",
         "description": "",
         "url": "/countries/td/index.html",
-        "content": "Chad Official Name Chad Capital N'Djamena Continent - Independent Yes Country Code TD"
+        "content": "Chad Official Name Chad Capital N'Djamena Continent Africa Independent Yes Country Code TD"
     },
     {
         "title": "French Southern Lands",
         "description": "",
         "url": "/countries/tf/index.html",
-        "content": "French Southern Lands Official Name French Southern Territories Capital Saint Pierre Continent - Independent No Country Code TF"
+        "content": "French Southern Lands Official Name French Southern Territories Capital Saint Pierre Continent Antarctica Independent No Country Code TF"
     },
     {
         "title": "Togo",
         "description": "",
         "url": "/countries/tg/index.html",
-        "content": "Togo Official Name Togolese Republic Capital Lomé Continent - Independent Yes Country Code TG"
+        "content": "Togo Official Name Togolese Republic Capital Lomé Continent Africa Independent Yes Country Code TG"
     },
     {
         "title": "Thailand",
@@ -1311,55 +1311,55 @@
         "title": "Tajikistan",
         "description": "",
         "url": "/countries/tj/index.html",
-        "content": "Tajikistan Official Name Republic of Tajikistan Capital Dushanbe Continent - Independent Yes Country Code TJ"
+        "content": "Tajikistan Official Name Republic of Tajikistan Capital Dushanbe Continent Asia Independent Yes Country Code TJ"
     },
     {
         "title": "Tokelau",
         "description": "",
         "url": "/countries/tk/index.html",
-        "content": "Tokelau Official Name Tokelau Capital - Continent - Independent No Country Code TK"
+        "content": "Tokelau Official Name Tokelau Capital - Continent Oceania Independent No Country Code TK"
     },
     {
         "title": "East Timor",
         "description": "",
         "url": "/countries/tl/index.html",
-        "content": "East Timor Official Name Democratic Republic of Timor-Leste Capital Dili Continent - Independent Yes Country Code TL"
+        "content": "East Timor Official Name Democratic Republic of Timor-Leste Capital Dili Continent Asia Independent Yes Country Code TL"
     },
     {
         "title": "Turkmenistan",
         "description": "",
         "url": "/countries/tm/index.html",
-        "content": "Turkmenistan Official Name Turkmenistan Capital Ashgabat Continent - Independent Yes Country Code TM"
+        "content": "Turkmenistan Official Name Turkmenistan Capital Ashgabat Continent Asia Independent Yes Country Code TM"
     },
     {
         "title": "Tunisia",
         "description": "",
         "url": "/countries/tn/index.html",
-        "content": "Tunisia Official Name Republic of Tunisia Capital Tunis Continent - Independent Yes Country Code TN"
+        "content": "Tunisia Official Name Republic of Tunisia Capital Tunis Continent Africa Independent Yes Country Code TN"
     },
     {
         "title": "Tonga",
         "description": "",
         "url": "/countries/to/index.html",
-        "content": "Tonga Official Name Kingdom of Tonga Capital Nukualofa Continent - Independent Yes Country Code TO"
+        "content": "Tonga Official Name Kingdom of Tonga Capital Nukualofa Continent Oceania Independent Yes Country Code TO"
     },
     {
         "title": "Turkey",
         "description": "",
         "url": "/countries/tr/index.html",
-        "content": "Turkey Official Name Republic of Turkiye Capital Ankara Continent - Independent Yes Country Code TR"
+        "content": "Turkey Official Name Republic of Turkiye Capital Ankara Continent Asia Independent Yes Country Code TR"
     },
     {
         "title": "Trinidad and Tobago",
         "description": "",
         "url": "/countries/tt/index.html",
-        "content": "Trinidad and Tobago Official Name Republic of Trinidad and Tobago Capital Port of Spain Continent - Independent Yes Country Code TT"
+        "content": "Trinidad and Tobago Official Name Republic of Trinidad and Tobago Capital Port of Spain Continent North America Independent Yes Country Code TT"
     },
     {
         "title": "Tuvalu",
         "description": "",
         "url": "/countries/tv/index.html",
-        "content": "Tuvalu Official Name Tuvalu Capital Funafuti Continent - Independent Yes Country Code TV"
+        "content": "Tuvalu Official Name Tuvalu Capital Funafuti Continent Oceania Independent Yes Country Code TV"
     },
     {
         "title": "Taiwan",
@@ -1377,19 +1377,19 @@
         "title": "Ukraine",
         "description": "",
         "url": "/countries/ua/index.html",
-        "content": "Ukraine Official Name Ukraine Capital Kyiv Continent - Independent Yes Country Code UA"
+        "content": "Ukraine Official Name Ukraine Capital Kyiv Continent Europe Independent Yes Country Code UA"
     },
     {
         "title": "Uganda",
         "description": "",
         "url": "/countries/ug/index.html",
-        "content": "Uganda Official Name Fourth Republic of Uganda Capital Kampala Continent - Independent Yes Country Code UG"
+        "content": "Uganda Official Name Fourth Republic of Uganda Capital Kampala Continent Africa Independent Yes Country Code UG"
     },
     {
         "title": "United States Minor Outlying Islands",
         "description": "",
         "url": "/countries/um/index.html",
-        "content": "United States Minor Outlying Islands Official Name United States Minor Outlying Islands Capital - Continent - Independent No Country Code UM"
+        "content": "United States Minor Outlying Islands Official Name United States Minor Outlying Islands Capital - Continent North America Independent No Country Code UM"
     },
     {
         "title": "United States",
@@ -1407,7 +1407,7 @@
         "title": "Uzbekistan",
         "description": "",
         "url": "/countries/uz/index.html",
-        "content": "Uzbekistan Official Name Republic of Uzbekistan Capital Tashkent Continent - Independent Yes Country Code UZ"
+        "content": "Uzbekistan Official Name Republic of Uzbekistan Capital Tashkent Continent Asia Independent Yes Country Code UZ"
     },
     {
         "title": "Vatican City",
@@ -1419,7 +1419,7 @@
         "title": "Saint Vincent",
         "description": "",
         "url": "/countries/vc/index.html",
-        "content": "Saint Vincent Official Name Saint Vincent and the Grenadines Capital Kingstown Continent - Independent Yes Country Code VC"
+        "content": "Saint Vincent Official Name Saint Vincent and the Grenadines Capital Kingstown Continent North America Independent Yes Country Code VC"
     },
     {
         "title": "Venezuela",
@@ -1431,13 +1431,13 @@
         "title": "British Virgin Islands",
         "description": "",
         "url": "/countries/vg/index.html",
-        "content": "British Virgin Islands Official Name Virgin Islands Capital Road Town Continent - Independent No Country Code VG"
+        "content": "British Virgin Islands Official Name Virgin Islands Capital Road Town Continent North America Independent No Country Code VG"
     },
     {
         "title": "United States Virgin Islands",
         "description": "",
         "url": "/countries/vi/index.html",
-        "content": "United States Virgin Islands Official Name Virgin Islands of the United States Capital Charlotte Amalie Continent - Independent No Country Code VI"
+        "content": "United States Virgin Islands Official Name Virgin Islands of the United States Capital Charlotte Amalie Continent North America Independent No Country Code VI"
     },
     {
         "title": "Vietnam",
@@ -1449,31 +1449,31 @@
         "title": "Vanuatu",
         "description": "",
         "url": "/countries/vu/index.html",
-        "content": "Vanuatu Official Name Republic of Vanuatu Capital Port Vila Continent - Independent Yes Country Code VU"
+        "content": "Vanuatu Official Name Republic of Vanuatu Capital Port Vila Continent Oceania Independent Yes Country Code VU"
     },
     {
         "title": "Wallis and Futuna",
         "description": "",
         "url": "/countries/wf/index.html",
-        "content": "Wallis and Futuna Official Name Territory of the Wallis and Futuna Islands Capital Mata Utu Continent - Independent No Country Code WF"
+        "content": "Wallis and Futuna Official Name Territory of the Wallis and Futuna Islands Capital Mata Utu Continent Oceania Independent No Country Code WF"
     },
     {
         "title": "Samoa",
         "description": "",
         "url": "/countries/ws/index.html",
-        "content": "Samoa Official Name Independent State of Samoa Capital Apia Continent - Independent Yes Country Code WS"
+        "content": "Samoa Official Name Independent State of Samoa Capital Apia Continent Oceania Independent Yes Country Code WS"
     },
     {
         "title": "Yemen",
         "description": "",
         "url": "/countries/ye/index.html",
-        "content": "Yemen Official Name Republic of Yemen Capital Sanaa Continent - Independent Yes Country Code YE"
+        "content": "Yemen Official Name Republic of Yemen Capital Sanaa Continent Asia Independent Yes Country Code YE"
     },
     {
         "title": "Mayotte",
         "description": "",
         "url": "/countries/yt/index.html",
-        "content": "Mayotte Official Name Department of Mayotte Capital Mamoudzou Continent - Independent No Country Code YT"
+        "content": "Mayotte Official Name Department of Mayotte Capital Mamoudzou Continent Africa Independent No Country Code YT"
     },
     {
         "title": "South Africa",
@@ -1485,18 +1485,18 @@
         "title": "Zambia",
         "description": "",
         "url": "/countries/zm/index.html",
-        "content": "Zambia Official Name Republic of Zambia Capital Lusaka Continent - Independent Yes Country Code ZM"
+        "content": "Zambia Official Name Republic of Zambia Capital Lusaka Continent Africa Independent Yes Country Code ZM"
     },
     {
         "title": "Zimbabwe",
         "description": "",
         "url": "/countries/zw/index.html",
-        "content": "Zimbabwe Official Name Republic of Zimbabwe Capital Harare Continent - Independent Yes Country Code ZW"
+        "content": "Zimbabwe Official Name Republic of Zimbabwe Capital Harare Continent Africa Independent Yes Country Code ZW"
     },
     {
         "title": "Countries",
         "description": "",
         "url": "/index.html",
-        "content": "Afghanistan Albania Algeria American Samoa Andorra Angola Anguilla Antarctica Antigua and Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia Bosnia and Herzegovina Botswana Bouvet Island Brazil British Indian Ocean Territory British Virgin Islands Brunei Bulgaria Burkina Faso Burundi Cabo Verde Cambodia Cameroon Canada Caribbean Netherlands Cayman Islands Central African Republic Chad Chile China Christmas Island Cocos Islands Colombia Comoros Congo Congo Cook Islands Costa Rica Croatia Cuba Curaçao Cyprus Czechia Denmark Djibouti Dominica Dominican Republic East Timor Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Eswatini Ethiopia Falkland Islands Faroe Islands Fiji Finland France French Guiana French Polynesia French Southern Lands Gabon Gambia Georgia Germany Ghana Gibraltar Greece Greenland Grenada Guadeloupe Guam Guatemala Guernsey Guinea Guinea-Bissau Guyana Haiti Heard Island and McDonald Islands Honduras Hong Kong Hungary Iceland India Indonesia Iran Iraq Ireland Isle of Man Israel Italy Ivory Coast Jamaica Japan Jersey Jordan Kazakhstan Kenya Kiribati Kuwait Kyrgyzstan Laos Latvia Lebanon Lesotho Liberia Libya Liechtenstein Lithuania Luxembourg Macao Macedonia Madagascar Malawi Malaysia Maldives Mali Malta Marshall Islands Martinique Mauritania Mauritius Mayotte Mexico Micronesia Moldova Monaco Mongolia Montenegro Montserrat Morocco Mozambique Myanmar Namibia Nauru Nepal Netherlands New Caledonia New Zealand Nicaragua Niger Nigeria Niue Norfolk Island North Korea Northern Mariana Islands Norway Oman Pakistan Palau Palestine Panama Papua New Guinea Paraguay Peru Philippines Pitcairn Islands Poland Portugal Puerto Rico Qatar Romania Russia Rwanda Réunion Saint Barthélemy Saint Helena, Ascension and Tristan da Cunha Saint Kitts and Nevis Saint Lucia Saint Martin Saint Pierre and Miquelon Saint Vincent Samoa San Marino Sao Tome and Principe Saudi Arabia Senegal Serbia Seychelles Sierra Leone Singapore Sint Maarten Slovakia Slovenia Solomon Islands Somalia South Africa South Georgia and the South Sandwich Islands South Korea South Sudan Spain Sri Lanka Sudan Suriname Svalbard and Jan Mayen Sweden Switzerland Syria Taiwan Tajikistan Tanzania Thailand Togo Tokelau Tonga Trinidad and Tobago Tunisia Turkey Turkmenistan Turks and Caicos Islands Tuvalu Uganda Ukraine United Arab Emirates United Kingdom United States United States Minor Outlying Islands United States Virgin Islands Uruguay Uzbekistan Vanuatu Vatican City Venezuela Vietnam Wallis and Futuna Western Sahara Yemen Zambia Zimbabwe Åland"
+        "content": "Afghanistan Albania Algeria American Samoa Andorra Angola Anguilla Antarctica Antigua and Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia Bosnia and Herzegovina Botswana Bouvet Island Brazil British Indian Ocean Territory British Virgin Islands Brunei Bulgaria Burkina Faso Burundi Cabo Verde Cambodia Cameroon Canada Caribbean Netherlands Cayman Islands Central African Republic Chad Chile China Christmas Island Cocos Islands Colombia Comoros Congo Congo Cook Islands Costa Rica Croatia Cuba Curaçao Cyprus Czechia Denmark Djibouti Dominica Dominican Republic East Timor Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Eswatini Ethiopia Falkland Islands Faroe Islands Fiji Finland France French Guiana French Polynesia French Southern Lands Gabon Gambia Georgia Germany Ghana Gibraltar Greece Greenland Grenada Guadeloupe Guam Guatemala Guernsey Guinea Guinea-Bissau Guyana Haiti Heard Island and McDonald Islands Honduras Hong Kong Hungary Iceland India Indonesia Iran Iraq Ireland Isle of Man Israel Italy Ivory Coast Jamaica Japan Jersey Jordan Kazakhstan Kenya Kiribati Kuwait Kyrgyzstan Laos Latvia Lebanon Lesotho Liberia Libya Liechtenstein Lithuania Luxembourg Macao Madagascar Malawi Malaysia Maldives Mali Malta Marshall Islands Martinique Mauritania Mauritius Mayotte Mexico Micronesia Moldova Monaco Mongolia Montenegro Montserrat Morocco Mozambique Myanmar Namibia Nauru Nepal Netherlands New Caledonia New Zealand Nicaragua Niger Nigeria Niue Norfolk Island North Korea North Macedonia Northern Mariana Islands Norway Oman Pakistan Palau Palestine Panama Papua New Guinea Paraguay Peru Philippines Pitcairn Islands Poland Portugal Puerto Rico Qatar Romania Russia Rwanda Réunion Saint Barthélemy Saint Helena, Ascension and Tristan da Cunha Saint Kitts and Nevis Saint Lucia Saint Martin Saint Pierre and Miquelon Saint Vincent Samoa San Marino Sao Tome and Principe Saudi Arabia Senegal Serbia Seychelles Sierra Leone Singapore Sint Maarten Slovakia Slovenia Solomon Islands Somalia South Africa South Georgia and the South Sandwich Islands South Korea South Sudan Spain Sri Lanka Sudan Suriname Svalbard and Jan Mayen Sweden Switzerland Syria Taiwan Tajikistan Tanzania Thailand Togo Tokelau Tonga Trinidad and Tobago Tunisia Turkey Turkmenistan Turks and Caicos Islands Tuvalu Uganda Ukraine United Arab Emirates United Kingdom United States United States Minor Outlying Islands United States Virgin Islands Uruguay Uzbekistan Vanuatu Vatican City Venezuela Vietnam Wallis and Futuna Western Sahara Yemen Zambia Zimbabwe Åland"
     }
 ]
