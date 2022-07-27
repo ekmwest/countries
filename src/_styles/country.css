@@ -1,6 +1,6 @@
 .country__flag {
     display: block;
-    object-fit: contain;
+    object-fit: fill;
     margin: 0 auto;
 }
 
