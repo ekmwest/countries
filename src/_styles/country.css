@@ -6,6 +6,7 @@
 
 .is-mobile .country__flag {
     width: 100%;
+    overflow: hidden;
 }
 
 .is-desktop .country__flag {
