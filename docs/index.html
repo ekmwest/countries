@@ -17,18 +17,18 @@
 <body class="index__body">
     <header class="index__header">
         <form class="index__form">
-            <label>
-                <input type="checkbox" name="hide-dependent-countries-input" data-element="index.hide-dependent-countries-input" checked />
-                <span>Hide Dependent Countries</span>
-            </label>
-
-            <label>
+            <label class="index__narrow-label">
                 <input type="checkbox" name="show-country-names-input" data-element="index.show-country-names-input" checked />
                 <span>Show Country Names</span>
             </label>
 
+            <label class="index__narrow-label">
+                <input type="checkbox" name="show-dependent-countries-input" data-element="index.show-dependent-countries-input" />
+                <span>Show Dependent Countries</span>
+            </label>
+
             <label>
-                <input placeholder="Search..." type="text" class="index__search-input" data-element="index.search-input" />
+                <input autofocus placeholder="Search..." type="text" class="index__search-input" data-element="index.search-input" />
             </label>
         </form>
     </header>
