@@ -450,22 +450,22 @@ export let countries = [
         "flag_url": "https://countries.ekmwest.io/flags/km.svg"
     },
     {
-        "code": "CD",
-        "name": "Democratic Republic of the Congo",
-        "common_name": "Congo",
-        "capital": "Kinshasa",
-        "independent": true,
-        "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/cd.svg"
-    },
-    {
         "code": "CG",
         "name": "Republic of the Congo",
-        "common_name": "Congo",
+        "common_name": "Congo-Brazzaville",
         "capital": "Brazzaville",
         "independent": true,
         "continent": "Africa",
         "flag_url": "https://countries.ekmwest.io/flags/cg.svg"
+    },
+    {
+        "code": "CD",
+        "name": "Democratic Republic of the Congo",
+        "common_name": "Congo-Kinshasa",
+        "capital": "Kinshasa",
+        "independent": true,
+        "continent": "Africa",
+        "flag_url": "https://countries.ekmwest.io/flags/cd.svg"
     },
     {
         "code": "CK",
