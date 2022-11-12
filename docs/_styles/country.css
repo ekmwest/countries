@@ -29,6 +29,7 @@
 }
 
 .country__data {
+    padding: 0 6px 64px;
 }
 
 .country__data-item {
