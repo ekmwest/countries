@@ -1,6 +1,6 @@
 # Countries
 
-This is a public read-only database of countries defined by [ISO 3166-1](https://en.wikipedia.org/wiki/ISO_3166-1).
+A public read-only database of countries defined by [ISO 3166-1](https://en.wikipedia.org/wiki/ISO_3166-1).
 
 *(As of Nov 2022, the database includes Kosovo, assigned with [country code XK](https://en.wikipedia.org/wiki/XK_(user_assigned_code)), expected to be issued by the UN Terminology Bulletin.)*
 
