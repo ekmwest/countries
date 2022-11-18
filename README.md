@@ -34,7 +34,7 @@ Each record (country) has the following shape:
     common_name: string,
     capital: string,
     continent: string,
-    independent: boolean
+    independent: boolean,
     flag_url: string
 }
 ```
