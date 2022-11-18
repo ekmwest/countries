@@ -1,6 +1,6 @@
 {
     "tasks": {
-        "build": "deno run -A build.js",
-        "dev": "deno run -A dev.js"
+        "build": "deno run -A --no-lock build.js",
+        "dev": "deno run -A --no-lock dev.js"
     }
 }

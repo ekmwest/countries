@@ -1,3 +1,3 @@
-export * as path from "https://deno.land/std@0.163.0/path/mod.ts";
+export * as path from "https://deno.land/std@0.165.0/path/mod.ts";
 export { DB } from "https://deno.land/x/sqlite@v3.7.0/mod.ts";
-export { dev } from "https://cdn.jsdelivr.net/gh/learnpoint/piko@1.0.17/dev.js";
+export { dev } from "https://cdn.jsdelivr.net/gh/learnpoint/piko@1.0.18/dev.js";
