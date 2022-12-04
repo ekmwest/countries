@@ -14,6 +14,19 @@ const jsonDataFile = path.join(sourcePath, 'countries.json');
 const jsDataFile = path.join(sourcePath, 'countries.js');
 
 const flagUrl = code => `https://countries.ekmwest.io/flags/${code.toLowerCase()}.svg`;
+const mapUrl = code => `https://countries.ekmwest.io/maps/${code.toLowerCase()}.svg`;
+
+const mapViewBox = continent => {
+    switch (continent.toLowerCase()) {
+        case 'africa': return '1100 340 600 680';
+        case 'asia': return '1490 240 900 580';
+        case 'europe': return '1170 90 450 320';
+        case 'north america': return '420 120 550 600';
+        case 'oceania': return '2000 500 1000 700';
+        case 'south america': return '600 550 500 680';
+        default: return '0 0 2754 1398';
+    }
+}
 
 export async function build() {
     const countries = await createCountriesFromDB();
@@ -37,7 +50,8 @@ async function createCountriesFromDB() {
             capital,
             independent: independent ? true : false,
             continent,
-            flag_url: flagUrl(code)
+            flag_url: flagUrl(code),
+            map_url: mapUrl(code)
         });
     }
 
@@ -94,6 +108,10 @@ async function copyFlagsFromDataToSource() {
     }
 }
 
+async function makeMapIncludes(countries) {
+
+}
+
 async function buildDataFiles(countries) {
     await Deno.writeTextFile(jsDataFile, 'export let countries = ' + JSON.stringify(countries, null, 4) + ';');
     await Deno.writeTextFile(jsonDataFile, JSON.stringify(countries, null, 4));
@@ -128,6 +146,7 @@ layout: country.html
         <div class="country__data-label">Country Code</div>
         <div class="country__data-value">${country.code}</div>
     </div>
-</div>`;
+</div>
+<!-- map.svg, { viewBox: "${mapViewBox(country.continent)}", code: "${country.code.toLowerCase()}" } -->`
 
 }

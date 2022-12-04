@@ -12,8 +12,7 @@
 }
 
 .is-desktop .country__flag {
-    max-width: 100%;
-    width: 768px;
+    max-width: 480px;
     margin-top: 2em;
 }
 
@@ -29,7 +28,7 @@
 }
 
 .country__data {
-    padding: 0 6px 64px;
+    padding: 0 6px 32px;
 }
 
 .country__data-item {
@@ -49,4 +48,16 @@
     text-align: left;
     padding: .3em .3em;
     line-height: 1.1;
+}
+
+.country__map {
+    max-width: 768px;
+    margin: 0 auto 3em;
+    padding: 0 1em;
+    display: block;
+}
+
+.is-mobile .country__map {
+    max-width: 100%;
+    margin: 0 auto 1em;
 }

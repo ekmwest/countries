@@ -1,45 +1,4 @@
-<!DOCTYPE html>
-<html lang="en" class="country">
-
-<head>
-    <meta charset="utf-8">
-<title>Indonesia</title>
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<link rel="shortcut icon" type="image/png" href="/_images/favicon.png" />
-<link rel="apple-touch-icon" sizes="152x152" href="/_images/apple-touch-icon.png">
-<link rel="stylesheet" href="/_styles/main.css" />
-<script src="/_scripts/is-mobile.js"></script>
-
-    <link rel="stylesheet" href="/_styles/country.css" />
-</head>
-
-<body class="country__body">
-    <main class="country__main">
-        <img class="country__flag" src="/flags/id.svg">
-<h1 class="country__name">Indonesia</h1>
-<div class="country__data">
-    <div class="country__data-item">
-        <div class="country__data-label">Official Name</div>
-        <div class="country__data-value">Republic of Indonesia</div>
-    </div>
-    <div class="country__data-item">
-        <div class="country__data-label">Capital</div>
-        <div class="country__data-value">Jakarta</div>
-    </div>
-    <div class="country__data-item">
-        <div class="country__data-label">Continent</div>
-        <div class="country__data-value">Asia</div>
-    </div>
-    <div class="country__data-item">
-        <div class="country__data-label">Independent</div>
-        <div class="country__data-value">Yes</div>
-    </div>
-    <div class="country__data-item">
-        <div class="country__data-label">Country Code</div>
-        <div class="country__data-value">ID</div>
-    </div>
-</div>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="1490 240 900 580" class="country__map">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="{{ viewBox }}" class="country__map">
 	<title>World Map</title>
 	<style id="style_css_sheet" type="text/css">
 		/*
@@ -178,7 +137,7 @@
  *
  */
 
-	.id {
+	.{{ code }} {
 		opacity: 1;
 		fill: #f00;
 	}
@@ -3306,7 +3265,3 @@
 -->
 
 </svg>
-    </main>
-</body>
-
-</html>

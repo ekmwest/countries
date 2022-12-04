@@ -6,7 +6,8 @@ export let countries = [
         "capital": "Kabul",
         "independent": true,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/af.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/af.svg",
+        "map_url": "https://countries.ekmwest.io/maps/af.svg"
     },
     {
         "code": "AL",
@@ -15,7 +16,8 @@ export let countries = [
         "capital": "Tirana",
         "independent": true,
         "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/al.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/al.svg",
+        "map_url": "https://countries.ekmwest.io/maps/al.svg"
     },
     {
         "code": "DZ",
@@ -24,7 +26,8 @@ export let countries = [
         "capital": "Algiers",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/dz.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/dz.svg",
+        "map_url": "https://countries.ekmwest.io/maps/dz.svg"
     },
     {
         "code": "AS",
@@ -33,7 +36,8 @@ export let countries = [
         "capital": "Pago Pago",
         "independent": false,
         "continent": "Oceania",
-        "flag_url": "https://countries.ekmwest.io/flags/as.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/as.svg",
+        "map_url": "https://countries.ekmwest.io/maps/as.svg"
     },
     {
         "code": "AD",
@@ -42,7 +46,8 @@ export let countries = [
         "capital": "Andorra la Vella",
         "independent": true,
         "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/ad.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/ad.svg",
+        "map_url": "https://countries.ekmwest.io/maps/ad.svg"
     },
     {
         "code": "AO",
@@ -51,7 +56,8 @@ export let countries = [
         "capital": "Luanda",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/ao.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/ao.svg",
+        "map_url": "https://countries.ekmwest.io/maps/ao.svg"
     },
     {
         "code": "AI",
@@ -60,7 +66,8 @@ export let countries = [
         "capital": "The Valley",
         "independent": false,
         "continent": "North America",
-        "flag_url": "https://countries.ekmwest.io/flags/ai.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/ai.svg",
+        "map_url": "https://countries.ekmwest.io/maps/ai.svg"
     },
     {
         "code": "AQ",
@@ -69,7 +76,8 @@ export let countries = [
         "capital": null,
         "independent": false,
         "continent": "Antarctica",
-        "flag_url": "https://countries.ekmwest.io/flags/aq.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/aq.svg",
+        "map_url": "https://countries.ekmwest.io/maps/aq.svg"
     },
     {
         "code": "AG",
@@ -78,7 +86,8 @@ export let countries = [
         "capital": "St. John's",
         "independent": true,
         "continent": "North America",
-        "flag_url": "https://countries.ekmwest.io/flags/ag.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/ag.svg",
+        "map_url": "https://countries.ekmwest.io/maps/ag.svg"
     },
     {
         "code": "AR",
@@ -87,7 +96,8 @@ export let countries = [
         "capital": "Buenos Aires",
         "independent": true,
         "continent": "South America",
-        "flag_url": "https://countries.ekmwest.io/flags/ar.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/ar.svg",
+        "map_url": "https://countries.ekmwest.io/maps/ar.svg"
     },
     {
         "code": "AM",
@@ -96,7 +106,8 @@ export let countries = [
         "capital": "Yerevan",
         "independent": true,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/am.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/am.svg",
+        "map_url": "https://countries.ekmwest.io/maps/am.svg"
     },
     {
         "code": "AW",
@@ -105,7 +116,8 @@ export let countries = [
         "capital": "Oranjestad",
         "independent": false,
         "continent": "North America",
-        "flag_url": "https://countries.ekmwest.io/flags/aw.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/aw.svg",
+        "map_url": "https://countries.ekmwest.io/maps/aw.svg"
     },
     {
         "code": "AU",
@@ -114,7 +126,8 @@ export let countries = [
         "capital": "Canberra",
         "independent": true,
         "continent": "Oceania",
-        "flag_url": "https://countries.ekmwest.io/flags/au.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/au.svg",
+        "map_url": "https://countries.ekmwest.io/maps/au.svg"
     },
     {
         "code": "AT",
@@ -123,7 +136,8 @@ export let countries = [
         "capital": "Vienna",
         "independent": true,
         "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/at.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/at.svg",
+        "map_url": "https://countries.ekmwest.io/maps/at.svg"
     },
     {
         "code": "AZ",
@@ -132,7 +146,8 @@ export let countries = [
         "capital": "Baku",
         "independent": true,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/az.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/az.svg",
+        "map_url": "https://countries.ekmwest.io/maps/az.svg"
     },
     {
         "code": "BS",
@@ -141,7 +156,8 @@ export let countries = [
         "capital": "Nassau",
         "independent": true,
         "continent": "North America",
-        "flag_url": "https://countries.ekmwest.io/flags/bs.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/bs.svg",
+        "map_url": "https://countries.ekmwest.io/maps/bs.svg"
     },
     {
         "code": "BH",
@@ -150,7 +166,8 @@ export let countries = [
         "capital": "Manama",
         "independent": true,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/bh.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/bh.svg",
+        "map_url": "https://countries.ekmwest.io/maps/bh.svg"
     },
     {
         "code": "BD",
@@ -159,7 +176,8 @@ export let countries = [
         "capital": "Dhaka",
         "independent": true,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/bd.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/bd.svg",
+        "map_url": "https://countries.ekmwest.io/maps/bd.svg"
     },
     {
         "code": "BB",
@@ -168,7 +186,8 @@ export let countries = [
         "capital": "Bridgetown",
         "independent": true,
         "continent": "North America",
-        "flag_url": "https://countries.ekmwest.io/flags/bb.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/bb.svg",
+        "map_url": "https://countries.ekmwest.io/maps/bb.svg"
     },
     {
         "code": "BY",
@@ -177,7 +196,8 @@ export let countries = [
         "capital": "Minsk",
         "independent": true,
         "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/by.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/by.svg",
+        "map_url": "https://countries.ekmwest.io/maps/by.svg"
     },
     {
         "code": "BE",
@@ -186,7 +206,8 @@ export let countries = [
         "capital": "Brussels",
         "independent": true,
         "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/be.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/be.svg",
+        "map_url": "https://countries.ekmwest.io/maps/be.svg"
     },
     {
         "code": "BZ",
@@ -195,7 +216,8 @@ export let countries = [
         "capital": "Belmopan",
         "independent": true,
         "continent": "North America",
-        "flag_url": "https://countries.ekmwest.io/flags/bz.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/bz.svg",
+        "map_url": "https://countries.ekmwest.io/maps/bz.svg"
     },
     {
         "code": "BJ",
@@ -204,7 +226,8 @@ export let countries = [
         "capital": "Porto-Novo",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/bj.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/bj.svg",
+        "map_url": "https://countries.ekmwest.io/maps/bj.svg"
     },
     {
         "code": "BM",
@@ -213,7 +236,8 @@ export let countries = [
         "capital": "Hamilton",
         "independent": false,
         "continent": "North America",
-        "flag_url": "https://countries.ekmwest.io/flags/bm.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/bm.svg",
+        "map_url": "https://countries.ekmwest.io/maps/bm.svg"
     },
     {
         "code": "BT",
@@ -222,7 +246,8 @@ export let countries = [
         "capital": "Thimphu",
         "independent": true,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/bt.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/bt.svg",
+        "map_url": "https://countries.ekmwest.io/maps/bt.svg"
     },
     {
         "code": "BO",
@@ -231,7 +256,8 @@ export let countries = [
         "capital": null,
         "independent": true,
         "continent": "South America",
-        "flag_url": "https://countries.ekmwest.io/flags/bo.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/bo.svg",
+        "map_url": "https://countries.ekmwest.io/maps/bo.svg"
     },
     {
         "code": "BA",
@@ -240,7 +266,8 @@ export let countries = [
         "capital": "Sarajevo",
         "independent": true,
         "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/ba.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/ba.svg",
+        "map_url": "https://countries.ekmwest.io/maps/ba.svg"
     },
     {
         "code": "BW",
@@ -249,7 +276,8 @@ export let countries = [
         "capital": "Gaborone",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/bw.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/bw.svg",
+        "map_url": "https://countries.ekmwest.io/maps/bw.svg"
     },
     {
         "code": "BV",
@@ -258,7 +286,8 @@ export let countries = [
         "capital": null,
         "independent": false,
         "continent": "Antarctica",
-        "flag_url": "https://countries.ekmwest.io/flags/bv.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/bv.svg",
+        "map_url": "https://countries.ekmwest.io/maps/bv.svg"
     },
     {
         "code": "BR",
@@ -267,7 +296,8 @@ export let countries = [
         "capital": "Brasilia",
         "independent": true,
         "continent": "South America",
-        "flag_url": "https://countries.ekmwest.io/flags/br.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/br.svg",
+        "map_url": "https://countries.ekmwest.io/maps/br.svg"
     },
     {
         "code": "IO",
@@ -276,7 +306,8 @@ export let countries = [
         "capital": null,
         "independent": false,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/io.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/io.svg",
+        "map_url": "https://countries.ekmwest.io/maps/io.svg"
     },
     {
         "code": "VG",
@@ -285,7 +316,8 @@ export let countries = [
         "capital": "Road Town",
         "independent": false,
         "continent": "North America",
-        "flag_url": "https://countries.ekmwest.io/flags/vg.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/vg.svg",
+        "map_url": "https://countries.ekmwest.io/maps/vg.svg"
     },
     {
         "code": "BN",
@@ -294,7 +326,8 @@ export let countries = [
         "capital": "Bandar Seri",
         "independent": true,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/bn.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/bn.svg",
+        "map_url": "https://countries.ekmwest.io/maps/bn.svg"
     },
     {
         "code": "BG",
@@ -303,7 +336,8 @@ export let countries = [
         "capital": "Sofia",
         "independent": true,
         "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/bg.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/bg.svg",
+        "map_url": "https://countries.ekmwest.io/maps/bg.svg"
     },
     {
         "code": "BF",
@@ -312,7 +346,8 @@ export let countries = [
         "capital": "Ouagadougou",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/bf.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/bf.svg",
+        "map_url": "https://countries.ekmwest.io/maps/bf.svg"
     },
     {
         "code": "BI",
@@ -321,7 +356,8 @@ export let countries = [
         "capital": "Gitega",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/bi.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/bi.svg",
+        "map_url": "https://countries.ekmwest.io/maps/bi.svg"
     },
     {
         "code": "CV",
@@ -330,7 +366,8 @@ export let countries = [
         "capital": "Praia",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/cv.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/cv.svg",
+        "map_url": "https://countries.ekmwest.io/maps/cv.svg"
     },
     {
         "code": "KH",
@@ -339,7 +376,8 @@ export let countries = [
         "capital": "Phnom Penh",
         "independent": true,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/kh.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/kh.svg",
+        "map_url": "https://countries.ekmwest.io/maps/kh.svg"
     },
     {
         "code": "CM",
@@ -348,7 +386,8 @@ export let countries = [
         "capital": "Yaoundé",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/cm.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/cm.svg",
+        "map_url": "https://countries.ekmwest.io/maps/cm.svg"
     },
     {
         "code": "CA",
@@ -357,7 +396,8 @@ export let countries = [
         "capital": "Ottawa",
         "independent": true,
         "continent": "North America",
-        "flag_url": "https://countries.ekmwest.io/flags/ca.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/ca.svg",
+        "map_url": "https://countries.ekmwest.io/maps/ca.svg"
     },
     {
         "code": "BQ",
@@ -366,7 +406,8 @@ export let countries = [
         "capital": null,
         "independent": false,
         "continent": "North America",
-        "flag_url": "https://countries.ekmwest.io/flags/bq.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/bq.svg",
+        "map_url": "https://countries.ekmwest.io/maps/bq.svg"
     },
     {
         "code": "KY",
@@ -375,7 +416,8 @@ export let countries = [
         "capital": "George Town",
         "independent": false,
         "continent": "North America",
-        "flag_url": "https://countries.ekmwest.io/flags/ky.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/ky.svg",
+        "map_url": "https://countries.ekmwest.io/maps/ky.svg"
     },
     {
         "code": "CF",
@@ -384,7 +426,8 @@ export let countries = [
         "capital": "Bangui",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/cf.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/cf.svg",
+        "map_url": "https://countries.ekmwest.io/maps/cf.svg"
     },
     {
         "code": "TD",
@@ -393,7 +436,8 @@ export let countries = [
         "capital": "N'Djamena",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/td.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/td.svg",
+        "map_url": "https://countries.ekmwest.io/maps/td.svg"
     },
     {
         "code": "CL",
@@ -402,7 +446,8 @@ export let countries = [
         "capital": "Santiago",
         "independent": true,
         "continent": "South America",
-        "flag_url": "https://countries.ekmwest.io/flags/cl.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/cl.svg",
+        "map_url": "https://countries.ekmwest.io/maps/cl.svg"
     },
     {
         "code": "CN",
@@ -411,7 +456,8 @@ export let countries = [
         "capital": "Beijing",
         "independent": true,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/cn.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/cn.svg",
+        "map_url": "https://countries.ekmwest.io/maps/cn.svg"
     },
     {
         "code": "CX",
@@ -420,7 +466,8 @@ export let countries = [
         "capital": "Flying Fish Cove",
         "independent": false,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/cx.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/cx.svg",
+        "map_url": "https://countries.ekmwest.io/maps/cx.svg"
     },
     {
         "code": "CC",
@@ -429,7 +476,8 @@ export let countries = [
         "capital": "West Island",
         "independent": false,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/cc.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/cc.svg",
+        "map_url": "https://countries.ekmwest.io/maps/cc.svg"
     },
     {
         "code": "CO",
@@ -438,7 +486,8 @@ export let countries = [
         "capital": "Bogotá",
         "independent": true,
         "continent": "South America",
-        "flag_url": "https://countries.ekmwest.io/flags/co.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/co.svg",
+        "map_url": "https://countries.ekmwest.io/maps/co.svg"
     },
     {
         "code": "KM",
@@ -447,7 +496,8 @@ export let countries = [
         "capital": "Moroni",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/km.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/km.svg",
+        "map_url": "https://countries.ekmwest.io/maps/km.svg"
     },
     {
         "code": "CG",
@@ -456,7 +506,8 @@ export let countries = [
         "capital": "Brazzaville",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/cg.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/cg.svg",
+        "map_url": "https://countries.ekmwest.io/maps/cg.svg"
     },
     {
         "code": "CD",
@@ -465,7 +516,8 @@ export let countries = [
         "capital": "Kinshasa",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/cd.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/cd.svg",
+        "map_url": "https://countries.ekmwest.io/maps/cd.svg"
     },
     {
         "code": "CK",
@@ -474,7 +526,8 @@ export let countries = [
         "capital": "Avarua",
         "independent": false,
         "continent": "Oceania",
-        "flag_url": "https://countries.ekmwest.io/flags/ck.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/ck.svg",
+        "map_url": "https://countries.ekmwest.io/maps/ck.svg"
     },
     {
         "code": "CR",
@@ -483,7 +536,8 @@ export let countries = [
         "capital": "San José",
         "independent": true,
         "continent": "North America",
-        "flag_url": "https://countries.ekmwest.io/flags/cr.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/cr.svg",
+        "map_url": "https://countries.ekmwest.io/maps/cr.svg"
     },
     {
         "code": "HR",
@@ -492,7 +546,8 @@ export let countries = [
         "capital": "Zagreb",
         "independent": true,
         "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/hr.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/hr.svg",
+        "map_url": "https://countries.ekmwest.io/maps/hr.svg"
     },
     {
         "code": "CU",
@@ -501,7 +556,8 @@ export let countries = [
         "capital": "Havana",
         "independent": true,
         "continent": "North America",
-        "flag_url": "https://countries.ekmwest.io/flags/cu.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/cu.svg",
+        "map_url": "https://countries.ekmwest.io/maps/cu.svg"
     },
     {
         "code": "CW",
@@ -510,7 +566,8 @@ export let countries = [
         "capital": "Willemstad",
         "independent": false,
         "continent": "North America",
-        "flag_url": "https://countries.ekmwest.io/flags/cw.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/cw.svg",
+        "map_url": "https://countries.ekmwest.io/maps/cw.svg"
     },
     {
         "code": "CY",
@@ -519,7 +576,8 @@ export let countries = [
         "capital": "Nicosia",
         "independent": true,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/cy.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/cy.svg",
+        "map_url": "https://countries.ekmwest.io/maps/cy.svg"
     },
     {
         "code": "CZ",
@@ -528,7 +586,8 @@ export let countries = [
         "capital": "Prague",
         "independent": true,
         "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/cz.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/cz.svg",
+        "map_url": "https://countries.ekmwest.io/maps/cz.svg"
     },
     {
         "code": "DK",
@@ -537,7 +596,8 @@ export let countries = [
         "capital": "Copenhagen",
         "independent": true,
         "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/dk.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/dk.svg",
+        "map_url": "https://countries.ekmwest.io/maps/dk.svg"
     },
     {
         "code": "DJ",
@@ -546,7 +606,8 @@ export let countries = [
         "capital": "Djibouti",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/dj.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/dj.svg",
+        "map_url": "https://countries.ekmwest.io/maps/dj.svg"
     },
     {
         "code": "DM",
@@ -555,7 +616,8 @@ export let countries = [
         "capital": "Roseau",
         "independent": true,
         "continent": "North America",
-        "flag_url": "https://countries.ekmwest.io/flags/dm.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/dm.svg",
+        "map_url": "https://countries.ekmwest.io/maps/dm.svg"
     },
     {
         "code": "DO",
@@ -564,7 +626,8 @@ export let countries = [
         "capital": "Santo Domingo",
         "independent": true,
         "continent": "North America",
-        "flag_url": "https://countries.ekmwest.io/flags/do.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/do.svg",
+        "map_url": "https://countries.ekmwest.io/maps/do.svg"
     },
     {
         "code": "TL",
@@ -573,7 +636,8 @@ export let countries = [
         "capital": "Dili",
         "independent": true,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/tl.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/tl.svg",
+        "map_url": "https://countries.ekmwest.io/maps/tl.svg"
     },
     {
         "code": "EC",
@@ -582,7 +646,8 @@ export let countries = [
         "capital": "Quito",
         "independent": true,
         "continent": "South America",
-        "flag_url": "https://countries.ekmwest.io/flags/ec.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/ec.svg",
+        "map_url": "https://countries.ekmwest.io/maps/ec.svg"
     },
     {
         "code": "EG",
@@ -591,7 +656,8 @@ export let countries = [
         "capital": "Cairo",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/eg.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/eg.svg",
+        "map_url": "https://countries.ekmwest.io/maps/eg.svg"
     },
     {
         "code": "SV",
@@ -600,7 +666,8 @@ export let countries = [
         "capital": "San Salvador",
         "independent": true,
         "continent": "North America",
-        "flag_url": "https://countries.ekmwest.io/flags/sv.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/sv.svg",
+        "map_url": "https://countries.ekmwest.io/maps/sv.svg"
     },
     {
         "code": "GQ",
@@ -609,7 +676,8 @@ export let countries = [
         "capital": "Malabo",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/gq.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/gq.svg",
+        "map_url": "https://countries.ekmwest.io/maps/gq.svg"
     },
     {
         "code": "ER",
@@ -618,7 +686,8 @@ export let countries = [
         "capital": "Asmara",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/er.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/er.svg",
+        "map_url": "https://countries.ekmwest.io/maps/er.svg"
     },
     {
         "code": "EE",
@@ -627,7 +696,8 @@ export let countries = [
         "capital": "Tallin",
         "independent": true,
         "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/ee.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/ee.svg",
+        "map_url": "https://countries.ekmwest.io/maps/ee.svg"
     },
     {
         "code": "SZ",
@@ -636,7 +706,8 @@ export let countries = [
         "capital": "Mbabane",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/sz.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/sz.svg",
+        "map_url": "https://countries.ekmwest.io/maps/sz.svg"
     },
     {
         "code": "ET",
@@ -645,7 +716,8 @@ export let countries = [
         "capital": "Addis Ababa",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/et.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/et.svg",
+        "map_url": "https://countries.ekmwest.io/maps/et.svg"
     },
     {
         "code": "FK",
@@ -654,7 +726,8 @@ export let countries = [
         "capital": "Stanley",
         "independent": false,
         "continent": "South America",
-        "flag_url": "https://countries.ekmwest.io/flags/fk.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/fk.svg",
+        "map_url": "https://countries.ekmwest.io/maps/fk.svg"
     },
     {
         "code": "FO",
@@ -663,7 +736,8 @@ export let countries = [
         "capital": "Tórshavn",
         "independent": false,
         "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/fo.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/fo.svg",
+        "map_url": "https://countries.ekmwest.io/maps/fo.svg"
     },
     {
         "code": "FJ",
@@ -672,7 +746,8 @@ export let countries = [
         "capital": "Suva",
         "independent": true,
         "continent": "Oceania",
-        "flag_url": "https://countries.ekmwest.io/flags/fj.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/fj.svg",
+        "map_url": "https://countries.ekmwest.io/maps/fj.svg"
     },
     {
         "code": "FI",
@@ -681,7 +756,8 @@ export let countries = [
         "capital": "Helsinki",
         "independent": true,
         "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/fi.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/fi.svg",
+        "map_url": "https://countries.ekmwest.io/maps/fi.svg"
     },
     {
         "code": "FR",
@@ -690,7 +766,8 @@ export let countries = [
         "capital": "Paris",
         "independent": true,
         "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/fr.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/fr.svg",
+        "map_url": "https://countries.ekmwest.io/maps/fr.svg"
     },
     {
         "code": "GF",
@@ -699,7 +776,8 @@ export let countries = [
         "capital": "Cayenne",
         "independent": false,
         "continent": "South America",
-        "flag_url": "https://countries.ekmwest.io/flags/gf.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/gf.svg",
+        "map_url": "https://countries.ekmwest.io/maps/gf.svg"
     },
     {
         "code": "PF",
@@ -708,7 +786,8 @@ export let countries = [
         "capital": "Papeete",
         "independent": false,
         "continent": "Oceania",
-        "flag_url": "https://countries.ekmwest.io/flags/pf.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/pf.svg",
+        "map_url": "https://countries.ekmwest.io/maps/pf.svg"
     },
     {
         "code": "TF",
@@ -717,7 +796,8 @@ export let countries = [
         "capital": "Saint Pierre",
         "independent": false,
         "continent": "Antarctica",
-        "flag_url": "https://countries.ekmwest.io/flags/tf.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/tf.svg",
+        "map_url": "https://countries.ekmwest.io/maps/tf.svg"
     },
     {
         "code": "GA",
@@ -726,7 +806,8 @@ export let countries = [
         "capital": "Livreville",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/ga.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/ga.svg",
+        "map_url": "https://countries.ekmwest.io/maps/ga.svg"
     },
     {
         "code": "GM",
@@ -735,7 +816,8 @@ export let countries = [
         "capital": "Banjul",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/gm.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/gm.svg",
+        "map_url": "https://countries.ekmwest.io/maps/gm.svg"
     },
     {
         "code": "GE",
@@ -744,7 +826,8 @@ export let countries = [
         "capital": "Tbilisi",
         "independent": true,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/ge.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/ge.svg",
+        "map_url": "https://countries.ekmwest.io/maps/ge.svg"
     },
     {
         "code": "DE",
@@ -753,7 +836,8 @@ export let countries = [
         "capital": "Berlin",
         "independent": true,
         "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/de.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/de.svg",
+        "map_url": "https://countries.ekmwest.io/maps/de.svg"
     },
     {
         "code": "GH",
@@ -762,7 +846,8 @@ export let countries = [
         "capital": "Accra",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/gh.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/gh.svg",
+        "map_url": "https://countries.ekmwest.io/maps/gh.svg"
     },
     {
         "code": "GI",
@@ -771,7 +856,8 @@ export let countries = [
         "capital": "Westside",
         "independent": false,
         "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/gi.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/gi.svg",
+        "map_url": "https://countries.ekmwest.io/maps/gi.svg"
     },
     {
         "code": "GR",
@@ -780,7 +866,8 @@ export let countries = [
         "capital": "Athens",
         "independent": true,
         "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/gr.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/gr.svg",
+        "map_url": "https://countries.ekmwest.io/maps/gr.svg"
     },
     {
         "code": "GL",
@@ -789,7 +876,8 @@ export let countries = [
         "capital": "Nuuk",
         "independent": false,
         "continent": "North America",
-        "flag_url": "https://countries.ekmwest.io/flags/gl.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/gl.svg",
+        "map_url": "https://countries.ekmwest.io/maps/gl.svg"
     },
     {
         "code": "GD",
@@ -798,7 +886,8 @@ export let countries = [
         "capital": "St. George's",
         "independent": true,
         "continent": "North America",
-        "flag_url": "https://countries.ekmwest.io/flags/gd.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/gd.svg",
+        "map_url": "https://countries.ekmwest.io/maps/gd.svg"
     },
     {
         "code": "GP",
@@ -807,7 +896,8 @@ export let countries = [
         "capital": null,
         "independent": false,
         "continent": "North America",
-        "flag_url": "https://countries.ekmwest.io/flags/gp.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/gp.svg",
+        "map_url": "https://countries.ekmwest.io/maps/gp.svg"
     },
     {
         "code": "GU",
@@ -816,7 +906,8 @@ export let countries = [
         "capital": "Hagåtña",
         "independent": false,
         "continent": "Oceania",
-        "flag_url": "https://countries.ekmwest.io/flags/gu.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/gu.svg",
+        "map_url": "https://countries.ekmwest.io/maps/gu.svg"
     },
     {
         "code": "GT",
@@ -825,7 +916,8 @@ export let countries = [
         "capital": "Guatemala City",
         "independent": true,
         "continent": "North America",
-        "flag_url": "https://countries.ekmwest.io/flags/gt.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/gt.svg",
+        "map_url": "https://countries.ekmwest.io/maps/gt.svg"
     },
     {
         "code": "GG",
@@ -834,7 +926,8 @@ export let countries = [
         "capital": "Saint Peter Port",
         "independent": false,
         "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/gg.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/gg.svg",
+        "map_url": "https://countries.ekmwest.io/maps/gg.svg"
     },
     {
         "code": "GN",
@@ -843,7 +936,8 @@ export let countries = [
         "capital": "Conakry",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/gn.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/gn.svg",
+        "map_url": "https://countries.ekmwest.io/maps/gn.svg"
     },
     {
         "code": "GW",
@@ -852,7 +946,8 @@ export let countries = [
         "capital": "Bissau",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/gw.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/gw.svg",
+        "map_url": "https://countries.ekmwest.io/maps/gw.svg"
     },
     {
         "code": "GY",
@@ -861,7 +956,8 @@ export let countries = [
         "capital": "Georgetown",
         "independent": true,
         "continent": "South America",
-        "flag_url": "https://countries.ekmwest.io/flags/gy.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/gy.svg",
+        "map_url": "https://countries.ekmwest.io/maps/gy.svg"
     },
     {
         "code": "HT",
@@ -870,7 +966,8 @@ export let countries = [
         "capital": "Port-au-Prince",
         "independent": true,
         "continent": "North America",
-        "flag_url": "https://countries.ekmwest.io/flags/ht.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/ht.svg",
+        "map_url": "https://countries.ekmwest.io/maps/ht.svg"
     },
     {
         "code": "HM",
@@ -879,7 +976,8 @@ export let countries = [
         "capital": null,
         "independent": false,
         "continent": "Antarctica",
-        "flag_url": "https://countries.ekmwest.io/flags/hm.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/hm.svg",
+        "map_url": "https://countries.ekmwest.io/maps/hm.svg"
     },
     {
         "code": "HN",
@@ -888,7 +986,8 @@ export let countries = [
         "capital": "Tegucigalpa",
         "independent": true,
         "continent": "North America",
-        "flag_url": "https://countries.ekmwest.io/flags/hn.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/hn.svg",
+        "map_url": "https://countries.ekmwest.io/maps/hn.svg"
     },
     {
         "code": "HK",
@@ -897,7 +996,8 @@ export let countries = [
         "capital": null,
         "independent": false,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/hk.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/hk.svg",
+        "map_url": "https://countries.ekmwest.io/maps/hk.svg"
     },
     {
         "code": "HU",
@@ -906,7 +1006,8 @@ export let countries = [
         "capital": "Budapest",
         "independent": true,
         "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/hu.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/hu.svg",
+        "map_url": "https://countries.ekmwest.io/maps/hu.svg"
     },
     {
         "code": "IS",
@@ -915,7 +1016,8 @@ export let countries = [
         "capital": "Reykjavik",
         "independent": true,
         "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/is.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/is.svg",
+        "map_url": "https://countries.ekmwest.io/maps/is.svg"
     },
     {
         "code": "IN",
@@ -924,7 +1026,8 @@ export let countries = [
         "capital": "New Delhi",
         "independent": true,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/in.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/in.svg",
+        "map_url": "https://countries.ekmwest.io/maps/in.svg"
     },
     {
         "code": "ID",
@@ -933,7 +1036,8 @@ export let countries = [
         "capital": "Jakarta",
         "independent": true,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/id.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/id.svg",
+        "map_url": "https://countries.ekmwest.io/maps/id.svg"
     },
     {
         "code": "IR",
@@ -942,7 +1046,8 @@ export let countries = [
         "capital": "Tehran",
         "independent": true,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/ir.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/ir.svg",
+        "map_url": "https://countries.ekmwest.io/maps/ir.svg"
     },
     {
         "code": "IQ",
@@ -951,7 +1056,8 @@ export let countries = [
         "capital": "Baghdad",
         "independent": true,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/iq.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/iq.svg",
+        "map_url": "https://countries.ekmwest.io/maps/iq.svg"
     },
     {
         "code": "IE",
@@ -960,7 +1066,8 @@ export let countries = [
         "capital": "Dublin",
         "independent": true,
         "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/ie.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/ie.svg",
+        "map_url": "https://countries.ekmwest.io/maps/ie.svg"
     },
     {
         "code": "IM",
@@ -969,7 +1076,8 @@ export let countries = [
         "capital": "Douglas",
         "independent": false,
         "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/im.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/im.svg",
+        "map_url": "https://countries.ekmwest.io/maps/im.svg"
     },
     {
         "code": "IL",
@@ -978,7 +1086,8 @@ export let countries = [
         "capital": "Jerusalem",
         "independent": true,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/il.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/il.svg",
+        "map_url": "https://countries.ekmwest.io/maps/il.svg"
     },
     {
         "code": "IT",
@@ -987,7 +1096,8 @@ export let countries = [
         "capital": "Rome",
         "independent": true,
         "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/it.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/it.svg",
+        "map_url": "https://countries.ekmwest.io/maps/it.svg"
     },
     {
         "code": "CI",
@@ -996,7 +1106,8 @@ export let countries = [
         "capital": "Yamoussoukro",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/ci.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/ci.svg",
+        "map_url": "https://countries.ekmwest.io/maps/ci.svg"
     },
     {
         "code": "JM",
@@ -1005,7 +1116,8 @@ export let countries = [
         "capital": "Kingston",
         "independent": true,
         "continent": "North America",
-        "flag_url": "https://countries.ekmwest.io/flags/jm.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/jm.svg",
+        "map_url": "https://countries.ekmwest.io/maps/jm.svg"
     },
     {
         "code": "JP",
@@ -1014,7 +1126,8 @@ export let countries = [
         "capital": "Tokyo",
         "independent": true,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/jp.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/jp.svg",
+        "map_url": "https://countries.ekmwest.io/maps/jp.svg"
     },
     {
         "code": "JE",
@@ -1023,7 +1136,8 @@ export let countries = [
         "capital": "Saint Helier",
         "independent": false,
         "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/je.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/je.svg",
+        "map_url": "https://countries.ekmwest.io/maps/je.svg"
     },
     {
         "code": "JO",
@@ -1032,7 +1146,8 @@ export let countries = [
         "capital": "Amman",
         "independent": true,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/jo.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/jo.svg",
+        "map_url": "https://countries.ekmwest.io/maps/jo.svg"
     },
     {
         "code": "KZ",
@@ -1041,7 +1156,8 @@ export let countries = [
         "capital": "Nur-Sultan",
         "independent": true,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/kz.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/kz.svg",
+        "map_url": "https://countries.ekmwest.io/maps/kz.svg"
     },
     {
         "code": "KE",
@@ -1050,7 +1166,8 @@ export let countries = [
         "capital": "Nairobi",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/ke.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/ke.svg",
+        "map_url": "https://countries.ekmwest.io/maps/ke.svg"
     },
     {
         "code": "KI",
@@ -1059,7 +1176,8 @@ export let countries = [
         "capital": "South Tarawa",
         "independent": true,
         "continent": "Oceania",
-        "flag_url": "https://countries.ekmwest.io/flags/ki.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/ki.svg",
+        "map_url": "https://countries.ekmwest.io/maps/ki.svg"
     },
     {
         "code": "XK",
@@ -1068,7 +1186,8 @@ export let countries = [
         "capital": "Pristina",
         "independent": true,
         "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/xk.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/xk.svg",
+        "map_url": "https://countries.ekmwest.io/maps/xk.svg"
     },
     {
         "code": "KW",
@@ -1077,7 +1196,8 @@ export let countries = [
         "capital": "Kuwait City",
         "independent": true,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/kw.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/kw.svg",
+        "map_url": "https://countries.ekmwest.io/maps/kw.svg"
     },
     {
         "code": "KG",
@@ -1086,7 +1206,8 @@ export let countries = [
         "capital": "Bishkek",
         "independent": true,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/kg.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/kg.svg",
+        "map_url": "https://countries.ekmwest.io/maps/kg.svg"
     },
     {
         "code": "LA",
@@ -1095,7 +1216,8 @@ export let countries = [
         "capital": "Vientiane",
         "independent": true,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/la.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/la.svg",
+        "map_url": "https://countries.ekmwest.io/maps/la.svg"
     },
     {
         "code": "LV",
@@ -1104,7 +1226,8 @@ export let countries = [
         "capital": "Riga",
         "independent": true,
         "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/lv.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/lv.svg",
+        "map_url": "https://countries.ekmwest.io/maps/lv.svg"
     },
     {
         "code": "LB",
@@ -1113,7 +1236,8 @@ export let countries = [
         "capital": "Beirut",
         "independent": true,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/lb.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/lb.svg",
+        "map_url": "https://countries.ekmwest.io/maps/lb.svg"
     },
     {
         "code": "LS",
@@ -1122,7 +1246,8 @@ export let countries = [
         "capital": "Maseru",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/ls.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/ls.svg",
+        "map_url": "https://countries.ekmwest.io/maps/ls.svg"
     },
     {
         "code": "LR",
@@ -1131,7 +1256,8 @@ export let countries = [
         "capital": "Monrovia",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/lr.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/lr.svg",
+        "map_url": "https://countries.ekmwest.io/maps/lr.svg"
     },
     {
         "code": "LY",
@@ -1140,7 +1266,8 @@ export let countries = [
         "capital": "Tripoli",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/ly.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/ly.svg",
+        "map_url": "https://countries.ekmwest.io/maps/ly.svg"
     },
     {
         "code": "LI",
@@ -1149,7 +1276,8 @@ export let countries = [
         "capital": "Vaduz",
         "independent": true,
         "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/li.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/li.svg",
+        "map_url": "https://countries.ekmwest.io/maps/li.svg"
     },
     {
         "code": "LT",
@@ -1158,7 +1286,8 @@ export let countries = [
         "capital": "Vilnius",
         "independent": true,
         "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/lt.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/lt.svg",
+        "map_url": "https://countries.ekmwest.io/maps/lt.svg"
     },
     {
         "code": "LU",
@@ -1167,7 +1296,8 @@ export let countries = [
         "capital": "Luxembourg City",
         "independent": true,
         "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/lu.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/lu.svg",
+        "map_url": "https://countries.ekmwest.io/maps/lu.svg"
     },
     {
         "code": "MO",
@@ -1176,7 +1306,8 @@ export let countries = [
         "capital": null,
         "independent": false,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/mo.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/mo.svg",
+        "map_url": "https://countries.ekmwest.io/maps/mo.svg"
     },
     {
         "code": "MG",
@@ -1185,7 +1316,8 @@ export let countries = [
         "capital": "Antananarivo",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/mg.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/mg.svg",
+        "map_url": "https://countries.ekmwest.io/maps/mg.svg"
     },
     {
         "code": "MW",
@@ -1194,7 +1326,8 @@ export let countries = [
         "capital": "Lilongwe",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/mw.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/mw.svg",
+        "map_url": "https://countries.ekmwest.io/maps/mw.svg"
     },
     {
         "code": "MY",
@@ -1203,7 +1336,8 @@ export let countries = [
         "capital": "Putrajaya",
         "independent": true,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/my.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/my.svg",
+        "map_url": "https://countries.ekmwest.io/maps/my.svg"
     },
     {
         "code": "MV",
@@ -1212,7 +1346,8 @@ export let countries = [
         "capital": "Malé",
         "independent": true,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/mv.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/mv.svg",
+        "map_url": "https://countries.ekmwest.io/maps/mv.svg"
     },
     {
         "code": "ML",
@@ -1221,7 +1356,8 @@ export let countries = [
         "capital": "Bamako",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/ml.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/ml.svg",
+        "map_url": "https://countries.ekmwest.io/maps/ml.svg"
     },
     {
         "code": "MT",
@@ -1230,7 +1366,8 @@ export let countries = [
         "capital": "Valletta",
         "independent": true,
         "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/mt.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/mt.svg",
+        "map_url": "https://countries.ekmwest.io/maps/mt.svg"
     },
     {
         "code": "MH",
@@ -1239,7 +1376,8 @@ export let countries = [
         "capital": "Delap-Uliga-Djarrit",
         "independent": true,
         "continent": "Oceania",
-        "flag_url": "https://countries.ekmwest.io/flags/mh.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/mh.svg",
+        "map_url": "https://countries.ekmwest.io/maps/mh.svg"
     },
     {
         "code": "MQ",
@@ -1248,7 +1386,8 @@ export let countries = [
         "capital": "Fort-de-France",
         "independent": false,
         "continent": "North America",
-        "flag_url": "https://countries.ekmwest.io/flags/mq.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/mq.svg",
+        "map_url": "https://countries.ekmwest.io/maps/mq.svg"
     },
     {
         "code": "MR",
@@ -1257,7 +1396,8 @@ export let countries = [
         "capital": "Nouakchott",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/mr.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/mr.svg",
+        "map_url": "https://countries.ekmwest.io/maps/mr.svg"
     },
     {
         "code": "MU",
@@ -1266,7 +1406,8 @@ export let countries = [
         "capital": "Port Louis",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/mu.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/mu.svg",
+        "map_url": "https://countries.ekmwest.io/maps/mu.svg"
     },
     {
         "code": "YT",
@@ -1275,7 +1416,8 @@ export let countries = [
         "capital": "Mamoudzou",
         "independent": false,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/yt.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/yt.svg",
+        "map_url": "https://countries.ekmwest.io/maps/yt.svg"
     },
     {
         "code": "MX",
@@ -1284,7 +1426,8 @@ export let countries = [
         "capital": "Mixico City",
         "independent": true,
         "continent": "North America",
-        "flag_url": "https://countries.ekmwest.io/flags/mx.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/mx.svg",
+        "map_url": "https://countries.ekmwest.io/maps/mx.svg"
     },
     {
         "code": "FM",
@@ -1293,7 +1436,8 @@ export let countries = [
         "capital": "Palikir",
         "independent": true,
         "continent": "Oceania",
-        "flag_url": "https://countries.ekmwest.io/flags/fm.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/fm.svg",
+        "map_url": "https://countries.ekmwest.io/maps/fm.svg"
     },
     {
         "code": "MD",
@@ -1302,7 +1446,8 @@ export let countries = [
         "capital": "Chisinau",
         "independent": true,
         "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/md.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/md.svg",
+        "map_url": "https://countries.ekmwest.io/maps/md.svg"
     },
     {
         "code": "MC",
@@ -1311,7 +1456,8 @@ export let countries = [
         "capital": "Monaco",
         "independent": true,
         "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/mc.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/mc.svg",
+        "map_url": "https://countries.ekmwest.io/maps/mc.svg"
     },
     {
         "code": "MN",
@@ -1320,7 +1466,8 @@ export let countries = [
         "capital": "Ulaanbaatar",
         "independent": true,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/mn.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/mn.svg",
+        "map_url": "https://countries.ekmwest.io/maps/mn.svg"
     },
     {
         "code": "ME",
@@ -1329,7 +1476,8 @@ export let countries = [
         "capital": "Podgorica",
         "independent": true,
         "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/me.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/me.svg",
+        "map_url": "https://countries.ekmwest.io/maps/me.svg"
     },
     {
         "code": "MS",
@@ -1338,7 +1486,8 @@ export let countries = [
         "capital": "Plymouth",
         "independent": false,
         "continent": "North America",
-        "flag_url": "https://countries.ekmwest.io/flags/ms.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/ms.svg",
+        "map_url": "https://countries.ekmwest.io/maps/ms.svg"
     },
     {
         "code": "MA",
@@ -1347,7 +1496,8 @@ export let countries = [
         "capital": "Rabat",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/ma.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/ma.svg",
+        "map_url": "https://countries.ekmwest.io/maps/ma.svg"
     },
     {
         "code": "MZ",
@@ -1356,7 +1506,8 @@ export let countries = [
         "capital": "Maputo",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/mz.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/mz.svg",
+        "map_url": "https://countries.ekmwest.io/maps/mz.svg"
     },
     {
         "code": "MM",
@@ -1365,7 +1516,8 @@ export let countries = [
         "capital": "Naypyidaw",
         "independent": true,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/mm.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/mm.svg",
+        "map_url": "https://countries.ekmwest.io/maps/mm.svg"
     },
     {
         "code": "NA",
@@ -1374,7 +1526,8 @@ export let countries = [
         "capital": "Windhoek",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/na.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/na.svg",
+        "map_url": "https://countries.ekmwest.io/maps/na.svg"
     },
     {
         "code": "NR",
@@ -1383,7 +1536,8 @@ export let countries = [
         "capital": "Yaren",
         "independent": true,
         "continent": "Oceania",
-        "flag_url": "https://countries.ekmwest.io/flags/nr.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/nr.svg",
+        "map_url": "https://countries.ekmwest.io/maps/nr.svg"
     },
     {
         "code": "NP",
@@ -1392,7 +1546,8 @@ export let countries = [
         "capital": "Kathmandu",
         "independent": true,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/np.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/np.svg",
+        "map_url": "https://countries.ekmwest.io/maps/np.svg"
     },
     {
         "code": "NL",
@@ -1401,7 +1556,8 @@ export let countries = [
         "capital": "Amsterdam",
         "independent": true,
         "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/nl.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/nl.svg",
+        "map_url": "https://countries.ekmwest.io/maps/nl.svg"
     },
     {
         "code": "NC",
@@ -1410,7 +1566,8 @@ export let countries = [
         "capital": "Nouméa",
         "independent": false,
         "continent": "Oceania",
-        "flag_url": "https://countries.ekmwest.io/flags/nc.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/nc.svg",
+        "map_url": "https://countries.ekmwest.io/maps/nc.svg"
     },
     {
         "code": "NZ",
@@ -1419,7 +1576,8 @@ export let countries = [
         "capital": "Wellington",
         "independent": true,
         "continent": "Oceania",
-        "flag_url": "https://countries.ekmwest.io/flags/nz.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/nz.svg",
+        "map_url": "https://countries.ekmwest.io/maps/nz.svg"
     },
     {
         "code": "NI",
@@ -1428,7 +1586,8 @@ export let countries = [
         "capital": "Managua",
         "independent": true,
         "continent": "North America",
-        "flag_url": "https://countries.ekmwest.io/flags/ni.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/ni.svg",
+        "map_url": "https://countries.ekmwest.io/maps/ni.svg"
     },
     {
         "code": "NE",
@@ -1437,7 +1596,8 @@ export let countries = [
         "capital": "Niamey",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/ne.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/ne.svg",
+        "map_url": "https://countries.ekmwest.io/maps/ne.svg"
     },
     {
         "code": "NG",
@@ -1446,7 +1606,8 @@ export let countries = [
         "capital": "Abuja",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/ng.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/ng.svg",
+        "map_url": "https://countries.ekmwest.io/maps/ng.svg"
     },
     {
         "code": "NU",
@@ -1455,7 +1616,8 @@ export let countries = [
         "capital": "Alofi",
         "independent": false,
         "continent": "Oceania",
-        "flag_url": "https://countries.ekmwest.io/flags/nu.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/nu.svg",
+        "map_url": "https://countries.ekmwest.io/maps/nu.svg"
     },
     {
         "code": "NF",
@@ -1464,7 +1626,8 @@ export let countries = [
         "capital": "Kingston",
         "independent": false,
         "continent": "Oceania",
-        "flag_url": "https://countries.ekmwest.io/flags/nf.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/nf.svg",
+        "map_url": "https://countries.ekmwest.io/maps/nf.svg"
     },
     {
         "code": "KP",
@@ -1473,7 +1636,8 @@ export let countries = [
         "capital": "Pyongyang",
         "independent": true,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/kp.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/kp.svg",
+        "map_url": "https://countries.ekmwest.io/maps/kp.svg"
     },
     {
         "code": "MK",
@@ -1482,7 +1646,8 @@ export let countries = [
         "capital": "Skopje",
         "independent": true,
         "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/mk.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/mk.svg",
+        "map_url": "https://countries.ekmwest.io/maps/mk.svg"
     },
     {
         "code": "MP",
@@ -1491,7 +1656,8 @@ export let countries = [
         "capital": "Saipan",
         "independent": false,
         "continent": "Oceania",
-        "flag_url": "https://countries.ekmwest.io/flags/mp.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/mp.svg",
+        "map_url": "https://countries.ekmwest.io/maps/mp.svg"
     },
     {
         "code": "NO",
@@ -1500,7 +1666,8 @@ export let countries = [
         "capital": "Oslo",
         "independent": true,
         "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/no.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/no.svg",
+        "map_url": "https://countries.ekmwest.io/maps/no.svg"
     },
     {
         "code": "OM",
@@ -1509,7 +1676,8 @@ export let countries = [
         "capital": "Muscat",
         "independent": true,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/om.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/om.svg",
+        "map_url": "https://countries.ekmwest.io/maps/om.svg"
     },
     {
         "code": "PK",
@@ -1518,7 +1686,8 @@ export let countries = [
         "capital": "Islamabad",
         "independent": true,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/pk.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/pk.svg",
+        "map_url": "https://countries.ekmwest.io/maps/pk.svg"
     },
     {
         "code": "PW",
@@ -1527,7 +1696,8 @@ export let countries = [
         "capital": "Ngerulmud",
         "independent": true,
         "continent": "Oceania",
-        "flag_url": "https://countries.ekmwest.io/flags/pw.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/pw.svg",
+        "map_url": "https://countries.ekmwest.io/maps/pw.svg"
     },
     {
         "code": "PS",
@@ -1536,7 +1706,8 @@ export let countries = [
         "capital": "Jerusalem",
         "independent": false,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/ps.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/ps.svg",
+        "map_url": "https://countries.ekmwest.io/maps/ps.svg"
     },
     {
         "code": "PA",
@@ -1545,7 +1716,8 @@ export let countries = [
         "capital": "Panama City",
         "independent": true,
         "continent": "North America",
-        "flag_url": "https://countries.ekmwest.io/flags/pa.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/pa.svg",
+        "map_url": "https://countries.ekmwest.io/maps/pa.svg"
     },
     {
         "code": "PG",
@@ -1554,7 +1726,8 @@ export let countries = [
         "capital": "Port Moresby",
         "independent": true,
         "continent": "Oceania",
-        "flag_url": "https://countries.ekmwest.io/flags/pg.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/pg.svg",
+        "map_url": "https://countries.ekmwest.io/maps/pg.svg"
     },
     {
         "code": "PY",
@@ -1563,7 +1736,8 @@ export let countries = [
         "capital": "Asunción",
         "independent": true,
         "continent": "South America",
-        "flag_url": "https://countries.ekmwest.io/flags/py.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/py.svg",
+        "map_url": "https://countries.ekmwest.io/maps/py.svg"
     },
     {
         "code": "PE",
@@ -1572,7 +1746,8 @@ export let countries = [
         "capital": "Lima",
         "independent": true,
         "continent": "South America",
-        "flag_url": "https://countries.ekmwest.io/flags/pe.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/pe.svg",
+        "map_url": "https://countries.ekmwest.io/maps/pe.svg"
     },
     {
         "code": "PH",
@@ -1581,7 +1756,8 @@ export let countries = [
         "capital": "Manila",
         "independent": true,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/ph.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/ph.svg",
+        "map_url": "https://countries.ekmwest.io/maps/ph.svg"
     },
     {
         "code": "PN",
@@ -1590,7 +1766,8 @@ export let countries = [
         "capital": "Adamstown",
         "independent": false,
         "continent": "Oceania",
-        "flag_url": "https://countries.ekmwest.io/flags/pn.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/pn.svg",
+        "map_url": "https://countries.ekmwest.io/maps/pn.svg"
     },
     {
         "code": "PL",
@@ -1599,7 +1776,8 @@ export let countries = [
         "capital": "Warsaw",
         "independent": true,
         "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/pl.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/pl.svg",
+        "map_url": "https://countries.ekmwest.io/maps/pl.svg"
     },
     {
         "code": "PT",
@@ -1608,7 +1786,8 @@ export let countries = [
         "capital": "Lisbon",
         "independent": true,
         "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/pt.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/pt.svg",
+        "map_url": "https://countries.ekmwest.io/maps/pt.svg"
     },
     {
         "code": "PR",
@@ -1617,7 +1796,8 @@ export let countries = [
         "capital": "San Juan",
         "independent": false,
         "continent": "North America",
-        "flag_url": "https://countries.ekmwest.io/flags/pr.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/pr.svg",
+        "map_url": "https://countries.ekmwest.io/maps/pr.svg"
     },
     {
         "code": "QA",
@@ -1626,7 +1806,8 @@ export let countries = [
         "capital": "Doha",
         "independent": true,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/qa.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/qa.svg",
+        "map_url": "https://countries.ekmwest.io/maps/qa.svg"
     },
     {
         "code": "RO",
@@ -1635,7 +1816,8 @@ export let countries = [
         "capital": "Bucharest",
         "independent": true,
         "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/ro.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/ro.svg",
+        "map_url": "https://countries.ekmwest.io/maps/ro.svg"
     },
     {
         "code": "RU",
@@ -1644,7 +1826,8 @@ export let countries = [
         "capital": "Moscow",
         "independent": true,
         "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/ru.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/ru.svg",
+        "map_url": "https://countries.ekmwest.io/maps/ru.svg"
     },
     {
         "code": "RW",
@@ -1653,7 +1836,8 @@ export let countries = [
         "capital": "Kigali",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/rw.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/rw.svg",
+        "map_url": "https://countries.ekmwest.io/maps/rw.svg"
     },
     {
         "code": "RE",
@@ -1662,7 +1846,8 @@ export let countries = [
         "capital": "Saint-Denis",
         "independent": false,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/re.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/re.svg",
+        "map_url": "https://countries.ekmwest.io/maps/re.svg"
     },
     {
         "code": "BL",
@@ -1671,7 +1856,8 @@ export let countries = [
         "capital": "Gustavia",
         "independent": false,
         "continent": "North America",
-        "flag_url": "https://countries.ekmwest.io/flags/bl.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/bl.svg",
+        "map_url": "https://countries.ekmwest.io/maps/bl.svg"
     },
     {
         "code": "SH",
@@ -1680,7 +1866,8 @@ export let countries = [
         "capital": "Jamestown",
         "independent": false,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/sh.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/sh.svg",
+        "map_url": "https://countries.ekmwest.io/maps/sh.svg"
     },
     {
         "code": "KN",
@@ -1689,7 +1876,8 @@ export let countries = [
         "capital": "Basseterre",
         "independent": true,
         "continent": "North America",
-        "flag_url": "https://countries.ekmwest.io/flags/kn.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/kn.svg",
+        "map_url": "https://countries.ekmwest.io/maps/kn.svg"
     },
     {
         "code": "LC",
@@ -1698,7 +1886,8 @@ export let countries = [
         "capital": "Castries",
         "independent": true,
         "continent": "North America",
-        "flag_url": "https://countries.ekmwest.io/flags/lc.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/lc.svg",
+        "map_url": "https://countries.ekmwest.io/maps/lc.svg"
     },
     {
         "code": "MF",
@@ -1707,7 +1896,8 @@ export let countries = [
         "capital": "Marigot",
         "independent": false,
         "continent": "North America",
-        "flag_url": "https://countries.ekmwest.io/flags/mf.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/mf.svg",
+        "map_url": "https://countries.ekmwest.io/maps/mf.svg"
     },
     {
         "code": "PM",
@@ -1716,7 +1906,8 @@ export let countries = [
         "capital": "Saint-Pierre",
         "independent": false,
         "continent": "North America",
-        "flag_url": "https://countries.ekmwest.io/flags/pm.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/pm.svg",
+        "map_url": "https://countries.ekmwest.io/maps/pm.svg"
     },
     {
         "code": "VC",
@@ -1725,7 +1916,8 @@ export let countries = [
         "capital": "Kingstown",
         "independent": true,
         "continent": "North America",
-        "flag_url": "https://countries.ekmwest.io/flags/vc.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/vc.svg",
+        "map_url": "https://countries.ekmwest.io/maps/vc.svg"
     },
     {
         "code": "WS",
@@ -1734,7 +1926,8 @@ export let countries = [
         "capital": "Apia",
         "independent": true,
         "continent": "Oceania",
-        "flag_url": "https://countries.ekmwest.io/flags/ws.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/ws.svg",
+        "map_url": "https://countries.ekmwest.io/maps/ws.svg"
     },
     {
         "code": "SM",
@@ -1743,7 +1936,8 @@ export let countries = [
         "capital": "San Marino",
         "independent": true,
         "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/sm.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/sm.svg",
+        "map_url": "https://countries.ekmwest.io/maps/sm.svg"
     },
     {
         "code": "ST",
@@ -1752,7 +1946,8 @@ export let countries = [
         "capital": "São Tomé",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/st.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/st.svg",
+        "map_url": "https://countries.ekmwest.io/maps/st.svg"
     },
     {
         "code": "SA",
@@ -1761,7 +1956,8 @@ export let countries = [
         "capital": "Riyadh",
         "independent": true,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/sa.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/sa.svg",
+        "map_url": "https://countries.ekmwest.io/maps/sa.svg"
     },
     {
         "code": "SN",
@@ -1770,7 +1966,8 @@ export let countries = [
         "capital": "Dakar",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/sn.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/sn.svg",
+        "map_url": "https://countries.ekmwest.io/maps/sn.svg"
     },
     {
         "code": "RS",
@@ -1779,7 +1976,8 @@ export let countries = [
         "capital": "Belgrade",
         "independent": true,
         "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/rs.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/rs.svg",
+        "map_url": "https://countries.ekmwest.io/maps/rs.svg"
     },
     {
         "code": "SC",
@@ -1788,7 +1986,8 @@ export let countries = [
         "capital": "Victoria",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/sc.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/sc.svg",
+        "map_url": "https://countries.ekmwest.io/maps/sc.svg"
     },
     {
         "code": "SL",
@@ -1797,7 +1996,8 @@ export let countries = [
         "capital": "Freetown",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/sl.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/sl.svg",
+        "map_url": "https://countries.ekmwest.io/maps/sl.svg"
     },
     {
         "code": "SG",
@@ -1806,7 +2006,8 @@ export let countries = [
         "capital": "Singapore",
         "independent": true,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/sg.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/sg.svg",
+        "map_url": "https://countries.ekmwest.io/maps/sg.svg"
     },
     {
         "code": "SX",
@@ -1815,7 +2016,8 @@ export let countries = [
         "capital": "Philipsburg",
         "independent": false,
         "continent": "North America",
-        "flag_url": "https://countries.ekmwest.io/flags/sx.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/sx.svg",
+        "map_url": "https://countries.ekmwest.io/maps/sx.svg"
     },
     {
         "code": "SK",
@@ -1824,7 +2026,8 @@ export let countries = [
         "capital": "Bratislava",
         "independent": true,
         "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/sk.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/sk.svg",
+        "map_url": "https://countries.ekmwest.io/maps/sk.svg"
     },
     {
         "code": "SI",
@@ -1833,7 +2036,8 @@ export let countries = [
         "capital": "Ljubljiana",
         "independent": true,
         "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/si.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/si.svg",
+        "map_url": "https://countries.ekmwest.io/maps/si.svg"
     },
     {
         "code": "SB",
@@ -1842,7 +2046,8 @@ export let countries = [
         "capital": "Honiara",
         "independent": true,
         "continent": "Oceania",
-        "flag_url": "https://countries.ekmwest.io/flags/sb.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/sb.svg",
+        "map_url": "https://countries.ekmwest.io/maps/sb.svg"
     },
     {
         "code": "SO",
@@ -1851,7 +2056,8 @@ export let countries = [
         "capital": "Mogadishu",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/so.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/so.svg",
+        "map_url": "https://countries.ekmwest.io/maps/so.svg"
     },
     {
         "code": "ZA",
@@ -1860,7 +2066,8 @@ export let countries = [
         "capital": "Pretoria",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/za.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/za.svg",
+        "map_url": "https://countries.ekmwest.io/maps/za.svg"
     },
     {
         "code": "GS",
@@ -1869,7 +2076,8 @@ export let countries = [
         "capital": "King Edward Point",
         "independent": false,
         "continent": "South America",
-        "flag_url": "https://countries.ekmwest.io/flags/gs.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/gs.svg",
+        "map_url": "https://countries.ekmwest.io/maps/gs.svg"
     },
     {
         "code": "KR",
@@ -1878,7 +2086,8 @@ export let countries = [
         "capital": "Seoul",
         "independent": true,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/kr.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/kr.svg",
+        "map_url": "https://countries.ekmwest.io/maps/kr.svg"
     },
     {
         "code": "SS",
@@ -1887,7 +2096,8 @@ export let countries = [
         "capital": "Juba",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/ss.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/ss.svg",
+        "map_url": "https://countries.ekmwest.io/maps/ss.svg"
     },
     {
         "code": "ES",
@@ -1896,7 +2106,8 @@ export let countries = [
         "capital": "Madrid",
         "independent": true,
         "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/es.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/es.svg",
+        "map_url": "https://countries.ekmwest.io/maps/es.svg"
     },
     {
         "code": "LK",
@@ -1905,7 +2116,8 @@ export let countries = [
         "capital": "Sri Jayawardenepura Kotte",
         "independent": true,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/lk.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/lk.svg",
+        "map_url": "https://countries.ekmwest.io/maps/lk.svg"
     },
     {
         "code": "SD",
@@ -1914,7 +2126,8 @@ export let countries = [
         "capital": "Khartoum",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/sd.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/sd.svg",
+        "map_url": "https://countries.ekmwest.io/maps/sd.svg"
     },
     {
         "code": "SR",
@@ -1923,7 +2136,8 @@ export let countries = [
         "capital": "Paramaribo",
         "independent": true,
         "continent": "South America",
-        "flag_url": "https://countries.ekmwest.io/flags/sr.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/sr.svg",
+        "map_url": "https://countries.ekmwest.io/maps/sr.svg"
     },
     {
         "code": "SJ",
@@ -1932,7 +2146,8 @@ export let countries = [
         "capital": "Longyearbyen",
         "independent": false,
         "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/sj.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/sj.svg",
+        "map_url": "https://countries.ekmwest.io/maps/sj.svg"
     },
     {
         "code": "SE",
@@ -1941,7 +2156,8 @@ export let countries = [
         "capital": "Stockholm",
         "independent": true,
         "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/se.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/se.svg",
+        "map_url": "https://countries.ekmwest.io/maps/se.svg"
     },
     {
         "code": "CH",
@@ -1950,7 +2166,8 @@ export let countries = [
         "capital": "Bern",
         "independent": true,
         "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/ch.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/ch.svg",
+        "map_url": "https://countries.ekmwest.io/maps/ch.svg"
     },
     {
         "code": "SY",
@@ -1959,7 +2176,8 @@ export let countries = [
         "capital": "Damascus",
         "independent": true,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/sy.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/sy.svg",
+        "map_url": "https://countries.ekmwest.io/maps/sy.svg"
     },
     {
         "code": "TW",
@@ -1968,7 +2186,8 @@ export let countries = [
         "capital": "Taipei",
         "independent": false,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/tw.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/tw.svg",
+        "map_url": "https://countries.ekmwest.io/maps/tw.svg"
     },
     {
         "code": "TJ",
@@ -1977,7 +2196,8 @@ export let countries = [
         "capital": "Dushanbe",
         "independent": true,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/tj.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/tj.svg",
+        "map_url": "https://countries.ekmwest.io/maps/tj.svg"
     },
     {
         "code": "TZ",
@@ -1986,7 +2206,8 @@ export let countries = [
         "capital": "Dodoma",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/tz.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/tz.svg",
+        "map_url": "https://countries.ekmwest.io/maps/tz.svg"
     },
     {
         "code": "TH",
@@ -1995,7 +2216,8 @@ export let countries = [
         "capital": "Bangkok",
         "independent": true,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/th.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/th.svg",
+        "map_url": "https://countries.ekmwest.io/maps/th.svg"
     },
     {
         "code": "TG",
@@ -2004,7 +2226,8 @@ export let countries = [
         "capital": "Lomé",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/tg.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/tg.svg",
+        "map_url": "https://countries.ekmwest.io/maps/tg.svg"
     },
     {
         "code": "TK",
@@ -2013,7 +2236,8 @@ export let countries = [
         "capital": null,
         "independent": false,
         "continent": "Oceania",
-        "flag_url": "https://countries.ekmwest.io/flags/tk.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/tk.svg",
+        "map_url": "https://countries.ekmwest.io/maps/tk.svg"
     },
     {
         "code": "TO",
@@ -2022,7 +2246,8 @@ export let countries = [
         "capital": "Nukualofa",
         "independent": true,
         "continent": "Oceania",
-        "flag_url": "https://countries.ekmwest.io/flags/to.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/to.svg",
+        "map_url": "https://countries.ekmwest.io/maps/to.svg"
     },
     {
         "code": "TT",
@@ -2031,7 +2256,8 @@ export let countries = [
         "capital": "Port of Spain",
         "independent": true,
         "continent": "North America",
-        "flag_url": "https://countries.ekmwest.io/flags/tt.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/tt.svg",
+        "map_url": "https://countries.ekmwest.io/maps/tt.svg"
     },
     {
         "code": "TN",
@@ -2040,7 +2266,8 @@ export let countries = [
         "capital": "Tunis",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/tn.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/tn.svg",
+        "map_url": "https://countries.ekmwest.io/maps/tn.svg"
     },
     {
         "code": "TR",
@@ -2049,7 +2276,8 @@ export let countries = [
         "capital": "Ankara",
         "independent": true,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/tr.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/tr.svg",
+        "map_url": "https://countries.ekmwest.io/maps/tr.svg"
     },
     {
         "code": "TM",
@@ -2058,7 +2286,8 @@ export let countries = [
         "capital": "Ashgabat",
         "independent": true,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/tm.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/tm.svg",
+        "map_url": "https://countries.ekmwest.io/maps/tm.svg"
     },
     {
         "code": "TC",
@@ -2067,7 +2296,8 @@ export let countries = [
         "capital": "Grand Turk",
         "independent": false,
         "continent": "North America",
-        "flag_url": "https://countries.ekmwest.io/flags/tc.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/tc.svg",
+        "map_url": "https://countries.ekmwest.io/maps/tc.svg"
     },
     {
         "code": "TV",
@@ -2076,7 +2306,8 @@ export let countries = [
         "capital": "Funafuti",
         "independent": true,
         "continent": "Oceania",
-        "flag_url": "https://countries.ekmwest.io/flags/tv.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/tv.svg",
+        "map_url": "https://countries.ekmwest.io/maps/tv.svg"
     },
     {
         "code": "UG",
@@ -2085,7 +2316,8 @@ export let countries = [
         "capital": "Kampala",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/ug.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/ug.svg",
+        "map_url": "https://countries.ekmwest.io/maps/ug.svg"
     },
     {
         "code": "UA",
@@ -2094,7 +2326,8 @@ export let countries = [
         "capital": "Kyiv",
         "independent": true,
         "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/ua.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/ua.svg",
+        "map_url": "https://countries.ekmwest.io/maps/ua.svg"
     },
     {
         "code": "AE",
@@ -2103,7 +2336,8 @@ export let countries = [
         "capital": "Abu Dhabi",
         "independent": true,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/ae.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/ae.svg",
+        "map_url": "https://countries.ekmwest.io/maps/ae.svg"
     },
     {
         "code": "GB",
@@ -2112,7 +2346,8 @@ export let countries = [
         "capital": "London",
         "independent": true,
         "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/gb.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/gb.svg",
+        "map_url": "https://countries.ekmwest.io/maps/gb.svg"
     },
     {
         "code": "US",
@@ -2121,7 +2356,8 @@ export let countries = [
         "capital": "Washington, D.C.",
         "independent": true,
         "continent": "North America",
-        "flag_url": "https://countries.ekmwest.io/flags/us.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/us.svg",
+        "map_url": "https://countries.ekmwest.io/maps/us.svg"
     },
     {
         "code": "UM",
@@ -2130,7 +2366,8 @@ export let countries = [
         "capital": null,
         "independent": false,
         "continent": "North America",
-        "flag_url": "https://countries.ekmwest.io/flags/um.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/um.svg",
+        "map_url": "https://countries.ekmwest.io/maps/um.svg"
     },
     {
         "code": "VI",
@@ -2139,7 +2376,8 @@ export let countries = [
         "capital": "Charlotte Amalie",
         "independent": false,
         "continent": "North America",
-        "flag_url": "https://countries.ekmwest.io/flags/vi.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/vi.svg",
+        "map_url": "https://countries.ekmwest.io/maps/vi.svg"
     },
     {
         "code": "UY",
@@ -2148,7 +2386,8 @@ export let countries = [
         "capital": "Montevideo",
         "independent": true,
         "continent": "South America",
-        "flag_url": "https://countries.ekmwest.io/flags/uy.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/uy.svg",
+        "map_url": "https://countries.ekmwest.io/maps/uy.svg"
     },
     {
         "code": "UZ",
@@ -2157,7 +2396,8 @@ export let countries = [
         "capital": "Tashkent",
         "independent": true,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/uz.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/uz.svg",
+        "map_url": "https://countries.ekmwest.io/maps/uz.svg"
     },
     {
         "code": "VU",
@@ -2166,7 +2406,8 @@ export let countries = [
         "capital": "Port Vila",
         "independent": true,
         "continent": "Oceania",
-        "flag_url": "https://countries.ekmwest.io/flags/vu.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/vu.svg",
+        "map_url": "https://countries.ekmwest.io/maps/vu.svg"
     },
     {
         "code": "VA",
@@ -2175,7 +2416,8 @@ export let countries = [
         "capital": "Vatican City",
         "independent": true,
         "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/va.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/va.svg",
+        "map_url": "https://countries.ekmwest.io/maps/va.svg"
     },
     {
         "code": "VE",
@@ -2184,7 +2426,8 @@ export let countries = [
         "capital": "Caracas",
         "independent": true,
         "continent": "South America",
-        "flag_url": "https://countries.ekmwest.io/flags/ve.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/ve.svg",
+        "map_url": "https://countries.ekmwest.io/maps/ve.svg"
     },
     {
         "code": "VN",
@@ -2193,7 +2436,8 @@ export let countries = [
         "capital": "Hanoi",
         "independent": true,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/vn.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/vn.svg",
+        "map_url": "https://countries.ekmwest.io/maps/vn.svg"
     },
     {
         "code": "WF",
@@ -2202,7 +2446,8 @@ export let countries = [
         "capital": "Mata Utu",
         "independent": false,
         "continent": "Oceania",
-        "flag_url": "https://countries.ekmwest.io/flags/wf.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/wf.svg",
+        "map_url": "https://countries.ekmwest.io/maps/wf.svg"
     },
     {
         "code": "EH",
@@ -2211,7 +2456,8 @@ export let countries = [
         "capital": "Laayoune",
         "independent": false,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/eh.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/eh.svg",
+        "map_url": "https://countries.ekmwest.io/maps/eh.svg"
     },
     {
         "code": "YE",
@@ -2220,7 +2466,8 @@ export let countries = [
         "capital": "Sanaa",
         "independent": true,
         "continent": "Asia",
-        "flag_url": "https://countries.ekmwest.io/flags/ye.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/ye.svg",
+        "map_url": "https://countries.ekmwest.io/maps/ye.svg"
     },
     {
         "code": "ZM",
@@ -2229,7 +2476,8 @@ export let countries = [
         "capital": "Lusaka",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/zm.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/zm.svg",
+        "map_url": "https://countries.ekmwest.io/maps/zm.svg"
     },
     {
         "code": "ZW",
@@ -2238,7 +2486,8 @@ export let countries = [
         "capital": "Harare",
         "independent": true,
         "continent": "Africa",
-        "flag_url": "https://countries.ekmwest.io/flags/zw.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/zw.svg",
+        "map_url": "https://countries.ekmwest.io/maps/zw.svg"
     },
     {
         "code": "AX",
@@ -2247,6 +2496,7 @@ export let countries = [
         "capital": "Mariehamn",
         "independent": false,
         "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/ax.svg"
+        "flag_url": "https://countries.ekmwest.io/flags/ax.svg",
+        "map_url": "https://countries.ekmwest.io/maps/ax.svg"
     }
 ];
