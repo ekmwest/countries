@@ -6,6 +6,7 @@ const includesPath = path.join(sourcePath, '_includes');
 const countryFoldersPath = path.join(sourcePath, 'countries');
 const flagsDataPath = path.join(rootPath, 'data/flags');
 const flagsSourcePath = path.join(sourcePath, 'flags');
+const mapsSourcePath = path.join(sourcePath, 'maps');
 
 const jsonDataFile = path.join(sourcePath, 'countries.json');
 const jsDataFile = path.join(sourcePath, 'countries.js');
@@ -37,6 +38,7 @@ export async function build() {
     await makeCountriesInclude(countries);
     await makeContryFolders(countries);
     await copyFlagsFromDataToSource();
+    await makeMapFiles(countries);
     await buildDataFiles(countries);
 }
 
@@ -112,8 +114,18 @@ async function copyFlagsFromDataToSource() {
     }
 }
 
-async function makeMapIncludes(countries) {
+async function makeMapFiles(countries) {
+    try {
+        await Deno.remove(mapsSourcePath, { recursive: true });
+    } catch (ex) { }
 
+    await Deno.mkdir(mapsSourcePath);
+
+    for await (const country of countries) {
+        const mapPath = path.join(mapsSourcePath, country.code.toLowerCase() + '.svg');
+        const mapContent = createMapContent(country);
+        await Deno.writeTextFile(mapPath, mapContent);
+    }
 }
 
 async function buildDataFiles(countries) {
@@ -151,6 +163,10 @@ layout: country.html
         <div class="country__data-value">${country.code}</div>
     </div>
 </div>
-<!-- map.svg, { viewBox: "${mapViewBox(country.continent)}", code: "${country.code.toLowerCase()}" } -->`
+<img class="country__map" src="/maps/${country.code.toLowerCase()}.svg">`
 
+}
+
+function createMapContent(country) {
+    return `<!-- map.svg, { viewBox: "${mapViewBox(country.continent)}", code: "${country.code.toLowerCase()}" } -->`;
 }
