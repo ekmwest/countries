@@ -1,12 +1,9 @@
 import { DB, path } from "./deps.js";
 
 const rootPath = Deno.cwd();
-
 const sourcePath = path.join(rootPath, 'src');
 const includesPath = path.join(sourcePath, '_includes');
-
 const countryFoldersPath = path.join(sourcePath, 'countries');
-
 const flagsDataPath = path.join(rootPath, 'data/flags');
 const flagsSourcePath = path.join(sourcePath, 'flags');
 
@@ -18,19 +15,26 @@ const mapUrl = code => `https://countries.ekmwest.io/maps/${code.toLowerCase()}.
 
 const mapViewBox = continent => {
     switch (continent.toLowerCase()) {
-        case 'africa': return '1100 340 600 680';
-        case 'asia': return '1490 240 900 580';
-        case 'europe': return '1170 90 450 320';
-        case 'north america': return '420 120 550 600';
-        case 'oceania': return '2000 500 1000 700';
-        case 'south america': return '600 550 500 680';
-        default: return '0 0 2754 1398';
+        case 'africa':
+            return '1100 340 600 680';
+        case 'asia':
+            return '1490 240 900 580';
+        case 'europe':
+            return '1170 90 450 320';
+        case 'north america':
+            return '420 120 550 600';
+        case 'oceania':
+            return '2000 500 1000 700';
+        case 'south america':
+            return '600 550 500 680';
+        default:
+            return '0 0 2754 1398';
     }
 }
 
 export async function build() {
     const countries = await createCountriesFromDB();
-    await makeCountryIncludes(countries);
+    await makeCountriesInclude(countries);
     await makeContryFolders(countries);
     await copyFlagsFromDataToSource();
     await buildDataFiles(countries);
@@ -60,6 +64,22 @@ async function createCountriesFromDB() {
     return countries;
 }
 
+async function makeCountriesInclude(countries) {
+    const htmlElements = [];
+
+    for (const country of countries) {
+        htmlElements.push(`
+            <a class="index__country" href="/countries/${country.code.toLowerCase()}/" data-country-name="${country.common_name}" data-independent="${country.independent ? 'true' : 'false'}">
+                <img class="index__flag" src="/flags/${country.code.toLowerCase()}.svg" alt="${country.common_name}" />
+                <span class="index__name">${country.common_name}</span>
+            </a>`);
+    }
+
+    const html = htmlElements.join('');
+
+    await Deno.writeTextFile(path.join(includesPath, "countries.html"), html);
+}
+
 async function makeContryFolders(countries) {
     try {
         await Deno.remove(countryFoldersPath, { recursive: true });
@@ -76,22 +96,6 @@ async function makeContryFolders(countries) {
         await Deno.mkdir(countryFolderPath);
         await Deno.writeTextFile(countryFilePath, countryFileContent, { recursive: true });
     }
-}
-
-async function makeCountryIncludes(countries) {
-    const htmlElements = [];
-
-    for (const country of countries) {
-        htmlElements.push(`
-            <a class="index__country" href="/countries/${country.code.toLowerCase()}/" data-country-name="${country.common_name}" data-independent="${country.independent ? 'true' : 'false'}">
-                <img class="index__flag" src="/flags/${country.code.toLowerCase()}.svg" alt="${country.common_name}" />
-                <span class="index__name">${country.common_name}</span>
-            </a>`);
-    }
-
-    const html = htmlElements.join('');
-
-    await Deno.writeTextFile(path.join(includesPath, "countries.html"), html);
 }
 
 async function copyFlagsFromDataToSource() {
