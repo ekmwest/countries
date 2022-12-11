@@ -8,7 +8,7 @@
         BODY: '.index__body',
         MAIN: '.index__main',
         SHOW_DEPENDENT_COUNTRIES_INPUT: '[data-element="index.show-dependent-countries-input"]',
-        SHOW_COUNTRY_NAMES_INPUT: '[data-element="index.show-country-names-input"]',
+        HIDE_COUNTRY_NAMES_INPUT: '[data-element="index.hide-country-names-input"]',
         SEARCH_INPUT: '[data-element="index.search-input"]',
         COUNTRY_ELEMENT: '.index__country'
     };
@@ -31,7 +31,7 @@
         ===================================== */
 
     const ClassName = {
-        SHOW_COUNTRY_NAMES: 'SHOW-COUNTRY-NAMES',
+        HIDE_COUNTRY_NAMES: 'HIDE-COUNTRY-NAMES',
         SHOW_BODY: 'SHOW-BODY'
     };
 
@@ -58,7 +58,7 @@
     const body = document.querySelector(Selector.BODY);
     const main = document.querySelector(Selector.MAIN);
     const showDependentCountriesInput = document.querySelector(Selector.SHOW_DEPENDENT_COUNTRIES_INPUT);
-    const showCountryNamesInput = document.querySelector(Selector.SHOW_COUNTRY_NAMES_INPUT);
+    const hideCountryNamesInput = document.querySelector(Selector.HIDE_COUNTRY_NAMES_INPUT);
     const searchInput = document.querySelector(Selector.SEARCH_INPUT);
 
 
@@ -69,7 +69,7 @@
 
     window.addEventListener('pageshow', filter);
     showDependentCountriesInput.addEventListener('change', filter);
-    showCountryNamesInput.addEventListener('change', filter);
+    hideCountryNamesInput.addEventListener('change', filter);
     searchInput.addEventListener('input', debouncedFilter);
 
 
@@ -93,17 +93,17 @@
 
         // Filter values
         const showDependentCountries = showDependentCountriesInput.checked;
-        const showCountryNames = showCountryNamesInput.checked;
+        const hideCountryNames = hideCountryNamesInput.checked;
         const searchQuery = searchInput.value.toLowerCase();
 
 
         requestAnimationFrame(() => {
 
-            // 1. Show Country Names
-            if (showCountryNames) {
-                main.classList.add(ClassName.SHOW_COUNTRY_NAMES);
+            // 1. Hide Country Names
+            if (hideCountryNames) {
+                main.classList.add(ClassName.HIDE_COUNTRY_NAMES);
             } else {
-                main.classList.remove(ClassName.SHOW_COUNTRY_NAMES);
+                main.classList.remove(ClassName.HIDE_COUNTRY_NAMES);
             }
 
             countries.forEach(country => {
