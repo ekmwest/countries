@@ -21,6 +21,7 @@
 
     const Attribute = {
         COUNTRY_NAME: 'data-country-name',
+        CONTINENT: 'data-continent',
         INDEPENDENT: 'data-independent'
     };
 
@@ -44,6 +45,7 @@
     const countries = Array.from(document.querySelectorAll(Selector.COUNTRY_ELEMENT)).map(countryElement => {
         return {
             name: countryElement.getAttribute(Attribute.COUNTRY_NAME),
+            continent: countryElement.getAttribute(Attribute.CONTINENT),
             independent: countryElement.getAttribute(Attribute.INDEPENDENT) === 'true' ? true : false,
             element: countryElement
         };
@@ -109,7 +111,7 @@
             countries.forEach(country => {
 
                 // 2. Search Match?
-                if (!country.name.toLowerCase().includes(searchQuery)) {
+                if (!country.name.toLowerCase().includes(searchQuery) && !country.continent.toLowerCase().includes(searchQuery)) {
                     country.element.style.display = 'none';
                     return;
                 }
