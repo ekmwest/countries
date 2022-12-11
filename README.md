@@ -37,7 +37,8 @@ Each record (country) has the following shape:
     capital: string,
     continent: string,
     independent: boolean,
-    flag_url: string
+    flag_url: string,
+    map_url: string
 }
 ```
 
@@ -51,6 +52,7 @@ Example (in json format):
     "capital": "Stockholm",
     "independent": true,
     "continent": "Europe",
-    "flag_url": "https://countries.ekmwest.io/flags/se.svg"
+    "flag_url": "https://countries.ekmwest.io/flags/se.svg",
+    "map_url": "https://countries.ekmwest.io/maps/se.svg"
 }
 ```
