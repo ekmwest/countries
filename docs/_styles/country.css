@@ -58,5 +58,5 @@
 
 .is-mobile .country__map {
     max-width: 100%;
-    margin: 0 auto 1em;
+    margin: 0 auto 0;
 }
