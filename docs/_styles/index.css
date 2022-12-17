@@ -5,7 +5,7 @@
 .index__body {
     opacity: 0;
     transition: opacity .01s;
-    margin: 16px 16px 98px;
+    margin: 0 0 98px;
 }
 
 .index__body.SHOW-BODY {
@@ -121,8 +121,7 @@
 }
 
 .is-mobile .index__flag {
-    height: 38px;
-    height: 48px;
+    height: 64px;
 }
 
 
@@ -141,6 +140,7 @@
 
 .is-mobile .index__name {
     margin: .2em 0 0;
+    font-size: 13px;
 }
 
 .index__main.HIDE-COUNTRY-NAMES .index__name {
