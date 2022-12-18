@@ -68,6 +68,17 @@
 
 
 /* =========================================================================
+   Search Input Container
+   ========================================================================= */
+
+.index__search-input-container {
+    position: relative;
+    margin-top: 1.5em;
+}
+
+
+
+/* =========================================================================
    Search Input
    ========================================================================= */
 
@@ -88,6 +99,31 @@
 .index__search-input:focus {
     border: 1px solid #0075ff;
     box-shadow: 0 0 3px #0075ff;
+    pointer-events: none;
+}
+
+
+
+/* =========================================================================
+   Search Input Clear Button
+   ========================================================================= */
+
+.index__search-input-clear-button {
+    appearance: none;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    color: #999;
+}
+
+.index__search-input-clear-button svg {
+    width: 2em;
 }
 
 

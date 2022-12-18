@@ -10,6 +10,7 @@
         SHOW_DEPENDENT_COUNTRIES_INPUT: '[data-element="index.show-dependent-countries-input"]',
         HIDE_COUNTRY_NAMES_INPUT: '[data-element="index.hide-country-names-input"]',
         SEARCH_INPUT: '[data-element="index.search-input"]',
+        SEARCH_INPUT_CLEAR_BUTTON: '[data-element="index.search-input-clear-button"]',
         COUNTRY_ELEMENT: '.index__country'
     };
 
@@ -62,6 +63,7 @@
     const showDependentCountriesInput = document.querySelector(Selector.SHOW_DEPENDENT_COUNTRIES_INPUT);
     const hideCountryNamesInput = document.querySelector(Selector.HIDE_COUNTRY_NAMES_INPUT);
     const searchInput = document.querySelector(Selector.SEARCH_INPUT);
+    const searchInputClearButton = document.querySelector(Selector.SEARCH_INPUT_CLEAR_BUTTON);
 
 
 
@@ -73,6 +75,7 @@
     showDependentCountriesInput.addEventListener('change', filter);
     hideCountryNamesInput.addEventListener('change', filter);
     searchInput.addEventListener('input', debouncedFilter);
+    searchInputClearButton.addEventListener('click', clearSearchInput);
 
 
 
@@ -129,6 +132,17 @@
             body.classList.add(ClassName.SHOW_BODY);
 
         });
+    }
+
+
+
+    /*  =====================================
+        Debounced Filter
+        ===================================== */
+
+    function clearSearchInput() {
+        searchInput.value = '';
+        filter();
     }
 
 
