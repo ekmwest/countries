@@ -94,6 +94,8 @@
             // in development, pages are not persisted (because Piko
             // uses websockets).
 
+            // Foucs search input if has value.
+
             if (searchInput.value !== '') {
                 searchInput.focus();
             }
@@ -104,7 +106,7 @@
         // Filter values
         const showDependentCountries = showDependentCountriesInput.checked;
         const hideCountryNames = hideCountryNamesInput.checked;
-        const searchQuery = searchInput.value.toLowerCase();
+        const searchString = searchInput.value.trim().toLowerCase();
 
 
         requestAnimationFrame(() => {
@@ -116,22 +118,32 @@
                 main.classList.remove(ClassName.HIDE_COUNTRY_NAMES);
             }
 
-            countries.forEach(country => {
+            // Extract Search Parts
+            const searchParts = searchString.split(' ');
 
-                // 2. Search Match?
-                if (!country.name.toLowerCase().includes(searchQuery) && !country.continent.toLowerCase().includes(searchQuery)) {
+            for (const country of countries) {
+
+                // 2. Search Match (Inclusive)
+                let searchMatch = false;
+                for (const searchPart of searchParts) {
+                    if (country.name.toLowerCase().includes(searchPart) || country.continent.toLowerCase().includes(searchPart)) {
+                        searchMatch = true;
+                        break;
+                    }
+                }
+                if (!searchMatch) {
                     country.element.style.display = 'none';
-                    return;
+                    continue;
                 }
 
-                // 3. Dependency Match?
+                // 3. Dependent Match?
                 if (!country.independent && !showDependentCountries) {
                     country.element.style.display = 'none';
-                    return;
+                    continue;
                 }
 
                 country.element.style.display = '';
-            });
+            }
 
             // 4. Show
             body.classList.add(ClassName.SHOW_BODY);
