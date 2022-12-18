@@ -74,7 +74,8 @@
     window.addEventListener('pageshow', filter);
     showDependentCountriesInput.addEventListener('change', filter);
     hideCountryNamesInput.addEventListener('change', filter);
-    searchInput.addEventListener('input', debouncedFilter);
+    searchInput.addEventListener('keydown', searchInputKeyDown);
+    searchInput.addEventListener('input', searchInputChange);
     searchInputClearButton.addEventListener('click', clearSearchInput);
 
 
@@ -92,6 +93,10 @@
             // run the filter. This is typical in production, but
             // in development, pages are not persisted (because Piko
             // uses websockets).
+
+            if (searchInput.value !== '') {
+                searchInput.focus();
+            }
 
             return;
         }
@@ -137,30 +142,42 @@
 
 
     /*  =====================================
-        Debounced Filter
+        Search Input Key Down
         ===================================== */
 
-    function clearSearchInput() {
-        searchInput.value = '';
-        filter();
+    function searchInputKeyDown(event) {
+        if (event.key === 'Enter') {
+            event.preventDefault();
+        }
     }
 
 
 
     /*  =====================================
-        Debounced Filter
+        Search Input Change
         ===================================== */
 
-    const decouncedFilterDelay = 400;
-    let debouncedFilterTimeout = null;
+    const searchInputDelay = 400;
+    let searchInputTimeout = null;
 
-    function debouncedFilter() {
+    function searchInputChange() {
 
-        if (debouncedFilterTimeout) {
-            clearTimeout(debouncedFilterTimeout);
+        if (searchInputTimeout) {
+            clearTimeout(searchInputTimeout);
         }
 
-        debouncedFilterTimeout = setTimeout(filter, decouncedFilterDelay);
+        searchInputTimeout = setTimeout(filter, searchInputDelay);
+    }
+
+
+    /*  =====================================
+        Clear Search Input
+        ===================================== */
+
+    function clearSearchInput() {
+        searchInput.value = '';
+        searchInput.focus();
+        filter();
     }
 
 })();
