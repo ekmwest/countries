@@ -53,6 +53,10 @@
 .country__map {
     max-width: 768px;
     margin: 0 auto;
-    padding: 1em;
+    padding: 2em;
     display: block;
+}
+
+.is-mobile .country__map {
+    padding: 1em;
 }
