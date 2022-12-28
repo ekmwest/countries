@@ -159,6 +159,7 @@
 
     function searchInputKeyDown(event) {
         if (event.key === 'Enter') {
+            searchInput.blur();
             event.preventDefault();
         }
     }
