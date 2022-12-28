@@ -1,19 +1,17 @@
 # Countries
 
-A public read-only database of countries defined in [ISO 3166-1](https://en.wikipedia.org/wiki/ISO_3166-1).
-
-*(As of Nov 2022, the database includes Kosovo, assigned with [country code XK](https://en.wikipedia.org/wiki/XK_(user_assigned_code)), expected to be issued by the UN Terminology Bulletin.)*
+A public read-only database of countries officially assigned in [ISO 3166-1](https://en.wikipedia.org/wiki/ISO_3166-1).
 
 
 ## Using the database
 
-The database can be accessed in `json`:
+The database can be accessed in `json` from:
 
 ```
 https://countries.ekmwest.io/countries.json
 ```
 
-It can also be imported as a javascript array:
+It can also be imported as a javascript array from:
 
 ```js
 import { countries } from "https://countries.ekmwest.io/countries.js";

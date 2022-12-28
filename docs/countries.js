@@ -1180,16 +1180,6 @@ export let countries = [
         "map_url": "https://countries.ekmwest.io/maps/ki.svg"
     },
     {
-        "code": "XK",
-        "name": "Republic of Kosovo",
-        "common_name": "Kosovo",
-        "capital": "Pristina",
-        "independent": true,
-        "continent": "Europe",
-        "flag_url": "https://countries.ekmwest.io/flags/xk.svg",
-        "map_url": "https://countries.ekmwest.io/maps/xk.svg"
-    },
-    {
         "code": "KW",
         "name": "State of Kuwait",
         "common_name": "Kuwait",
