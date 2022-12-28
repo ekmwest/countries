@@ -52,11 +52,7 @@
 
 .country__map {
     max-width: 768px;
-    margin: 0 auto 3em;
+    margin: 0 auto;
+    padding: 1em;
     display: block;
-}
-
-.is-mobile .country__map {
-    max-width: 100%;
-    margin: 0 auto 0;
 }
