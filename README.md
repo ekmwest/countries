@@ -1,11 +1,11 @@
 # Countries
 
-A public read-only database of countries that are officially assigned by the [ISO 3166-1](https://en.wikipedia.org/wiki/ISO_3166-1) standard.
+This is a public read-only database of all countries that are officially assigned by the [ISO 3166-1](https://en.wikipedia.org/wiki/ISO_3166-1) standard.
 
 
 ## Accessing the database
 
-The database can be accessed in `json` format from:
+A `json` version of the database can be fetched from:
 
 ```
 https://countries.ekmwest.io/countries.json
@@ -56,31 +56,26 @@ Example:
 A browser-friendly version of the database is avaiable at: [https://countries.ekmwest.io](https://countries.ekmwest.io)
 
 
-## Country Flags
+## Flags and Maps
 
-The flag for each country is available at:
-
-```
-https://countries.ekmwest.io/flags/{code}.svg
-```
-
-Note that `{code}` must be lower case, for example:
+There's a flag for each country, for example:
 
 ```
-https://countries.ekmwest.io/flags/au.svg
+https://countries.ekmwest.io/flags/af.svg
 ```
 
-
-## Blind Maps
-
-A blind map for each country is available at:
+Each country also has a blind map, for example:
 
 ```
-https://countries.ekmwest.io/maps/{code}.svg
+https://countries.ekmwest.io/maps/et.svg
 ```
 
-Note that `{code}` must be lower case, for example:
+A blind world map can be found at:
 
 ```
-https://countries.ekmwest.io/maps/br.svg
+https://countries.ekmwest.io/maps/world.svg
 ```
+
+## Contributing
+
+This is a pet project. Don't expect pull requests to be accepted, but feel free to share, fork & steal. ❤️
