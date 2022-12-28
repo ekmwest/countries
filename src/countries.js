@@ -1,7 +1,7 @@
 export let countries = [
     {
         "code": "AF",
-        "name": "Afghanistan",
+        "name": "Islamic Emirate of Afghanistan",
         "common_name": "Afghanistan",
         "capital": "Kabul",
         "independent": true,
@@ -11,7 +11,7 @@ export let countries = [
     },
     {
         "code": "AL",
-        "name": "Albania",
+        "name": "Republic of Albania",
         "common_name": "Albania",
         "capital": "Tirana",
         "independent": true,
@@ -21,7 +21,7 @@ export let countries = [
     },
     {
         "code": "DZ",
-        "name": "Algeria",
+        "name": "People's Democratic Republic of Algeria",
         "common_name": "Algeria",
         "capital": "Algiers",
         "independent": true,
@@ -41,7 +41,7 @@ export let countries = [
     },
     {
         "code": "AD",
-        "name": "Andorra",
+        "name": "Principality of Andorra",
         "common_name": "Andorra",
         "capital": "Andorra la Vella",
         "independent": true,
@@ -51,7 +51,7 @@ export let countries = [
     },
     {
         "code": "AO",
-        "name": "Angola",
+        "name": "Republic of Angola",
         "common_name": "Angola",
         "capital": "Luanda",
         "independent": true,
@@ -91,7 +91,7 @@ export let countries = [
     },
     {
         "code": "AR",
-        "name": "Argentina",
+        "name": "Argentine Republic",
         "common_name": "Argentina",
         "capital": "Buenos Aires",
         "independent": true,
@@ -101,7 +101,7 @@ export let countries = [
     },
     {
         "code": "AM",
-        "name": "Armenia",
+        "name": "Republic of Armenia",
         "common_name": "Armenia",
         "capital": "Yerevan",
         "independent": true,
@@ -111,7 +111,7 @@ export let countries = [
     },
     {
         "code": "AW",
-        "name": "Aruba",
+        "name": "Country of Aruba",
         "common_name": "Aruba",
         "capital": "Oranjestad",
         "independent": false,
@@ -121,7 +121,7 @@ export let countries = [
     },
     {
         "code": "AU",
-        "name": "Australia",
+        "name": "Commonwealth of Australia",
         "common_name": "Australia",
         "capital": "Canberra",
         "independent": true,
@@ -131,7 +131,7 @@ export let countries = [
     },
     {
         "code": "AT",
-        "name": "Austria",
+        "name": "Republic of Austria",
         "common_name": "Austria",
         "capital": "Vienna",
         "independent": true,
@@ -141,7 +141,7 @@ export let countries = [
     },
     {
         "code": "AZ",
-        "name": "Azerbaijan",
+        "name": "Republic of Azerbaijan",
         "common_name": "Azerbaijan",
         "capital": "Baku",
         "independent": true,
@@ -151,7 +151,7 @@ export let countries = [
     },
     {
         "code": "BS",
-        "name": "Bahamas",
+        "name": "Commonwealth of The Bahamas",
         "common_name": "Bahamas",
         "capital": "Nassau",
         "independent": true,
@@ -161,7 +161,7 @@ export let countries = [
     },
     {
         "code": "BH",
-        "name": "Bahrain",
+        "name": "Kingdom of Bahrain",
         "common_name": "Bahrain",
         "capital": "Manama",
         "independent": true,
@@ -171,7 +171,7 @@ export let countries = [
     },
     {
         "code": "BD",
-        "name": "Bangladesh",
+        "name": "People's Republic of Bangladesh",
         "common_name": "Bangladesh",
         "capital": "Dhaka",
         "independent": true,
@@ -191,7 +191,7 @@ export let countries = [
     },
     {
         "code": "BY",
-        "name": "Belarus",
+        "name": "Republic of Belarus",
         "common_name": "Belarus",
         "capital": "Minsk",
         "independent": true,
@@ -201,7 +201,7 @@ export let countries = [
     },
     {
         "code": "BE",
-        "name": "Belgium",
+        "name": "Kingdom of Belgium",
         "common_name": "Belgium",
         "capital": "Brussels",
         "independent": true,
@@ -221,7 +221,7 @@ export let countries = [
     },
     {
         "code": "BJ",
-        "name": "Benin",
+        "name": "Republic of Benin",
         "common_name": "Benin",
         "capital": "Porto-Novo",
         "independent": true,
@@ -241,7 +241,7 @@ export let countries = [
     },
     {
         "code": "BT",
-        "name": "Bhutan",
+        "name": "Kingdom of Bhutan",
         "common_name": "Bhutan",
         "capital": "Thimphu",
         "independent": true,
@@ -271,7 +271,7 @@ export let countries = [
     },
     {
         "code": "BW",
-        "name": "Botswana",
+        "name": "Republic of Botswana",
         "common_name": "Botswana",
         "capital": "Gaborone",
         "independent": true,
@@ -291,7 +291,7 @@ export let countries = [
     },
     {
         "code": "BR",
-        "name": "Brazil",
+        "name": "Federative Republic of Brazil",
         "common_name": "Brazil",
         "capital": "Brasilia",
         "independent": true,
@@ -331,7 +331,7 @@ export let countries = [
     },
     {
         "code": "BG",
-        "name": "Bulgaria",
+        "name": "Republic of Bulgaria",
         "common_name": "Bulgaria",
         "capital": "Sofia",
         "independent": true,
@@ -351,7 +351,7 @@ export let countries = [
     },
     {
         "code": "BI",
-        "name": "Burundi",
+        "name": "Republic of Burundi",
         "common_name": "Burundi",
         "capital": "Gitega",
         "independent": true,
@@ -361,7 +361,7 @@ export let countries = [
     },
     {
         "code": "CV",
-        "name": "Cabo Verde",
+        "name": "Republic of Cabo Verde",
         "common_name": "Cabo Verde",
         "capital": "Praia",
         "independent": true,
@@ -371,7 +371,7 @@ export let countries = [
     },
     {
         "code": "KH",
-        "name": "Cambodia",
+        "name": "Kingdom of Cambodia",
         "common_name": "Cambodia",
         "capital": "Phnom Penh",
         "independent": true,
@@ -381,7 +381,7 @@ export let countries = [
     },
     {
         "code": "CM",
-        "name": "Cameroon",
+        "name": "Republic of Cameroon",
         "common_name": "Cameroon",
         "capital": "Yaoundé",
         "independent": true,
@@ -431,7 +431,7 @@ export let countries = [
     },
     {
         "code": "TD",
-        "name": "Chad",
+        "name": "Republic of Chad",
         "common_name": "Chad",
         "capital": "N'Djamena",
         "independent": true,
@@ -441,7 +441,7 @@ export let countries = [
     },
     {
         "code": "CL",
-        "name": "Chile",
+        "name": "Republic of Chile",
         "common_name": "Chile",
         "capital": "Santiago",
         "independent": true,
@@ -451,7 +451,7 @@ export let countries = [
     },
     {
         "code": "CN",
-        "name": "China",
+        "name": "People's Republic of China",
         "common_name": "China",
         "capital": "Beijing",
         "independent": true,
@@ -461,7 +461,7 @@ export let countries = [
     },
     {
         "code": "CX",
-        "name": "Christmas Island",
+        "name": "Territory of Christmas Island",
         "common_name": "Christmas Island",
         "capital": "Flying Fish Cove",
         "independent": false,
@@ -471,7 +471,7 @@ export let countries = [
     },
     {
         "code": "CC",
-        "name": "Cocos (Keeling) Islands",
+        "name": "Territory of Cocos (Keeling) Islands",
         "common_name": "Cocos Islands",
         "capital": "West Island",
         "independent": false,
@@ -481,7 +481,7 @@ export let countries = [
     },
     {
         "code": "CO",
-        "name": "Colombia",
+        "name": "Republic of Colombia",
         "common_name": "Colombia",
         "capital": "Bogotá",
         "independent": true,
@@ -491,7 +491,7 @@ export let countries = [
     },
     {
         "code": "KM",
-        "name": "Comoros",
+        "name": "Union of the Comoros",
         "common_name": "Comoros",
         "capital": "Moroni",
         "independent": true,
@@ -531,7 +531,7 @@ export let countries = [
     },
     {
         "code": "CR",
-        "name": "Costa Rica",
+        "name": "Republic of Costa Rica",
         "common_name": "Costa Rica",
         "capital": "San José",
         "independent": true,
@@ -541,7 +541,7 @@ export let countries = [
     },
     {
         "code": "HR",
-        "name": "Croatia",
+        "name": "Republic of Croatia",
         "common_name": "Croatia",
         "capital": "Zagreb",
         "independent": true,
@@ -551,7 +551,7 @@ export let countries = [
     },
     {
         "code": "CU",
-        "name": "Cuba",
+        "name": "Republic of Cuba",
         "common_name": "Cuba",
         "capital": "Havana",
         "independent": true,
@@ -561,7 +561,7 @@ export let countries = [
     },
     {
         "code": "CW",
-        "name": "Curaçao",
+        "name": "Country of Curaçao",
         "common_name": "Curaçao",
         "capital": "Willemstad",
         "independent": false,
@@ -571,7 +571,7 @@ export let countries = [
     },
     {
         "code": "CY",
-        "name": "Cyprus",
+        "name": "Republic of Cyprus",
         "common_name": "Cyprus",
         "capital": "Nicosia",
         "independent": true,
@@ -581,7 +581,7 @@ export let countries = [
     },
     {
         "code": "CZ",
-        "name": "Czechia",
+        "name": "Czech Republic",
         "common_name": "Czechia",
         "capital": "Prague",
         "independent": true,
@@ -591,7 +591,7 @@ export let countries = [
     },
     {
         "code": "DK",
-        "name": "Denmark",
+        "name": "Kingdom of Denmark",
         "common_name": "Denmark",
         "capital": "Copenhagen",
         "independent": true,
@@ -601,7 +601,7 @@ export let countries = [
     },
     {
         "code": "DJ",
-        "name": "Djibouti",
+        "name": "Republic of Djibouti",
         "common_name": "Djibouti",
         "capital": "Djibouti",
         "independent": true,
@@ -611,7 +611,7 @@ export let countries = [
     },
     {
         "code": "DM",
-        "name": "Dominica",
+        "name": "Commonwealth of Dominica",
         "common_name": "Dominica",
         "capital": "Roseau",
         "independent": true,
@@ -791,7 +791,7 @@ export let countries = [
     },
     {
         "code": "TF",
-        "name": "French Southern Territories",
+        "name": "French Southern and Antarctic Lands",
         "common_name": "French Southern Lands",
         "capital": "Saint Pierre",
         "independent": false,
@@ -921,7 +921,7 @@ export let countries = [
     },
     {
         "code": "GG",
-        "name": "Guernsey",
+        "name": "Bailiwick of Guernsey",
         "common_name": "Guernsey",
         "capital": "Saint Peter Port",
         "independent": false,
@@ -971,7 +971,7 @@ export let countries = [
     },
     {
         "code": "HM",
-        "name": "Heard Island and McDonald Islands",
+        "name": "Territory of Heard Island and McDonald Islands",
         "common_name": "Heard Island and McDonald Islands",
         "capital": null,
         "independent": false,
@@ -991,7 +991,7 @@ export let countries = [
     },
     {
         "code": "HK",
-        "name": "Hong Kong",
+        "name": "Hong Kong Special Administrative Region of the People's Republic of China",
         "common_name": "Hong Kong",
         "capital": null,
         "independent": false,
@@ -1081,7 +1081,7 @@ export let countries = [
     },
     {
         "code": "IL",
-        "name": "Israel",
+        "name": "State of Israel",
         "common_name": "Israel",
         "capital": "Jerusalem",
         "independent": true,
@@ -1131,7 +1131,7 @@ export let countries = [
     },
     {
         "code": "JE",
-        "name": "Jersey",
+        "name": "Bailiwick of Jersey",
         "common_name": "Jersey",
         "capital": "Saint Helier",
         "independent": false,
@@ -1291,7 +1291,7 @@ export let countries = [
     },
     {
         "code": "MO",
-        "name": "Macao",
+        "name": "Macao Special Administrative Region of the People's Republic of China",
         "common_name": "Macao",
         "capital": null,
         "independent": false,
@@ -1441,7 +1441,7 @@ export let countries = [
     },
     {
         "code": "MC",
-        "name": "Monaco",
+        "name": "Principality of Monaco",
         "common_name": "Monaco",
         "capital": "Monaco",
         "independent": true,
@@ -1501,7 +1501,7 @@ export let countries = [
     },
     {
         "code": "MM",
-        "name": "Myanmar",
+        "name": "Republic of the Union of Myanmar",
         "common_name": "Myanmar",
         "capital": "Naypyidaw",
         "independent": true,
@@ -1511,7 +1511,7 @@ export let countries = [
     },
     {
         "code": "NA",
-        "name": "Namibia",
+        "name": "Republic of Namibia",
         "common_name": "Namibia",
         "capital": "Windhoek",
         "independent": true,
@@ -1521,7 +1521,7 @@ export let countries = [
     },
     {
         "code": "NR",
-        "name": "Nauru",
+        "name": "Republic of Nauru",
         "common_name": "Nauru",
         "capital": "Yaren",
         "independent": true,
@@ -1541,7 +1541,7 @@ export let countries = [
     },
     {
         "code": "NL",
-        "name": "Netherlands",
+        "name": "Kingdom of the Netherlands",
         "common_name": "Netherlands",
         "capital": "Amsterdam",
         "independent": true,
@@ -1841,7 +1841,7 @@ export let countries = [
     },
     {
         "code": "BL",
-        "name": "Saint Barthélemy",
+        "name": "Collectivité territoriale de Saint Barthélemy",
         "common_name": "Saint Barthélemy",
         "capital": "Gustavia",
         "independent": false,
