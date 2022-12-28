@@ -15,7 +15,7 @@ const flagUrl = code => `https://countries.ekmwest.io/flags/${code.toLowerCase()
 const mapUrl = code => `https://countries.ekmwest.io/maps/${code.toLowerCase()}.svg`;
 
 const mapViewBox = continent => {
-    switch (continent.toLowerCase()) {
+    switch (continent?.toLowerCase()) {
         case 'africa':
             return '1100 340 600 680';
         case 'asia':
@@ -121,6 +121,12 @@ async function makeMapFiles(countries) {
 
     await Deno.mkdir(mapsSourcePath);
 
+    // World map
+    const mapPath = path.join(mapsSourcePath, 'world.svg');
+    const mapContent = createMapContent();
+    await Deno.writeTextFile(mapPath, mapContent);    
+
+    // Country maps
     for await (const country of countries) {
         const mapPath = path.join(mapsSourcePath, country.code.toLowerCase() + '.svg');
         const mapContent = createMapContent(country);
@@ -168,5 +174,5 @@ layout: country.html
 }
 
 function createMapContent(country) {
-    return `<!-- map.svg, { viewBox: "${mapViewBox(country.continent)}", code: "${country.code.toLowerCase()}" } -->`;
+    return `<!-- map.svg, { viewBox: "${mapViewBox(country?.continent)}", code: "${country?.code.toLowerCase() ?? 'world' }" } -->`;
 }
