@@ -55,6 +55,7 @@
     margin: 0 auto;
     padding: 2em;
     display: block;
+    box-sizing: border-box;
 }
 
 .is-mobile .country__map {
